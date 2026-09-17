@@ -241,6 +241,43 @@ if (!file_exists($targetDir . 'install-01.png')) {
 					</div>
 				</div>
 			</section>
+			<!-- Ceiling Sub-Categories Start -->
+			<section id="sub-categories" class="section-md" style="background-color: #ffffff; padding: 65px 0; border-top: 1px solid #eee;">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style4 mb-5">
+						<h4 class="pbmit-subtitle">CEILING PROFILES</h4>
+						<h2 class="pbmit-title">Ceiling Panel Sub-Categories</h2>
+						<div class="pbmit-heading-desc mx-auto" style="max-width: 650px;">
+							Explore our high-performance extruded PVC ceiling profiles engineered for seamless ceiling design and long-lasting durability.
+						</div>
+					</div>
+					<div class="row g-4 justify-content-center">
+						<div class="col-md-6 col-lg-4">
+							<div class="finish-card-box text-center p-4 h-100" style="background: #ffffff; border: 1px solid #e8e2d8; border-radius: 12px; transition: all 0.3s ease;">
+								<div class="pbmit-ihbox-icon mb-3" style="font-size: 32px; color: #b58a4c;">
+									<i class="pbmit-xinterio-icon pbmit-xinterio-icon-house-design"></i>
+								</div>
+								<h3 class="pbmit-portfolio-title mb-2" style="font-size: 20px; font-weight: 700; color: #33251a;">
+									Plane PVC Panel
+								</h3>
+								<p class="mb-0" style="font-size: 14px; color: #666666;">Smooth & Seamless Finish Ceiling Panel</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4">
+							<div class="finish-card-box text-center p-4 h-100" style="background: #ffffff; border: 1px solid #e8e2d8; border-radius: 12px; transition: all 0.3s ease;">
+								<div class="pbmit-ihbox-icon mb-3" style="font-size: 32px; color: #b58a4c;">
+									<i class="pbmit-xinterio-icon pbmit-xinterio-icon-axis"></i>
+								</div>
+								<h3 class="pbmit-portfolio-title mb-2" style="font-size: 20px; font-weight: 700; color: #33251a;">
+									SCIM 2 Grooves
+								</h3>
+								<p class="mb-0" style="font-size: 14px; color: #666666;">Dual Groove Extruded Ceiling Panel</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Ceiling Sub-Categories End -->
 
 
 			<!-- Ihbox Start -->

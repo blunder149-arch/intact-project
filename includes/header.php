@@ -77,20 +77,18 @@
 												<a href="ceiling.php">CEILING</a>
 												<ul>
 													<li><a href="ceiling.php">PVC Ceiling Panels</a></li>
-													<li><a href="#">Category 2</a></li>
-													<li><a href="#">Category 3</a></li>
-													<li><a href="#">Category 4</a></li>
-													<li><a href="#">Category 5</a></li>
+													<li><a href="ceiling.php#sub-categories">Plane PVC Panel</a></li>
+													<li><a href="ceiling.php#sub-categories">SCIM 2 Grooves</a></li>
 												</ul>
 											</li>
 											<li class="dropdown <?php echo ($current_page == 'walls.php') ? 'active' : ''; ?>">
 												<a href="walls.php">WALLS</a>
 												<ul>
 													<li><a href="walls.php">PVC Wall Panels</a></li>
-													<li><a href="#">Category 2</a></li>
-													<li><a href="#">Category 3</a></li>
-													<li><a href="#">Category 4</a></li>
-													<li><a href="#">Category 5</a></li>
+													<li><a href="walls.php#sub-categories">3G (3-Groove Fluted Panel)</a></li>
+													<li><a href="walls.php#sub-categories">9G (9-Groove Fluted Panel)</a></li>
+													<li><a href="walls.php#sub-categories">10G (10-Groove Fluted Panel)</a></li>
+													<li><a href="walls.php#sub-categories">Sumo Panel</a></li>
 												</ul>
 											</li>
 											<li class="<?php echo ($current_page == 'application.php') ? 'active' : ''; ?>">

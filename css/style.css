@@ -4276,9 +4276,15 @@ textarea.form-control {
 }
 
 /* Product Collection Title & Circular Arrow Badge Styling */
+.portfolio-three-slider {
+	max-width: 1020px !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
 .pbmit-portfolio-style-1 .pbmit-featured-wrapper,
 .pbmit-portfolio-style-1 .pbmit-featured-wrapper img {
-	height: 467.85px !important;
+	height: 410px !important;
 	width: 100% !important;
 	object-fit: cover !important;
 	border-radius: 30px !important;
@@ -4287,6 +4293,9 @@ textarea.form-control {
 .pbmit-portfolio-style-1 .pbminfotech-post-content {
 	border-radius: 30px !important;
 	overflow: hidden !important;
+	max-width: 320px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .pbmit-portfolio-style-1 .pbminfotech-titlebox {
@@ -4977,4 +4986,44 @@ textarea.form-control {
 	background-color: #b58a4c !important;
 	border-color: #b58a4c !important;
 	color: #ffffff !important;
-}
+}
+
+/* Site-wide Image Responsiveness & Media Scaling Overrides */
+img {
+	max-width: 100%;
+}
+
+@media (max-width: 767px) {
+	.ihbox-one-img-col .ihbox-imgbox img {
+		max-width: 100% !important;
+		width: 280px !important;
+		height: 280px !important;
+		object-fit: cover !important;
+	}
+	.pbmit-static-box-style-3 .pbmit-img img {
+		max-width: 100% !important;
+		width: 160px !important;
+		height: 160px !important;
+	}
+}
+
+@media (max-width: 575px) {
+	.ihbox-one-img-col .ihbox-imgbox img {
+		width: 220px !important;
+		height: 220px !important;
+	}
+}
+
+/* Heading Character Spacing (Letter Spacing) Fix */
+.pbmit-heading-subheading .pbmit-title,
+.pbmit-heading .pbmit-title,
+.pbmit-title,
+.pbmit-tbar-title {
+	letter-spacing: 0px !important;
+}
+
+.pbmit-subtitle {
+	letter-spacing: 1px !important;
+}
+
+

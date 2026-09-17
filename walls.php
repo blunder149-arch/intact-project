@@ -237,6 +237,65 @@
 					</div>
 				</div>
 			</section>
+			<!-- Wall Sub-Categories Start -->
+			<section id="sub-categories" class="section-md" style="background-color: #ffffff; padding: 65px 0; border-top: 1px solid #eee;">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style4 mb-5">
+						<h4 class="pbmit-subtitle">FLUTED PANELS</h4>
+						<h2 class="pbmit-title">Wall Panel Sub-Categories</h2>
+						<div class="pbmit-heading-desc mx-auto" style="max-width: 650px;">
+							Explore our specialized PVC wall panel fluted profiles designed for high durability and modern architectural aesthetic.
+						</div>
+					</div>
+					<div class="row g-4">
+						<div class="col-md-6 col-lg-3">
+							<div class="finish-card-box text-center p-4 h-100" style="background: #ffffff; border: 1px solid #e8e2d8; border-radius: 12px; transition: all 0.3s ease;">
+								<div class="pbmit-ihbox-icon mb-3" style="font-size: 32px; color: #b58a4c;">
+									<i class="pbmit-xinterio-icon pbmit-xinterio-icon-pantone"></i>
+								</div>
+								<h3 class="pbmit-portfolio-title mb-2" style="font-size: 20px; font-weight: 700; color: #33251a;">
+									3G Panel
+								</h3>
+								<p class="mb-0" style="font-size: 14px; color: #666666;">3-Groove Fluted Panel</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3">
+							<div class="finish-card-box text-center p-4 h-100" style="background: #ffffff; border: 1px solid #e8e2d8; border-radius: 12px; transition: all 0.3s ease;">
+								<div class="pbmit-ihbox-icon mb-3" style="font-size: 32px; color: #b58a4c;">
+									<i class="pbmit-xinterio-icon pbmit-xinterio-icon-axis"></i>
+								</div>
+								<h3 class="pbmit-portfolio-title mb-2" style="font-size: 20px; font-weight: 700; color: #33251a;">
+									9G Panel
+								</h3>
+								<p class="mb-0" style="font-size: 14px; color: #666666;">9-Groove Fluted Panel</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3">
+							<div class="finish-card-box text-center p-4 h-100" style="background: #ffffff; border: 1px solid #e8e2d8; border-radius: 12px; transition: all 0.3s ease;">
+								<div class="pbmit-ihbox-icon mb-3" style="font-size: 32px; color: #b58a4c;">
+									<i class="pbmit-xinterio-icon pbmit-xinterio-icon-house-design"></i>
+								</div>
+								<h3 class="pbmit-portfolio-title mb-2" style="font-size: 20px; font-weight: 700; color: #33251a;">
+									10G Panel
+								</h3>
+								<p class="mb-0" style="font-size: 14px; color: #666666;">10-Groove Fluted Panel</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3">
+							<div class="finish-card-box text-center p-4 h-100" style="background: #ffffff; border: 1px solid #e8e2d8; border-radius: 12px; transition: all 0.3s ease;">
+								<div class="pbmit-ihbox-icon mb-3" style="font-size: 32px; color: #b58a4c;">
+									<i class="pbmit-xinterio-icon pbmit-xinterio-icon-brickwall-1"></i>
+								</div>
+								<h3 class="pbmit-portfolio-title mb-2" style="font-size: 20px; font-weight: 700; color: #33251a;">
+									Sumo Panel
+								</h3>
+								<p class="mb-0" style="font-size: 14px; color: #666666;">Heavy-Duty Wall Panel</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Wall Sub-Categories End -->
 			<!-- Ihbox Start -->
 			<section style="background-color: #f8f5f0; padding: 65px 0;">
 				<div class="container">
@@ -513,7 +572,7 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-1.png" alt="Measure & Prepare">
+										<img src="images/wall-install-step-1.png" class="img-fluid" alt="Measure & Prepare">
 										<div class="pbmit-box-number">01</div>
 									</div>
 								</div>
@@ -530,7 +589,7 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-2.png" alt="Install the Frame">
+										<img src="images/wall-install-step-2.png" class="img-fluid" alt="Install the Frame">
 										<div class="pbmit-box-number">02</div>
 									</div>
 								</div>
@@ -547,7 +606,7 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-3.png" alt="Fix the Panels">
+										<img src="images/wall-install-step-3.png" class="img-fluid" alt="Fix the Panels">
 										<div class="pbmit-box-number">03</div>
 									</div>
 								</div>
@@ -564,7 +623,7 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-4.png" alt="Finish & Seal">
+										<img src="images/wall-install-step-4.png" class="img-fluid" alt="Finish & Seal">
 										<div class="pbmit-box-number">04</div>
 									</div>
 								</div>

@@ -16,14 +16,16 @@
 	<!-- Open Graph / Facebook / WhatsApp SEO -->
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="INTACT Design & Extrusion | Premium PVC Wall & Ceiling Panels">
-	<meta property="og:description" content="Transform interiors with 100% waterproof, fire-retardant, and termite-proof PVC wall and ceiling panels by INTACT. Explore collection.">
+	<meta property="og:description"
+		content="Transform interiors with 100% waterproof, fire-retardant, and termite-proof PVC wall and ceiling panels by INTACT. Explore collection.">
 	<meta property="og:image" content="images/product/wall-panel3.jpg">
 	<meta property="og:site_name" content="INTACT Design & Extrusion">
 
 	<!-- Twitter Card SEO -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="INTACT Design & Extrusion | Premium PVC Wall & Ceiling Panels">
-	<meta name="twitter:description" content="Explore India's trusted PVC wall & ceiling panel manufacturer. Waterproof, durable & stylish interior solutions.">
+	<meta name="twitter:description"
+		content="Explore India's trusted PVC wall & ceiling panel manufacturer. Waterproof, durable & stylish interior solutions.">
 	<meta name="twitter:image" content="images/product/wall-panel3.jpg">
 
 	<!-- Schema.org JSON-LD Structured Data for Google Ranking -->
@@ -82,14 +84,13 @@
 		<!-- page content -->
 		<div class="page-content">
 			<div class="pbmit-slider-area pbmit-slider-three">
-				<div class="swiper-slider" data-autoplay="true" data-autoplayspeed="6000" data-loop="true" data-dots="true" data-arrows="false"
-					data-columns="1" data-margin="0" data-effect="fade">
+				<div class="swiper-slider" data-autoplay="true" data-autoplayspeed="6000" data-loop="true"
+					data-dots="true" data-arrows="false" data-columns="1" data-margin="0" data-effect="fade">
 					<div class="swiper-wrapper">
 						<!-- Slide1 -->
 						<div class="swiper-slide">
 							<div class="pbmit-slider-item">
-								<div class="pbmit-slider-bg"
-									style="background-image: url(images/slider-1.png);"></div>
+								<div class="pbmit-slider-bg" style="background-image: url(images/slider-1.png);"></div>
 								<div class="container">
 									<div class="row justify-content-center">
 										<div class="col-lg-10 text-center">
@@ -116,8 +117,7 @@
 						<!-- Slide2 -->
 						<div class="swiper-slide">
 							<div class="pbmit-slider-item">
-								<div class="pbmit-slider-bg"
-									style="background-image: url(images/slider-2.png);"></div>
+								<div class="pbmit-slider-bg" style="background-image: url(images/slider-2.png);"></div>
 								<div class="container">
 									<div class="row justify-content-center">
 										<div class="col-lg-10 text-center">
@@ -151,28 +151,27 @@
 						<div class="col-lg-5">
 							<div class="about-three-img1">
 								<div class="pbmit-animation-style7 active">
-									<img src="images/product/home1.jpg" class="img-fluid" alt="celling-panel image" style="width: 100%; height: 471px; object-fit: cover;  ">
+									<img src="images/product/home1.jpg" class="img-fluid" alt="celling-panel image"
+										style="width: 100%; height: 471px; object-fit: cover;  ">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-7">
 							<div class="pbmit-heading-subheading animation-style2">
 								<h4 class="pbmit-subtitle">KNOW US BETTER</h4>
-								<h2 class="pbmit-title">Premium PVC Wall & Ceiling Panels</h2>
+								<h2 class="pbmit-title">Manufacturing Premium PVC Wall & Ceiling Panels</h2>
 							</div>
 							<div class="pbmit-heading-desc mt-3" align="justify">
-								We are INTACT Design & Extrusion — a trusted manufacturer of premium PVC wall and
-								ceiling panels, helping transform ordinary interiors into extraordinary spaces. With
-								years of experience in
-								design and production, our team combines advanced manufacturing technology with
-								attention to detail to create panels that are both functional and beautiful. From
-								concept to production, every panel we make reflects our commitment to quality,
-								innovation, and customer satisfaction.<br><br>Our wide range of PVC wall panels and
-								ceiling panels is designed to suit every style and space — from modern minimalist
-								interiors to bold, statement-making designs. Ideal for homes, offices, and commercial
-								spaces, we work closely with architects, designers, and homeowners to bring their vision
-								to life, offering solutions that are not only beautiful but also durable, waterproof,
-								and easy to install.
+								We are INTACT Design & Extrusion — a manufacturer of premium PVC wall and ceiling
+								panels, dedicated to transforming ordinary interiors into extraordinary spaces. Our team
+								combines advanced manufacturing technology with attention to detail to create panels
+								that are both functional and beautiful. From concept to production, every panel we make
+								reflects our commitment to quality, innovation, and customer satisfaction.<br><br>Our
+								wide range of PVC wall panels and ceiling panels is designed to suit every style and
+								space — from modern minimalist interiors to bold, statement-making designs. Ideal for
+								homes, offices, and commercial spaces, we work closely with architects, designers, and
+								homeowners to bring their vision to life, offering solutions that are not only beautiful
+								but also durable, waterproof, and easy to install.
 							</div>
 							<div class="row g-4">
 								<div class="col-md-6">
@@ -216,7 +215,7 @@
 					</div>
 				</div>
 			</section>
-			<!--Feature section-->
+			<!--Feature section-->	
 
 			<!-- Portfolio Start -->
 			<section class="section-xl">
@@ -860,8 +859,8 @@
 													<div class="pbmit-service-image-wrapper">
 														<div class="pbmit-featured-img-wrapper">
 															<div class="pbmit-featured-wrapper">
-																<img src="images/product/a3.jpg"
-																	class="img-fluid" alt="Corporate Offices">
+																<img src="images/product/a3.jpg" class="img-fluid"
+																	alt="Corporate Offices">
 															</div>
 														</div>
 													</div>
@@ -897,7 +896,8 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/lightweight1.jpg" class="img-fluid" alt="Drawing Room">
+											<img src="images/product/lightweight1.jpg" class="img-fluid"
+												alt="Drawing Room">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -942,7 +942,8 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/retailstore.jpg" class="img-fluid" alt="Retail Stores">
+											<img src="images/product/retailstore.jpg" class="img-fluid"
+												alt="Retail Stores">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -995,9 +996,12 @@
 						<div class="pbmit-cta-divider mx-auto mb-4"></div>
 						<h2 class="pbmit-cta-title">Ready to Transform Your Space?</h2>
 						<p class="pbmit-cta-desc mx-auto">
-							Discover premium PVC Wall &amp; Ceiling Panels engineered for modern architecture. Contact INTACT Design &amp; Extrusion today for product catalogues, dealer inquiries, project support, and customized solutions.
+							Discover premium PVC Wall &amp; Ceiling Panels engineered for modern architecture. Contact
+							INTACT Design &amp; Extrusion today for product catalogues, dealer inquiries, project
+							support, and customized solutions.
 						</p>
-						<div class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
+						<div
+							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
 							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
 								<span>Download Catalogue</span>
 							</a>
