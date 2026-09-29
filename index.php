@@ -172,7 +172,7 @@
 								homes, offices, and commercial spaces, we work closely with architects, designers, and
 								homeowners to bring their vision to life, offering solutions that are not only beautiful
 								but also durable, waterproof, and easy to install.
-							</div>
+							</div><br><br>
 							<div class="row g-4">
 								<div class="col-md-6">
 									<ul class="list-group list-group-borderless">
@@ -215,17 +215,17 @@
 					</div>
 				</div>
 			</section>
-			<!--Feature section-->	
+			<!--Feature section-->
 
 			<!-- Portfolio Start -->
 			<section class="section-xl">
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style2">
 						<h4 class="pbmit-subtitle">Our Product Collection</h4>
-						<h2 class="pbmit-title">PVC Panels Engineered for Modern Interiors</h2>
+						<h2 class="pbmit-title">Precision-Manufactured PVC Wall & Ceiling Panels</h2>
 					</div>
 					<div class="swiper-slider portfolio-three-slider" data-autoplay="true" data-loop="true"
-						data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
+						data-arrows="false" data-columns="3.5" data-margin="30" data-effect="slide">
 						<div class="swiper-wrapper">
 							<!-- Slide1 -->
 							<article class="pbmit-portfolio-style-1 swiper-slide">
@@ -373,16 +373,15 @@
 
 			<!--Why choose us section -->
 			<section class="section-xl ihbox-section-two pbmit-bg-color-light">
-				<div class="container-fluid p-0">
+				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">Why We're Different</h4>
-						<h2 class="pbmit-title">Designed for Better Interiors</h2>
+						<h4 class="pbmit-subtitle">HOW WE MANUFACTURE</h4>
+						<h2 class="pbmit-title">Manufactured for Performance</h2>
 					</div>
-					<div class="swiper-slider" data-autoplay="false" data-loop="true" data-dots="false"
-						data-arrows="false" data-columns="4" data-margin="30" data-effect="slide">
-						<div class="swiper-wrapper">
-							<!-- Slide1 -->
-							<article class="pbmit-miconheading-style-7 swiper-slide">
+					<div class="row">
+						<!-- Card 1 -->
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<article class="pbmit-miconheading-style-7">
 								<div class="pbmit-ihbox-style-7">
 									<div class="pbmit-ihbox-box">
 										<div class="pbmit-icon-wrapper d-flex align-items-center">
@@ -400,14 +399,16 @@
 											</div>
 										</div>
 										<div class="pbmit-content-wrapper">
-											<div class="pbmit-heading-desc" text-align="justify">Choose from wood,
-												marble, matte, and metallic finishes for any interior style.</div>
+											<div class="pbmit-heading-desc">We manufacture PVC panels in wood, marble,
+												matte, and metallic finishes for every style.</div>
 										</div>
 									</div>
 								</div>
 							</article>
-							<!-- Slide2 -->
-							<article class="pbmit-miconheading-style-7 swiper-slide">
+						</div>
+						<!-- Card 2 -->
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<article class="pbmit-miconheading-style-7">
 								<div class="pbmit-ihbox-style-7">
 									<div class="pbmit-ihbox-box">
 										<div class="pbmit-icon-wrapper d-flex align-items-center">
@@ -425,16 +426,16 @@
 											</div>
 										</div>
 										<div class="pbmit-content-wrapper">
-											<div class="pbmit-heading-desc" text-align="justify">Our PVC wall and
-												ceiling
-												panels resist moisture, termites, and fire — built for Indian weather.
-											</div>
+											<div class="pbmit-heading-desc">Every PVC panel we manufacture resists
+												moisture, termites, and fire — for India's weather.</div>
 										</div>
 									</div>
 								</div>
 							</article>
-							<!-- Slide3 -->
-							<article class="pbmit-miconheading-style-7 swiper-slide">
+						</div>
+						<!-- Card 3 -->
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<article class="pbmit-miconheading-style-7">
 								<div class="pbmit-ihbox-style-7">
 									<div class="pbmit-ihbox-box">
 										<div class="pbmit-icon-wrapper d-flex align-items-center">
@@ -452,15 +453,16 @@
 											</div>
 										</div>
 										<div class="pbmit-content-wrapper">
-											<div class="pbmit-heading-desc" text-align="justify">No painting or
-												polishing needed. Just install and enjoy long-lasting, easy-to-clean
-												surfaces.</div>
+											<div class="pbmit-heading-desc">We manufacture panels that need no painting
+												or polishing - just install and enjoy lasting results.</div>
 										</div>
 									</div>
 								</div>
 							</article>
-							<!-- Slide4 -->
-							<article class="pbmit-miconheading-style-7 swiper-slide">
+						</div>
+						<!-- Card 4 -->
+						<div class="col-md-6 col-lg-3">
+							<article class="pbmit-miconheading-style-7">
 								<div class="pbmit-ihbox-style-7">
 									<div class="pbmit-ihbox-box">
 										<div class="pbmit-icon-wrapper d-flex align-items-center">
@@ -478,34 +480,8 @@
 											</div>
 										</div>
 										<div class="pbmit-content-wrapper">
-											<div class="pbmit-heading-desc" text-align="justify">Lightweight yet strong
-												panels that install faster than traditional materials.</div>
-										</div>
-									</div>
-								</div>
-							</article>
-							<!-- Slide5 -->
-							<article class="pbmit-miconheading-style-7 swiper-slide">
-								<div class="pbmit-ihbox-style-7">
-									<div class="pbmit-ihbox-box">
-										<div class="pbmit-icon-wrapper d-flex align-items-center">
-											<div class="pbmit-ihbox-icon">
-												<div class="pbmit-ihbox-icon-wrapper">
-													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-														<i class="pbmit-xinterio-icon pbmit-xinterio-icon-premium"></i>
-													</div>
-												</div>
-											</div>
-											<div class="pbmit-title-wrap">
-												<h2 class="pbmit-element-title">
-													Premium Panel Craftsmanship
-												</h2>
-											</div>
-										</div>
-										<div class="pbmit-content-wrapper">
-											<div class="pbmit-heading-desc" text-align="justify">Every panel is crafted
-												with
-												meticulous attention to finish, texture, and durability.</div>
+											<div class="pbmit-heading-desc">Every panel we manufacture is lightweight
+												yet strong, built for faster, hassle-free installation.</div>
 										</div>
 									</div>
 								</div>
@@ -749,7 +725,7 @@
 			<!-- Technical Specifications Table Section End -->
 
 			<!-- Service Start -->
-			<section class="pbmit-extend-animation section-xl pbmit-bg-color-secondary service-three">
+			<section class="section-xl pbmit-bg-color-secondary service-three">
 				<div class="container pbmit-col-stretched-yes pbmit-col-right">
 					<div class="pbmit-col-stretched-right">
 						<div class="row">
@@ -757,12 +733,12 @@
 								<div>
 									<div class="pbmit-heading-subheading animation-style2">
 										<h4 class="pbmit-subtitle">Panel Applications</h4>
-										<h2 class="pbmit-title">PVC Panels for Every Space</h2>
+										<h2 class="pbmit-title">Manufactured for Every Space</h2>
 										<div class="pbmit-heading-desc" text-align="justify">
-											Our PVC wall and ceiling panels are engineered for homes, offices, hotels,
-											and commercial spaces. From building facades to interior walls, INTACT
-											panels combine durability, style, and easy installation for every
-											application.
+											We manufacture PVC wall and ceiling panels engineered for homes, offices,
+											hotels, and commercial spaces. From building facades to interior walls,
+											every panel is precision-manufactured for durability, style, and easy
+											installation.
 										</div>
 									</div>
 								</div>
@@ -996,18 +972,19 @@
 						<div class="pbmit-cta-divider mx-auto mb-4"></div>
 						<h2 class="pbmit-cta-title">Ready to Transform Your Space?</h2>
 						<p class="pbmit-cta-desc mx-auto">
-							Discover premium PVC Wall &amp; Ceiling Panels engineered for modern architecture. Contact
-							INTACT Design &amp; Extrusion today for product catalogues, dealer inquiries, project
-							support, and customized solutions.
+							We manufacture premium PVC Wall & Ceiling Panels engineered for modern architecture. Contact
+							INTACT Design & Extrusion for product catalogues, dealer inquiries, and custom manufacturing
+							solutions.
 						</p>
 						<div
 							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
-							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
-								<span>Download Catalogue</span>
-							</a>
 							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
 								<span>Get in Touch</span>
 							</a>
+							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+								<span>Download Catalogue</span>
+							</a>
+							
 						</div>
 					</div>
 				</div>

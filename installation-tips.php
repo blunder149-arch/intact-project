@@ -4,12 +4,19 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>PVC Panel Installation Tips & Guide | INTACT</title>
+	<title>PVC Panel Installation Tips & Guide | INTACT Design & Extrusion</title>
 	<meta name="description" content="Learn easy PVC wall and ceiling panel installation tips for accurate fitting, a professional finish and long-lasting results with INTACT panels.">
 	<meta name="robots" content="index, follow">
+	<meta name="keywords" content="PVC panel installation, PVC installation guide, wall panel fitting, ceiling panel installation, panel installation tips">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Space+Grotesk:wght@300..700&display=swap"
+		rel="stylesheet">
 	<!-- CSS
 			============================================ -->
 	<!-- Bootstrap CSS -->
@@ -51,13 +58,13 @@
 		<!-- page content -->
 		<div class="page-content">
 			
-			  <div class="bg7">
+			<div class="pbmit-title-bar-wrapper bg7">
 				<div class="container">
 					<div class="pbmit-title-bar-content">
 						<div class="pbmit-title-bar-content-inner">
 							<div class="pbmit-tbar">
 								<div class="pbmit-tbar-inner container">
-									<h1 class="pbmit-tbar-title">Perfect Installation Starts Here</h1>
+									<h1 class="pbmit-tbar-title">Installation</h1>
 								</div>
 							</div>
 							<div class="pbmit-breadcrumb">
@@ -77,182 +84,169 @@
 							</div>
 						</div>
 					</div> 
-				</div> 
+				</div> 	
 			</div>
 			
-			<br>
-			<br>
-			<!-- Static Box Start -->
-            <section class="pbmit-element-static-box-style-2">
+			<section class="section-xl">
 				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">Install with Confidence</h4>
-						<h2 class="pbmit-title">Simple Tips for a Smooth Panel Installation</h2>
+					<div class="pbmit-heading-subheading text-center animation-style2 mb-5">
+						<h4 class="pbmit-subtitle">PANEL INSTALLATION</h4>
+						<h2 class="pbmit-title">Guide to Proper Panel Installation</h2>
 					</div>
-					<div class="row g-4">
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-blueprint"></i>
-												</div>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Site Check</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc" align="justify">Inspect walls or ceiling slabs for undulations, moisture, or structural irregularities before starting.</div>
-									</div>
-								</div>
+					<div class="row align-items-center g-4">
+						<!-- Left Column: Image -->
+						<div class="col-lg-5 col-md-12">
+							<div class="installation-left-img">
+								<img src="images/product/about1.jpg" class="img-fluid w-100" style="height: 399px; object-fit: cover; alt="PVC Panel Installation Guide">
 							</div>
 						</div>
-
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-axis"></i>
-												</div>
-											</div>
+						<!-- Right Column: 4 Installation Steps -->
+						<div class="col-lg-7 col-md-12 ps-lg-4">
+							<div class="row g-3">
+								<!-- Step 1 -->
+								<div class="col-md-6">
+									<div class="p-4 bg-white rounded-3 shadow-sm h-100 border">
+										<div class="d-flex align-items-center mb-3">
+											<span class="badge bg-warning text-dark me-3 fs-6 px-3 py-2 fw-bold" style="background-color: #bb9a65 !important; color: #fff !important;">01</span>
+											<h3 class="pbmit-element-title mb-0 fs-5">Prepare the Surface</h3>
 										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Perimeter Profile</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc" align="justify">Fix the U-trim, corner L-angle, or crown molding along the room's edges to frame the installation.</div>
+										<p class="pbmit-heading-desc mb-0 small text-muted">
+											Clean the installation area thoroughly, removing all dust, dirt, grease, or loose material. Ensure the surface is dry and stable before panel fixing.
+										</p>
 									</div>
 								</div>
-							</div>
-						</div>
-
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-tools"></i>
-												</div>
-											</div>
+								<!-- Step 2 -->
+								<div class="col-md-6">
+									<div class="p-4 bg-white rounded-3 shadow-sm h-100 border">
+										<div class="d-flex align-items-center mb-3">
+											<span class="badge bg-warning text-dark me-3 fs-6 px-3 py-2 fw-bold" style="background-color: #bb9a65 !important; color: #fff !important;">02</span>
+											<h3 class="pbmit-element-title mb-0 fs-5">Measure the Area</h3>
 										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Cutting & Fitting</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc" align="justify">Measure openings for switches, vents, or fixtures precisely and cut panels with a fine-tooth saw.</div>
+										<p class="pbmit-heading-desc mb-0 small text-muted">
+											Measure the wall or ceiling carefully before starting. Accurate measurements help correctly calculate the exact required number of PVC panels.
+										</p>
 									</div>
 								</div>
-							</div>
-						</div>
-
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-brickwall"></i>
-												</div>
-											</div>
+								<!-- Step 3 -->
+								<div class="col-md-6">
+									<div class="p-4 bg-white rounded-3 shadow-sm h-100 border">
+										<div class="d-flex align-items-center mb-3">
+											<span class="badge bg-warning text-dark me-3 fs-6 px-3 py-2 fw-bold" style="background-color: #bb9a65 !important; color: #fff !important;">03</span>
+											<h3 class="pbmit-element-title mb-0 fs-5">Plan the Layout</h3>
 										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Final Finishing</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc" align="justify">Cap exposed edges with matching trims, wipe panels, and inspect surface for gaps or misalignment.</div>
+										<p class="pbmit-heading-desc mb-0 small text-muted">
+											Plan the panel arrangement in advance, factoring in corners, edges, doors, windows and lights for a balanced overall layout with fewer cuts.
+										</p>
 									</div>
 								</div>
-							</div>
-						</div>
-				</div>
-            </section>
-            <!-- Static Box End -->
-			
-			<!-- Portfolio Start -->
-			<section class="section-xl pbmit-sortable-yes">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12 col-xl-7">
-							<div class="pbmit-heading-subheading">
-								<h2 class="pbmit-title">See Our Work in Action</h2>
+								<!-- Step 4 -->
+								<div class="col-md-6">
+									<div class="p-4 bg-white rounded-3 shadow-sm h-100 border">
+										<div class="d-flex align-items-center mb-3">
+											<span class="badge bg-warning text-dark me-3 fs-6 px-3 py-2 fw-bold" style="background-color: #bb9a65 !important; color: #fff !important;">04</span>
+											<h3 class="pbmit-element-title mb-0 fs-5">Fix the Panels</h3>
+										</div>
+										<p class="pbmit-heading-desc mb-0 small text-muted">
+											Position each PVC panel firmly against the prepared surface and press into place. Ensure proper alignment before moving to the next panel.
+										</p>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-					<div class="pbmit-element-posts-wrapper row g-0 pbmit-column-three">
-						<article class="pbmit-ele pbmit-portfolio-style-5 bedroom col-md-4">
-							<div class="pbminfotech-post-content">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/product/insta1.jpg" class="img-fluid" alt="Image">
-									</div>
-								</div>
-							</div>
-						</article>
-						<article class="pbmit-ele pbmit-portfolio-style-5 furniture col-md-4">
-							<div class="pbminfotech-post-content">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/product/insta2.jpg" class="img-fluid" alt="Image">
-									</div>
-								</div>
-							</div>
-						</article>
-						<article class="pbmit-ele pbmit-portfolio-style-5 interior col-md-4">
-							<div class="pbminfotech-post-content">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/product/insta3.jpg" class="img-fluid" alt="Image">
-									</div>
-								</div>
-							</div>
-						</article>
-						<article class="pbmit-ele pbmit-portfolio-style-5 kitchen col-md-4">
-							<div class="pbminfotech-post-content">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/product/insta6.jpg" class="img-fluid" alt="Image">
-									</div>
-								</div>
-							</div>
-						</article>
-						<article class="pbmit-ele pbmit-portfolio-style-5 bedroom col-md-4">
-							<div class="pbminfotech-post-content">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/product/insta5.jpg" class="img-fluid" alt="Image">
-									</div>
-								</div>
-							</div>
-						</article>
-						<article class="pbmit-ele pbmit-portfolio-style-5 architecture col-md-4">
-							<div class="pbminfotech-post-content">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/product/insta4.jpg" class="img-fluid" alt="Image">
-									</div>
-								</div>
-							</div>
-						</article>
-					</div>
 			</section>
-			<!-- Portfolio End -->
 			
+			<!-- Portfolio Start --> 
+			<section class="section-xl portfolio-two pbmit-bg-color-light">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style2 mb-5">
+						<h4 class="pbmit-subtitle">OUR WORK</h4>
+						<h2 class="pbmit-title">Explore Our Panel Installations</h2>
+					</div><br><br>
+					<div class="swiper-slider mt-4" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="4" data-margin="30" data-effect="slide">
+						<div class="swiper-wrapper align-items-center">
+							<!-- Slide1 -->
+							<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 swiper-slide">
+								<div class="pbminfotech-post-content">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/product/insta2.jpg" class="img-fluid" alt="Wall Panel Image ">
+										</div>
+									</div>
+								</div>
+							</article>
+							<!-- Slide2 -->
+							<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 swiper-slide">
+								<div class="pbminfotech-post-content">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/product/insta1.jpg" class="img-fluid" alt="Celling Image">
+										</div>
+									</div>
+								</div>
+							</article>
+							<!-- Slide3 -->
+							<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 swiper-slide">
+								<div class="pbminfotech-post-content">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/product/insta4.jpg" class="img-fluid" alt="Wall & Celling Image">
+										</div>
+									</div>
+								</div>
+							</article>
+							<!-- Slide4 -->
+							<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 swiper-slide">
+								<div class="pbminfotech-post-content">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/product/insta3.jpg" class="img-fluid" alt="Celling Image">
+										</div>
+									</div>
+								</div>
+							</article>
+							<!-- Slide5 -->
+							<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 swiper-slide">
+								<div class="pbminfotech-post-content">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/product/insta5.jpg" class="img-fluid" alt="wall Panel Image">
+										</div>
+									</div>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Portfolio End --> 
 		</div>
 		<!-- page content End -->
+
+		<!-- Final CTA Section Start -->
+			<section class="section-xl pbmit-final-cta-section">
+				<div class="container">
+					<div class="pbmit-final-cta-inner text-center">
+						<div class="pbmit-cta-divider mx-auto mb-4"></div>
+						<h2 class="pbmit-cta-title">Need Help With Installation?</h2>
+						<p class="pbmit-cta-desc mx-auto">
+							Our team can guide you through the process — from planning to the final finish.
+						</p>
+						<div
+							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
+							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+								<span>Get in Touch</span>
+							</a>
+							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+								<span>Download Catalogue</span>
+							</a>
+
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Final CTA Section End -->
 			
 		<!-- footer -->
 		<?php require('includes/footer.php'); ?>

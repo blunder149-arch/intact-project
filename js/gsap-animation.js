@@ -28,25 +28,28 @@ function getpercentage(x, y, elm) {
 function pbmit_title_animation() {
 
 	ScrollTrigger.matchMedia({
-		"(min-width: 1025px)": function() {
+		"(min-width: 1px)": function() {
 
-		var pbmit_var = jQuery('.pbmit-heading, .pbmit-heading-subheading');
-		if (!pbmit_var.length) {
-			return;
-		}
-		const quotes = document.querySelectorAll(".pbmit-heading-subheading .pbmit-title, .pbmit-heading .pbmit-title");
+			var pbmit_var = jQuery('.pbmit-heading, .pbmit-heading-subheading');
+			if (!pbmit_var.length) {
+				return;
+			}
+			const quotes = document.querySelectorAll(".pbmit-heading-subheading .pbmit-title, .pbmit-heading-subheading .pbmit-subtitle, .pbmit-heading .pbmit-title, .pbmit-heading .pbmit-subtitle");
 
 			quotes.forEach(quote => {
 
 				//Reset if needed
 				if (quote.animation) {
 					quote.animation.progress(1).kill();
-					quote.split.revert();
+					if (quote.split) quote.split.revert();
 				}
 
-				var getclass = quote.closest('.pbmit-heading-subheading, .pbmit-heading').className;
-				var animation = getclass.split('animation-');
-				if (animation[1] == "style4") return
+				var closestContainer = quote.closest('.pbmit-heading-subheading, .pbmit-heading');
+				if (!closestContainer) return;
+
+				var getclass = closestContainer.className;
+				var animationMatch = getclass.split('animation-');
+				var animType = (animationMatch.length > 1) ? animationMatch[1].split(' ')[0] : 'style2';
 
 				quote.split = new SplitText(quote, {
 					type: "lines,words,chars",
@@ -54,28 +57,33 @@ function pbmit_title_animation() {
 				});
 				gsap.set(quote, { perspective: 400 });
 
-				if (animation[1] == "style1") {
+				if (animType == "style1") {
 					gsap.set(quote.split.chars, {
 						opacity: 0,
 						y: "90%",
 						rotateX: "-40deg"
 					});
-				}
-				if (animation[1] == "style2") {
+				} else if (animType == "style4") {
+					gsap.set(quote.split.chars, {
+						opacity: 0,
+						y: "40px",
+						rotateX: "20deg"
+					});
+				} else if (animType == "style3") {
+					gsap.set(quote.split.chars, {
+						opacity: 0,
+					});
+				} else { // style2 or default
 					gsap.set(quote.split.chars, {
 						opacity: 0,
 						x: "50"
 					});
 				}
-				if (animation[1] == "style3") {
-					gsap.set(quote.split.chars, {
-						opacity: 0,
-					});
-				}
+
 				quote.animation = gsap.to(quote.split.chars, {
 					scrollTrigger: {
 						trigger: quote,
-						start: "top 90%",
+						start: "top 92%",
 					},
 					x: "0",
 					y: "0",

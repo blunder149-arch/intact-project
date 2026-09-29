@@ -6,7 +6,8 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>PVC Wall & Ceiling Panel Applications | INTACT</title>
 	<meta name="robots" content="index, follow">
-	<meta name="description" content="Explore PVC wall and ceiling panel applications for homes, hotels, offices and commercial spaces. Discover stylish, durable solutions from INTACT.">
+	<meta name="description"
+		content="Explore PVC wall and ceiling panel applications for homes, hotels, offices and commercial spaces. Discover stylish, durable solutions from INTACT.">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
@@ -68,311 +69,480 @@
 									<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
 									</span>
-									<span><span class="post-root post post-post current-item" aria-current="page">Application</span></span>
+									<span><span class="post-root post post-post current-item"
+											aria-current="page">Application</span></span>
 								</div>
 							</nav>
 						</div>
 					</div>
 				</div>
 			</div>
-
-			<!-- Residential Interiors -->
-			<section class="section-xl" aria-labelledby="app-residential-title">
+			<!-- Tab Start -->
+			<section class="section-xl">
 				<div class="container">
-					<div class="row g-0">
-						<div class="col-md-12 col-xl-7">
-							<div class="about-two-content">
-								<div class="pbmit-heading-subheading animation-style3">
-									<h4 class="pbmit-subtitle">Residential Panel Solutions</h4>
-									<h2 class="pbmit-title">Transform Your Home with Stylish Panels</h2>
-									<div class="pbmit-heading-desc" align="justify">
-										Give your living spaces a refined, contemporary look with our premium PVC panels, engineered for strength and everyday performance. We've made sure they're resistant to warping, cracking, and fading, so they stay elegant even under daily wear for years to come.
-									</div>
-									<br>
-									<div class="pbmit-heading-desc" align="justify">
-										Lightweight, easy to install, and requiring virtually no maintenance, these panels are a smart choice for every modern interior. Available in a wide range of designs and finishes, they let you personalize each room while ensuring lasting durability and value. Whether you're renovating a home or upgrading a commercial space, these panels offer a hassle-free way to achieve a clean, polished look that lasts.
+					<div class="pbmit-tab style-2">
+						<div
+							class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-end mb-4 gap-3">
+							<div class="pbmit-heading-subheading text-start animation-style2 mb-0">
+								<h4 class="pbmit-subtitle">EXPLORE BY SPACE</h4>
+								<h2 class="pbmit-title mb-0">Spaces That <span style="color: #b58a4c;">Inspire</span>
+								</h2>
+							</div>
+							<ul class="nav nav-tabs mb-0" role="tablist">
+								<li class="nav-item" role="presentation">
+									<a class="nav-link active" data-bs-toggle="tab" href="#tab-2-1" aria-selected="true"
+										role="tab">
+										<span>Homes</span>
+									</a>
+								</li>
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" data-bs-toggle="tab" href="#tab-2-2" aria-selected="false"
+										role="tab" tabindex="-1">
+										<span>Corporate</span>
+									</a>
+								</li>
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" data-bs-toggle="tab" href="#tab-2-3" aria-selected="false"
+										role="tab" tabindex="-1">
+										<span>Hospitality</span>
+									</a>
+								</li>
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" data-bs-toggle="tab" href="#tab-2-4" aria-selected="false"
+										role="tab" tabindex="-1">
+										<span>Religious Places</span>
+									</a>
+								</li>
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" data-bs-toggle="tab" href="#tab-2-5" aria-selected="false"
+										role="tab" tabindex="-1">
+										<span>Commercial</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+
+						<div class="tab-content">
+							<div class="tab-pane show active" id="tab-2-1" role="tabpanel">
+								<div class="pbmit-column-inner">
+									<div class="row g-0">
+										<div class="col-xl-7 col-md-12 pbmit-tab-inner-content">
+											<div class="pbmit-tab-heading">
+												<h3>Perfect for Every Home.</h3>
+											</div>
+											<div class="pbmit-tab-desc">Our PVC wall and ceiling panels are ideal for
+												homes — waterproof, termite-proof, and easy to install. Perfect for
+												living rooms, bedrooms, kitchens, and bathrooms, they add style without
+												extra maintenance.</div>
+
+											<ul class="list-group list-group-borderless">
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Waterproof — safe for kitchens
+														and bathrooms</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Termite & fire resistant —
+														long-lasting protection</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Easy to install — no mess, no
+														delay</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Available in wood, marble, and
+														metallic finishes</span>
+												</li>
+											</ul>
+											<a class="pbmit-btn pbmit-btn-outline" href="#">
+												<span class="pbmit-button-content-wrapper">
+													<span class="pbmit-button-text">Our Services</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-xl-5 col-md-12 pbmit-tab-image-wrap">
+											<img src="images/home.png" class="img-fluid" alt="">
+										</div>
 									</div>
 								</div>
+							</div>
+							<div class="tab-pane" id="tab-2-2" role="tabpanel">
+								<div class="pbmit-column-inner">
+									<div class="row g-0">
+										<div class="col-xl-7 col-md-12 pbmit-tab-inner-content">
+											<div class="pbmit-tab-heading">
+												<h3>Ideal for Corporate Spaces.</h3>
+											</div>
+											<div class="pbmit-tab-desc">From boardrooms to open workstations, INTACT PVC
+												panels give office interiors a clean, modern finish. Built to handle
+												daily wear, they need no repainting or upkeep — just lasting performance
+												in every corporate space.</div>
 
-							<!-- Circular Fids - Horizontal Layout -->
-							<div class="row pbmit-fid-style-one">
-								<div class="col-md-6">
-									<div class="pbminfotech-ele-fid-style-1 mb-2">
-										<div class="pbmit-fld-contents d-flex align-items-center">
-											<div class="pbmit-circle-outer" data-digit="100" data-fill="#bb9a65" data-emptyfill="" data-before="" data-after="<span>%</span>" data-thickness="1" data-size="127">
-												<div class="pbmit-circle">
-													<div class="pbmit-fid-inner">
-														<span class="pbmit-fid-before"></span>
-														<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="100" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">100</span>
-														<span class="pbmit-fid"><span>%</span></span>
+											<ul class="list-group list-group-borderless">
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Sleek, modern finish for
+														professional spaces</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Zero maintenance — saves time and
+														cost</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Fire-retardant for added
+														workplace safety</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Fast installation with minimal
+														disruption</span>
+												</li>
+											</ul>
+											<a class="pbmit-btn pbmit-btn-outline" href="#">
+												<span class="pbmit-button-content-wrapper">
+													<span class="pbmit-button-text">Our Services</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-xl-5 col-md-12 pbmit-tab-image-wrap">
+											<img src="images/corporate.png" class="img-fluid" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="tab-2-3" role="tabpanel">
+								<div class="pbmit-column-inner">
+									<div class="row g-0">
+										<div class="col-xl-7 col-md-12 pbmit-tab-inner-content">
+											<div class="pbmit-tab-heading">
+												<h3>Designed for Hospitality Spaces</h3>
+											</div>
+											<div class="pbmit-tab-desc">Hotels and resorts demand both style and
+												durability — and INTACT PVC panels deliver both. Resistant to moisture
+												and daily foot traffic, they keep lobbies, corridors, and guest rooms
+												looking premium for years, with none of the upkeep.</div>
+
+											<ul class="list-group list-group-borderless">
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Premium wood, marble, and
+														metallic finishes</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Moisture-resistant — ideal for
+														humid climates</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Withstands heavy daily use</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Long-lasting shine with zero
+														upkeep</span>
+												</li>
+											</ul>
+											<a class="pbmit-btn pbmit-btn-outline" href="#">
+												<span class="pbmit-button-content-wrapper">
+													<span class="pbmit-button-text">Our Services</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-xl-5 col-md-12 pbmit-tab-image-wrap">
+											<img src="images/hospitality.png" class="img-fluid" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="tab-2-4" role="tabpanel">
+								<div class="pbmit-column-inner">
+									<div class="row g-0">
+										<div class="col-xl-7 col-md-12 pbmit-tab-inner-content">
+											<div class="pbmit-tab-heading">
+												<h3>Suited for Religious Spaces.</h3>
+											</div>
+											<div class="pbmit-tab-desc">Temples, churches, and community halls need
+												materials that are both respectful in design and built to last. INTACT
+												PVC panels offer elegant wood and marble finishes, standing strong
+												against daily footfall and years of use — without frequent repairs.
+											</div>
+
+											<ul class="list-group list-group-borderless">
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Elegant wood and marble-finish
+														options</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Durable — built for high-footfall
+														spaces</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Termite and fire-resistant for
+														safety</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Low maintenance for long-term
+														upkeep</span>
+												</li>
+											</ul>
+											<a class="pbmit-btn pbmit-btn-outline" href="#">
+												<span class="pbmit-button-content-wrapper">
+													<span class="pbmit-button-text">Our Services</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-xl-5 col-md-12 pbmit-tab-image-wrap">
+											<img src="images/religious-palaces.png" class="img-fluid" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tab-pane" id="tab-2-5" role="tabpanel">
+								<div class="pbmit-column-inner">
+									<div class="row g-0">
+										<div class="col-xl-7 col-md-12 pbmit-tab-inner-content">
+											<div class="pbmit-tab-heading">
+												<h3>Built for Commercial Spaces</h3>
+											</div>
+											<div class="pbmit-tab-desc">Retail stores, showrooms, and commercial
+												buildings see constant footfall — and INTACT PVC panels are made to
+												handle it. Scratch-resistant and easy to clean, they keep storefronts
+												and interiors looking sharp with minimal upkeep.</div>
+
+											<ul class="list-group list-group-borderless">
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Experienced, time-served
+														engineers</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Easy to clean and maintain</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Wide range of modern
+														finishes</span>
+												</li>
+												<li class="list-group-item">
+													<span class="pbmit-icon-list-icon">
+														<i aria-hidden="true" class="ti-check"></i>
+													</span>
+													<span class="pbmit-icon-list-text">Fire-retardant for commercial
+														safety standards</span>
+												</li>
+											</ul>
+											<a class="pbmit-btn pbmit-btn-outline" href="#">
+												<span class="pbmit-button-content-wrapper">
+													<span class="pbmit-button-text">Our Services</span>
+												</span>
+											</a>
+										</div>
+										<div class="col-xl-5 col-md-12 pbmit-tab-image-wrap">
+											<img src="images/commercial.png" class="img-fluid" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Tab End -->
+
+			<section class="section-xl ihbox-section-two pbmit-bg-color-light">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style2">
+						<h4 class="pbmit-subtitle">WHY IT WORKS</h4>
+						<h2 class="pbmit-title">Why Our PVC Panels Suit Every Space</h2>
+					</div>
+					<div class="row">
+						<!-- Card 1 -->
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<article class="pbmit-miconheading-style-7">
+								<div class="pbmit-ihbox-style-7">
+									<div class="pbmit-ihbox-box">
+										<div class="pbmit-icon-wrapper d-flex align-items-center">
+											<div class="pbmit-ihbox-icon">
+												<div class="pbmit-ihbox-icon-wrapper">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-xinterio-icon pbmit-xinterio-icon-pantone"></i>
 													</div>
 												</div>
 											</div>
-											<div class="pbmit-fid-sub">
-												<h3 class="pbmit-fid-title">Customer Satisfaction</h3>
+											<div class="pbmit-title-wrap">
+												<h2 class="pbmit-element-title">
+													Waterproof Protection
+												</h2>
+											</div>
+										</div>
+										<div class="pbmit-content-wrapper">
+											<div class="pbmit-heading-desc">Every PVC panel resists moisture, ideal for
+												bathrooms, kitchens, and humid spaces.
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-6">
-								<div class="pbminfotech-ele-fid-style-1">
-									<div class="pbmit-fld-contents d-flex align-items-center">
-										<div class="pbmit-circle-outer" data-digit="95" data-fill="#bb9a65" data-emptyfill="" data-before="" data-after="<span>%</span>" data-thickness="1" data-size="127">
-											<div class="pbmit-circle">
-												<div class="pbmit-fid-inner">
-													<span class="pbmit-fid-before"></span>
-													<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="95" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">95</span>
-													<span class="pbmit-fid"><span>%</span></span>
-												</div>
-											</div>
-										</div>
-										<div class="pbmit-fid-sub">
-											<h3 class="pbmit-fid-title">Premium Design Quality</h3>
-										</div>
-									</div>
-								</div>
-							</div>
+							</article>
 						</div>
-						<!-- Circular Fids End -->
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-5 position-relative">
-							<div class="about-three-rightbox">
-								<figure class="about-three-img1">
-									<div class="pbmit-animation-style7">
-										<img src="images/product/a2.jpg" class="img-fluid" alt="Modern residential living room">
-									</div>
-								</figure>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- Residential Interiors End -->
-
-			<!-- Hotels & Hospitality -->
-			<section class="section-xl" aria-labelledby="app-hospitality-title">
-				<div class="container">
-					<div class="row g-0">
-						<div class="col-md-12 col-xl-5 position-relative">
-							<div class="about-three-rightbox">
-								<figure class="about-three-img1">
-									<div class="pbmit-animation-style7">
-										<img src="images/product/a1.jpg" class="img-fluid" alt="Elegant hotel">
-									</div>
-								</figure>
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-7">
-							<div class="about-two-content">
-								<div class="pbmit-heading-subheading animation-style3">
-									<h4 class="pbmit-subtitle">Hotel & Resort Interiors</h4>
-									<h2 class="pbmit-title">Smart Solutions for Hotels & Restaurants</h2>
-									<div class="pbmit-heading-desc" align="justify">
-										Hospitality spaces demand interiors that stay beautiful under constant footfall, spills, and heavy daily use. We've engineered our PVC wall and ceiling panels to handle exactly that, delivering a stylish yet practical finish across lobbies, dining areas, and guest rooms. Every space we work on is treated with the same attention to detail, ensuring a smooth, elegant finish.
-									</div>
-									<br>
-									<div class="pbmit-heading-desc" align="justify">
-										Our panels are moisture-resistant and easy to clean, so hotels and restaurants can maintain a fresh, welcoming look without frequent repainting or repairs. From cozy cafés to luxury hotels, our designer finishes are crafted to match any theme without compromising on everyday performance. Fire-retardant options are also available, adding an extra layer of safety for busy commercial kitchens and dining spaces.
-									</div>
-								</div>
-								<div class="row">
-									<!-- Circular Fids - Horizontal Layout -->
-							<div class="row pbmit-fid-style-one" style="margin-left:3px;margin-top: 12px;">
-								<div class="row g-0">
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Stain & Moisture Resistant</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Wide Range of Designer Finishes</span>
-										</li>
-									</ul>
-								</div>
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Scratch Resistant Surface</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Eco-Friendly & Recyclable</span>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- Circular Fids End -->
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- Hotels & Hospitality End -->
-
-			<!-- Commercial Interiors -->
-			<section class="section-xl" aria-labelledby="app-commercial-title">
-				<div class="container">
-					<div class="row g-0">
-						<div class="col-md-12 col-xl-7">
-							<div class="about-two-content">
-								<div class="pbmit-heading-subheading animation-style3">
-									<h4 class="pbmit-subtitle">Business & Office Spaces</h4>
-									<h2 class="pbmit-title">Smart Designs for Modern Workspaces</h2>
-									<div class="pbmit-heading-desc" align="justify">
-										Modern workspaces need interiors that stay sharp and professional under daily wear from heavy foot traffic and constant use. We design our PVC wall and ceiling panels to deliver a sleek, contemporary finish for reception areas, cabins, and open workstations.
-									</div>
-									<br>
-									<div class="pbmit-heading-desc" align="justify">
-										We've made sure our panels are termite-proof and low-maintenance, so offices can maintain a polished, professional look without frequent repainting or repairs. From growing startups to established corporates, our modern finishes are designed to fit any brand identity while holding up to daily use. Sound-dampening properties are also built in, helping reduce noise in busy meeting rooms and workspaces.
-									</div>
-								</div>
-								<div class="row">
-									<!-- Circular Fids - Horizontal Layout -->
-							<div class="row pbmit-fid-style-one">
-								<div class="col-md-6">
-									<div class="pbminfotech-ele-fid-style-1 mb-2">
-										<div class="pbmit-fld-contents d-flex align-items-center">
-											<div class="pbmit-circle-outer" data-digit="100" data-fill="#bb9a65" data-emptyfill="" data-before="" data-after="<span>%</span>" data-thickness="1" data-size="127">
-												<div class="pbmit-circle">
-													<div class="pbmit-fid-inner">
-														<span class="pbmit-fid-before"></span>
-														<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="100" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">100</span>
-														<span class="pbmit-fid"><span>%</span></span>
+						<!-- Card 2 -->
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<article class="pbmit-miconheading-style-7">
+								<div class="pbmit-ihbox-style-7">
+									<div class="pbmit-ihbox-box">
+										<div class="pbmit-icon-wrapper d-flex align-items-center">
+											<div class="pbmit-ihbox-icon">
+												<div class="pbmit-ihbox-icon-wrapper">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-xinterio-icon pbmit-xinterio-icon-house"></i>
 													</div>
 												</div>
 											</div>
-											<div class="pbmit-fid-sub">
-												<h3 class="pbmit-fid-title">Termite Resistant</h3>
+											<div class="pbmit-title-wrap">
+												<h2 class="pbmit-element-title">
+													Fire-Retardant Safety
+												</h2>
 											</div>
+										</div>
+										<div class="pbmit-content-wrapper">
+											<div class="pbmit-heading-desc">Our fire-retardant PVC panels are a safe
+												choice for offices, hotels, and commercial interiors.</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-md-6">
-								<div class="pbminfotech-ele-fid-style-1">
-									<div class="pbmit-fld-contents d-flex align-items-center">
-										<div class="pbmit-circle-outer" data-digit="90" data-fill="#bb9a65" data-emptyfill="" data-before="" data-after="<span>%</span>" data-thickness="1" data-size="127">
-											<div class="pbmit-circle">
-												<div class="pbmit-fid-inner">
-													<span class="pbmit-fid-before"></span>
-													<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="90" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">90</span>
-													<span class="pbmit-fid"><span>%</span></span>
+							</article>
+						</div>
+						<!-- Card 3 -->
+						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+							<article class="pbmit-miconheading-style-7">
+								<div class="pbmit-ihbox-style-7">
+									<div class="pbmit-ihbox-box">
+										<div class="pbmit-icon-wrapper d-flex align-items-center">
+											<div class="pbmit-ihbox-icon">
+												<div class="pbmit-ihbox-icon-wrapper">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-xinterio-icon pbmit-xinterio-icon-warranty"></i>
+													</div>
 												</div>
 											</div>
+											<div class="pbmit-title-wrap">
+												<h2 class="pbmit-element-title">
+													Termite & Pest Resistant
+												</h2>
+											</div>
 										</div>
-										<div class="pbmit-fid-sub">
-											<h3 class="pbmit-fid-title">Moisture Resistant</h3>
+										<div class="pbmit-content-wrapper">
+											<div class="pbmit-heading-desc">Built to last, our panels resist termites
+												and decay — perfect for homes and hospitality spaces.</div>
 										</div>
 									</div>
 								</div>
-							</div>
+							</article>
 						</div>
-						<!-- Circular Fids End -->
-									
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-5 position-relative">
-							<div class="about-three-rightbox">
-								<figure class="about-three-img1">
-									<div class="pbmit-animation-style7">
-										<img src="images/product/a3.jpg" class="img-fluid" alt="Modern commercial office">
+						<!-- Card 4 -->
+						<div class="col-md-6 col-lg-3">
+							<article class="pbmit-miconheading-style-7">
+								<div class="pbmit-ihbox-style-7">
+									<div class="pbmit-ihbox-box">
+										<div class="pbmit-icon-wrapper d-flex align-items-center">
+											<div class="pbmit-ihbox-icon">
+												<div class="pbmit-ihbox-icon-wrapper">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-xinterio-icon pbmit-xinterio-icon-tools"></i>
+													</div>
+												</div>
+											</div>
+											<div class="pbmit-title-wrap">
+												<h2 class="pbmit-element-title">
+													Scratch-Resistant Finish
+												</h2>
+											</div>
+										</div>
+										<div class="pbmit-content-wrapper">
+											<div class="pbmit-heading-desc">Designed to handle daily wear, our panels
+												suit retail stores, showrooms, and high-traffic areas.</div>
+										</div>
 									</div>
-								</figure>
-							</div>
+								</div>
+							</article>
 						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Commercial Interiors End -->
 
-			<!-- Institutional Spaces -->
-			<section class="section-xl" aria-labelledby="app-institutional-title">
+			
+
+			<!-- Final CTA Section Start -->
+			<section class="section-xl pbmit-final-cta-section">
 				<div class="container">
-					<div class="row g-0">
-						<div class="col-md-12 col-xl-5 position-relative">
-							<div class="about-three-rightbox">
-								<figure class="about-three-img1">
-									<div class="pbmit-animation-style7">
-										<img src="images/product/a4.jpg" class="img-fluid" alt="Clean institutional corridor">
-									</div>
-								</figure>
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-7">
-							<div class="about-two-content">
-								<div class="pbmit-heading-subheading animation-style3">
-									<h4 class="pbmit-subtitle">Education & Healthcare Spaces</h4>
-									<h2 class="pbmit-title">Hygienic PVC Panels for Schools & Hospitals</h2>
-									<div class="pbmit-heading-desc" align="justify">
-										Schools, hospitals, and clinics need interiors that stay hygienic and easy to maintain under constant use and strict cleanliness standards. We design our PVC wall and ceiling panels to deliver a clean, seamless finish across classrooms, corridors, and patient care areas. Every space we work on is treated with the same attention to detail, ensuring a smooth, consistent finish.
-									</div>
-									<br>
-									<div class="pbmit-heading-desc" align="justify">
-										We know how important hygiene is, so we make sure our panels are easy to clean and help facilities maintain a fresh, germ-free look without frequent repainting or repairs. From busy school corridors to sensitive hospital wards, our practical finishes are built to support strict cleanliness standards without extra upkeep. Fire-retardant options are also included, offering extra protection in high-occupancy spaces.
-									</div>
-								</div>
-								<div class="row">
-									<!-- Circular Fids - Horizontal Layout -->
-							<div class="row pbmit-fid-style-one" style="margin-left:3px;margin-top: 12px;">
-								<div class="row g-0">
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Hygienic & Germ-Resistant Surface</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Fire-Retardant Options Available</span>
-										</li>
-									</ul>
-								</div>
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Low Maintenance, Long-Lasting</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Quick, Hassle-Free Installation</span>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- Circular Fids End -->
-									
-								</div>
-							</div>
+					<div class="pbmit-final-cta-inner text-center">
+						<div class="pbmit-cta-divider mx-auto mb-4"></div>
+						<h2 class="pbmit-cta-title">Not Sure Which Panel Suits Your Space?</h2>
+						<p class="pbmit-cta-desc mx-auto">
+							Talk to our team — we'll help you choose the right PVC panel for your project.
+						</p>
+						<div
+							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
+							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+								<span>Get in Touch</span>
+							</a>
+							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+								<span>Download Catalogue</span>
+							</a>
+							
 						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Institutional Spaces End -->
+			<!-- Final CTA Section End -->
 
 		</div>
 		<!-- page content End -->

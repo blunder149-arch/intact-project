@@ -4,12 +4,19 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Contact INTACT | PVC Wall & Ceiling Panel Manufacturer</title>
+	<title>Contact Us | INTACT Design Extrusion</title>
 	<meta name="description" content="Contact INTACT Design & Extrusion for premium PVC wall and ceiling panels, product enquiries, technical support and interior panel solutions.">
 	<meta name="robots" content="index, follow">
+	<meta name="keywords" content="contact INTACT, PVC panel enquiry, PVC panel manufacturer contact, technical support, panel product enquiry">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Space+Grotesk:wght@300..700&display=swap"
+		rel="stylesheet">
 	<!-- CSS
 			============================================ -->
 	<!-- Bootstrap CSS -->
@@ -51,7 +58,7 @@
 		<!-- page content -->
 		<div class="page-content">
 				
-				 <div class="bg5">
+			<div class="pbmit-title-bar-wrapper bg5">
 				<div class="container">
 					<div class="pbmit-title-bar-content">
 						<div class="pbmit-title-bar-content-inner">
@@ -76,66 +83,120 @@
 				</div> 
 			</div>
 			
-			<!-- Contact Form -->
-			<section class="pbmit-sticky-section section-xl pb-0">
+			<!-- Contact Information Cards Start -->
+			<section class="section-xl pb-0">
 				<div class="container">
-					<div class="contact-us-bg">
-						<div class="row">
-							<div class="col-md-12 col-xl-6">
-								<div class="contact-form-area">
-									<div class="pbmit-heading animation-style2">
-										<h2 class="pbmit-title">Your Project Starts Here</h2>
-									</div>
-									<form class="contact-form" method="post" id="contact-form" action="send-mail.php">
-										<div class="row">
-											<div class="col-md-6">
-												<input type="text" class="form-control" placeholder="First Name *" name="first_name" required>
-											</div>
-											<div class="col-md-6">
-												<input type="text" class="form-control" placeholder="Last Name" name="last_name">
-											</div>
-											<div class="col-md-6">
-												<input type="tel" class="form-control" placeholder="Your Phone *" name="phone" required>
-											</div>
-											<div class="col-md-6">
-												<input type="email" class="form-control" placeholder="Email Address" name="email">
-											</div>
-											<div class="col-md-12">
-												<input type="text" class="form-control" placeholder="Subject / Product Inquiry" name="subject" required>
-											</div>
-											<div class="col-md-12">
-												<textarea name="message" cols="40" rows="5" class="form-control" placeholder="Your Project Details or Inquiry *" required></textarea>
-											</div>
-											<div class="col-md-12">
-												<div class="form-check">
-													<input class="form-check-input" type="checkbox" required checked>
-													<label class="form-check-label">
-														I agree to the Terms & Conditions.
-													</label>
-												</div>
-											</div>
-											<div class="col-md-12">
-												<button type="submit" class="pbmit-btn pbmit-btn-outline">
-													<span class="pbmit-button-content-wrapper">
-														<span class="pbmit-button-text">Submit Inquiry</span>
-													</span>
-												</button>
-											</div>
-										</div>
-									</form> 
+					<div class="row g-4">
+						<!-- Card 1: Address -->
+						<div class="col-lg-4 col-md-6">
+							<div class="contact-info-card h-100">
+								<div class="contact-info-icon-box">
+									<i class="pbmit-base-icon-location-dot-solid"></i>
 								</div>
+								<h3>Address</h3>
+								<p class="mb-0">
+									INTACT Design & Extrusion Pvt. Ltd.<br>
+									Plot No. 1, Industrial Area
+								</p>
 							</div>
-							<div class="col-md-12 col-xl-6">
-								<div class="iframe-area">
-									<iframe src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="London Eye, London, United Kingdom" aria-label="London Eye, London, United Kingdom"></iframe>
+						</div>
+						<!-- Card 2: Email -->
+						<div class="col-lg-4 col-md-6">
+							<div class="contact-info-card h-100">
+								<div class="contact-info-icon-box">
+									<i class="pbmit-base-icon-mail-alt"></i>
+								</div>
+								<h3>Email Us</h3>
+								<p class="mb-0">
+									<a href="mailto:info@intact.in">info@intact.in</a><br>
+									<a href="mailto:sales@intact.in">sales@intact.in</a>
+								</p>
+							</div>
+						</div>
+						<!-- Card 3: Phone -->
+						<div class="col-lg-4 col-md-6">
+							<div class="contact-info-card h-100">
+								<div class="contact-info-icon-box">
+									<i class="pbmit-base-icon-phone-volume-solid-1"></i>
+								</div>
+								<h3>Call Us</h3>
+								<p class="mb-0">
+									<a href="tel:+919876543210">+91 98765 43210</a><br>
+									<a href="tel:+919876543211">+91 98765 43211</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Contact Information Cards End -->
+
+			<!-- Contact Form & Map Section Start -->
+			<section class="section-xl">
+				<div class="container">
+					<div class="row g-4">
+						<!-- Form Column -->
+						<div class="col-lg-6 col-md-12">
+							<div class="contact-form-card h-100">
+								<div class="pbmit-heading mb-4">
+									<h4 class="pbmit-subtitle">GET IN TOUCH</h4>
+									<h2 class="pbmit-title" style="font-size: 32px; font-weight: 700; color: #403226;">Request a Product Enquiry</h2>
+								</div>
+								<form class="contact-form" method="post" id="contact-form" action="send-mail.php">
+									<div class="row g-3">
+										<div class="col-md-6">
+											<input type="text" class="form-control" placeholder="Your Name *" name="name" required>
+										</div>
+										<div class="col-md-6">
+											<input type="tel" class="form-control" placeholder="Phone Number *" name="phone" required>
+										</div>
+										<div class="col-md-6">
+											<input type="email" class="form-control" placeholder="Email Address *" name="email" required>
+										</div>
+										<div class="col-md-6">
+											<select class="form-control" name="product" required>
+												<option value="" disabled selected>Select Product Category</option>
+												<option value="Wall Panel">Plane PVC Panel</option>
+												<option value="Wall Panel">2 G</option>
+												<option value="Ceiling Panel">3 G</option>
+												<option value="Ceiling Panel">9 G</option>
+												<option value="Ceiling Panel">10 G</option>
+												<option value="Decorative Panel">Sumo Panel</option>
+												<option value="Custom Requirement">Custom Requirement</option>
+											</select>
+										</div>
+										<div class="col-md-12">
+											<textarea name="message" cols="40" rows="5" class="form-control" placeholder="Tell us your project requirements *" required></textarea>
+										</div>
+										<div class="col-md-12 mt-4">
+											<button class="pbmit-btn pbmit-btn-primary w-100" type="submit" style="background-color: #bb9a65; color: #fff; border-radius: 30px; padding: 15px 30px; font-weight: 700; border: none;">
+												<span>Submit Product Enquiry</span>
+											</button>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+						<!-- Map & Info Column -->
+						<div class="col-lg-6 col-md-12">
+							<div class="contact-map-card h-100">
+								<div class="pbmit-heading mb-3">
+									<h4 class="pbmit-subtitle">OUR LOCATION</h4>
+									<h2 class="pbmit-title" style="font-size: 32px; font-weight: 700; color: #403226;">Visit INTACT Facility</h2>
+								</div>
+								<p class="pbmit-heading-desc mb-4" style="color: #665c54; line-height: 1.7;">
+									PVC wall and ceiling panel solutions for residential, hospitality, commercial and institutional applications. Visit or contact our team to discuss your project requirements.
+								</p>
+								<div class="map-iframe-wrapper">
+									<iframe class="contact-map-iframe" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="INTACT Office Location" aria-label="INTACT Office Location"></iframe>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Contact Form -->
-			
+			<!-- Contact Form & Map Section End -->
+	
 		</div>
 		<!-- page content End -->
 

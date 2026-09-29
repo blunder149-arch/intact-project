@@ -4,13 +4,19 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>PVC Panel Cleaning & Maintenance Guide | INTACT</title>
+	<title>PVC Panel Cleaning & Maintenance Guide | INTACT Design & Extrusion</title>
 	<meta name="description" content="Learn how to clean and maintain PVC wall and ceiling panels with easy care tips for a clean, durable and long-lasting interior finish.">
 	<meta name="robots" content="index, follow">
-	<meta name="author" content="INTACT Design & Extrusion">
+	<meta name="keywords" content="PVC panel cleaning, PVC panel maintenance, panel care tips, wall panel cleaning, ceiling panel maintenance">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Space+Grotesk:wght@300..700&display=swap"
+		rel="stylesheet">
 	<!-- CSS
 			============================================ -->
 	<!-- Bootstrap CSS -->
@@ -52,7 +58,7 @@
 		<!-- page content -->
 		<div class="page-content">
 		
-			   <div class="bg3">
+			<div class="pbmit-title-bar-wrapper bg3">
 				<div class="container">
 					<div class="pbmit-title-bar-content">
 						<div class="pbmit-title-bar-content-inner">
@@ -81,120 +87,272 @@
 				</div> 
 			</div>
 			
-            <!-- About --> 
-            <section class="section-lgt pbmit-bg">
+                 <!-- Service Details --> 
+            <!-- Service Details Section Start -->
+            <section class="section-xl service-details pb-5">
 				<div class="container">
-					<div class="row">
-						<div class="col-md-12 col-xl-3">
-							<div class="d-xl-block d-flex justify-content-center flex-wrap">
-								<div class="text-left">
-									<div class="pbmit-animation-style3 home4-about-02-img">
-										<img src="images/product/cleaning1.jpg" class="img-fluid" alt="Cleaning Image">
-									</div>
+					<div class="row g-4 align-items-start">
+						<!-- Left Sidebar: Quick Care Guide Interactive Tabs -->
+						<div class="col-lg-4 col-md-12">
+							<div class="quick-care-card">
+								<h3 class="quick-care-title">Quick Care Guide</h3>
+								<div class="nav flex-column nav-pills quick-care-tabs" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+									<button class="nav-link active" id="pills-dusting-tab" data-bs-toggle="pill" data-bs-target="#pills-dusting" type="button" role="tab" aria-controls="pills-dusting" aria-selected="true">
+										<span><i class="pbmit-base-icon-check-mark me-2"></i> 1. WEEKLY DUSTING</span>
+										<i class="pbmit-base-icon-angle-right tab-arrow"></i>
+									</button>
+									<button class="nav-link" id="pills-washing-tab" data-bs-toggle="pill" data-bs-target="#pills-washing" type="button" role="tab" aria-controls="pills-washing" aria-selected="false">
+										<span><i class="pbmit-base-icon-check-mark me-2"></i> 2. MONTHLY DEEP WASH</span>
+										<i class="pbmit-base-icon-angle-right tab-arrow"></i>
+									</button>
+									<button class="nav-link" id="pills-kitchen-tab" data-bs-toggle="pill" data-bs-target="#pills-kitchen" type="button" role="tab" aria-controls="pills-kitchen" aria-selected="false">
+										<span><i class="pbmit-base-icon-check-mark me-2"></i> 3. KITCHEN DEGREASING</span>
+										<i class="pbmit-base-icon-angle-right tab-arrow"></i>
+									</button>
+									<button class="nav-link" id="pills-bathroom-tab" data-bs-toggle="pill" data-bs-target="#pills-bathroom" type="button" role="tab" aria-controls="pills-bathroom" aria-selected="false">
+										<span><i class="pbmit-base-icon-check-mark me-2"></i> 4. WATERPROOF & MOISTURE</span>
+										<i class="pbmit-base-icon-angle-right tab-arrow"></i>
+									</button>
+									<button class="nav-link" id="pills-dosdonts-tab" data-bs-toggle="pill" data-bs-target="#pills-dosdonts" type="button" role="tab" aria-controls="pills-dosdonts" aria-selected="false">
+										<span><i class="pbmit-base-icon-check-mark me-2"></i> 5. DO'S & DON'TS</span>
+										<i class="pbmit-base-icon-angle-right tab-arrow"></i>
+									</button>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-12 col-xl-6">
-							<div class="about-four-center-area">
-								<div class="pbmit-heading-subheading text-center animation-style4">
-									<h2 class="pbmit-title">Easy Cleaning & Care for PVC Panels</h2>
-									<div class="pbmit-heading-desc">
-										Maintaining our PVC wall and ceiling panels is simple and hassle-free, unlike traditional wall finishes that demand frequent repainting or polishing. A soft, damp cloth with mild soap water is all it takes to remove dust, stains, or everyday grime, keeping the surface looking fresh without any special cleaning agents. Avoid abrasive scrubbers or harsh chemicals, as these can affect the panel's finish over time.For long-lasting shine, wipe panels regularly in high-traffic or humid areas like kitchens and bathrooms to prevent buildup. Since our panels are moisture and termite resistant, they naturally resist common wall issues like dampness, fungus, and pest damage, making upkeep easier across every season. With minimal effort, your panels retain their premium look for years, adding lasting value to any space.
+						<!-- Right Column: Content & Generated Images per Tab -->
+						<div class="col-lg-8 col-md-12 ps-lg-4">
+							<div class="tab-content" id="v-pills-tabContent">
+								
+								<!-- Tab 1: Weekly Dusting -->
+								<div class="tab-pane fade show active" id="pills-dusting" role="tabpanel" aria-labelledby="pills-dusting-tab">
+									<div class="pbmit-service-content">
+										<h2 class="pbmit-title mb-3" style="font-size: 30px; line-height: 40px; font-weight: 700; color: #403226;">1. Weekly Anti-Static Dusting</h2>
+										<p class="pbmit-heading-desc mb-4" style="font-size: 15px; line-height: 1.7; color: #665c54;">
+											Intact PVC wall and ceiling panels feature an anti-static surface formulation that naturally repels airborne dust particles. A simple weekly dusting prevents dust buildup in panel grooves, preserving their pristine factory luster without requiring any water or liquid chemicals.
+										</p>
+										<div class="row g-3 mb-4">
+											<div class="col-md-6">
+												<img src="images/product/care-dusting.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Weekly Anti-Static Dusting of PVC Wall Panel">
+											</div>
+											<div class="col-md-6">
+												<img src="images/product/cleaning1.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Clean Wooden PVC Wall Cladding">
+											</div>
+										</div>
+										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
+											<h4 class="fs-5 font-weight-bold mb-3" style="color: #33251a;">Pro Tips for Routine Maintenance:</h4>
+											<ul class="list-unstyled mb-0" style="line-height: 1.9; color: #554a40; font-size: 14px;">
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Use a soft microfiber duster or feather duster to clean along panel grooves.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Dust top-to-bottom for full height wall cladding and ceiling installations.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Avoid vacuum cleaner brush attachments with hard plastic bristles to prevent surface micro-scratches.</li>
+											</ul>
+										</div>
 									</div>
 								</div>
-							</div>
-						</div>
-					<div class="col-md-12 col-xl-3">
-							<div class="d-xl-block d-flex justify-content-center flex-wrap">
-								<div class="text-left">
-									<div class="pbmit-animation-style3 home4-about-02-img">
-										<img src="images/product/cleaning2.jpg" class="img-fluid" alt="Cleaning Image">
+
+								<!-- Tab 2: Monthly Deep Wash -->
+								<div class="tab-pane fade" id="pills-washing" role="tabpanel" aria-labelledby="pills-washing-tab">
+									<div class="pbmit-service-content">
+										<h2 class="pbmit-title mb-3" style="font-size: 30px; line-height: 40px; font-weight: 700; color: #403226;">2. Monthly Deep Clean & Surface Care</h2>
+										<p class="pbmit-heading-desc mb-4" style="font-size: 15px; line-height: 1.7; color: #665c54;">
+											In high-touch residential and commercial areas, occasional smudges or fingerprints might appear. A gentle monthly wash using lukewarm water and mild liquid soap effortlessly restores original brightness while preserving the protective UV laminate coating.
+										</p>
+										<div class="row g-3 mb-4">
+											<div class="col-md-6">
+												<img src="images/product/care-deepwash.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Monthly Mild Soap Cleaning of PVC Panels">
+											</div>
+											<div class="col-md-6">
+												<img src="images/product/cleaning2.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Spotless Clean Interior Wall Finish">
+											</div>
+										</div>
+										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
+											<h4 class="fs-5 font-weight-bold mb-3" style="color: #33251a;">Recommended Washing Steps:</h4>
+											<ul class="list-unstyled mb-0" style="line-height: 1.9; color: #554a40; font-size: 14px;">
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Mix 1-2 drops of neutral dishwashing detergent in a bucket of lukewarm water.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Gently wipe with a soft non-abrasive cellulose sponge or lint-free cotton cloth.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Wipe down with a dry microfiber cloth immediately after to avoid water stain spots.</li>
+											</ul>
+										</div>
 									</div>
 								</div>
+
+								<!-- Tab 3: Kitchen Degreasing -->
+								<div class="tab-pane fade" id="pills-kitchen" role="tabpanel" aria-labelledby="pills-kitchen-tab">
+									<div class="pbmit-service-content">
+										<h2 class="pbmit-title mb-3" style="font-size: 30px; line-height: 40px; font-weight: 700; color: #403226;">3. Kitchen Backsplash Degreasing</h2>
+										<p class="pbmit-heading-desc mb-4" style="font-size: 15px; line-height: 1.7; color: #665c54;">
+											INTACT PVC panels are 100% oil and grease resistant, making them a popular choice for kitchen walls and dining areas. Cooking oil fumes, spices, and grease splatters wipe off smooth non-porous surfaces without soaking into the material or discolouring.
+										</p>
+										<div class="row g-3 mb-4">
+											<div class="col-md-6">
+												<img src="images/product/care-kitchen.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Kitchen PVC Wall Panel Cleaning & Degreasing">
+											</div>
+											<div class="col-md-6">
+												<img src="images/product/cleaning1.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Oil Resistant Decorative PVC Panel">
+											</div>
+										</div>
+										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
+											<h4 class="fs-5 font-weight-bold mb-3" style="color: #33251a;">Kitchen Degreasing Guide:</h4>
+											<ul class="list-unstyled mb-0" style="line-height: 1.9; color: #554a40; font-size: 14px;">
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Spray mild citrus-based kitchen degreaser spray on heavy oil buildup.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Allow 60 seconds dwell time for the cleaner to break down stubborn oil films.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Wipe away with a damp cloth; no harsh scrubbing or chemical solvent needed.</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+
+								<!-- Tab 4: Bathroom & Moisture -->
+								<div class="tab-pane fade" id="pills-bathroom" role="tabpanel" aria-labelledby="pills-bathroom-tab">
+									<div class="pbmit-service-content">
+										<h2 class="pbmit-title mb-3" style="font-size: 30px; line-height: 40px; font-weight: 700; color: #403226;">4. Bathroom & High-Moisture Waterproof Care</h2>
+										<p class="pbmit-heading-desc mb-4" style="font-size: 15px; line-height: 1.7; color: #665c54;">
+											Manufactured with 100% virgin PVC extrusions, INTACT wall and false ceiling panels are 100% waterproof. Unlike drywall or plywood, they do not rot, swell, or absorb moisture, completely eliminating mould, fungus, and mildew formation in humid bathrooms.
+										</p>
+										<div class="row g-3 mb-4">
+											<div class="col-md-6">
+												<img src="images/product/care-bathroom.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Waterproof Bathroom PVC Wall Cladding">
+											</div>
+											<div class="col-md-6">
+												<img src="images/product/cleaning2.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Mould Proof PVC Ceiling & Wall Panel">
+											</div>
+										</div>
+										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
+											<h4 class="fs-5 font-weight-bold mb-3" style="color: #33251a;">Moisture & Shower Maintenance:</h4>
+											<ul class="list-unstyled mb-0" style="line-height: 1.9; color: #554a40; font-size: 14px;">
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Use a soft rubber window squeegee to remove excess water drops post-shower.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Wash off soap film once every 2 weeks with clean warm water spray.</li>
+												<li><i class="pbmit-base-icon-check-mark text-success me-2"></i> Never requires waterproof re-sealing or grout scrubbing ever.</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+
+								<!-- Tab 5: Do's & Don'ts -->
+								<div class="tab-pane fade" id="pills-dosdonts" role="tabpanel" aria-labelledby="pills-dosdonts-tab">
+									<div class="pbmit-service-content">
+										<h2 class="pbmit-title mb-3" style="font-size: 30px; line-height: 40px; font-weight: 700; color: #403226;">5. Do's & Don'ts for Long-Lasting PVC Panels</h2>
+										<p class="pbmit-heading-desc mb-4" style="font-size: 15px; line-height: 1.7; color: #665c54;">
+											Follow these essential guidelines to maximize the durability, gloss, and structural life of your INTACT PVC wall panels and ceiling extrusions.
+										</p>
+										<div class="row g-3 mb-4">
+											<div class="col-md-6">
+												<div class="p-4 rounded-4 h-100" style="background-color: #f4fbf6; border: 1px solid #d4f0dd;">
+													<h4 class="fs-5 font-weight-bold mb-3 text-success"><i class="pbmit-base-icon-check-mark me-2"></i> DO'S</h4>
+													<ul class="list-unstyled mb-0" style="line-height: 1.8; color: #2e5939; font-size: 13.5px;">
+														<li class="mb-2">✔ Clean gently using soft microfiber or cotton cloths.</li>
+														<li class="mb-2">✔ Use mild liquid soap or neutral PH cleaners.</li>
+														<li class="mb-2">✔ Wipe spilled liquids and cooking grease promptly.</li>
+														<li>✔ Ensure proper ventilation in high-humidity areas.</li>
+													</ul>
+												</div>
+											</div>
+											<div class="col-md-6">
+												<div class="p-4 rounded-4 h-100" style="background-color: #fdf5f5; border: 1px solid #f9d8d8;">
+													<h4 class="fs-5 font-weight-bold mb-3 text-danger"><i class="pbmit-base-icon-close me-2"></i> DON'TS</h4>
+													<ul class="list-unstyled mb-0" style="line-height: 1.8; color: #732626; font-size: 13.5px;">
+														<li class="mb-2">✖ Never use steel wool, abrasive pads, or wire brushes.</li>
+														<li class="mb-2">✖ Avoid harsh acetone, thinners, or undiluted bleach.</li>
+														<li class="mb-2">✖ Do not expose panels directly to naked flames or open fires.</li>
+														<li>✖ Avoid sharp impact tools or pointed metal gouges.</li>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
 							</div>
 						</div>
 					</div>
 				</div>
-            </section>            
-            <!-- About End -->  
+            </section>
+            <!-- Service Details Section End -->
+            <!-- Service Details End -->
+
 				
-			  <!-- Service --> 
-           <section class="section-xl">
+			<!-- Care for Lasting Shine Section Start -->
+			<section class="section-xl care-lasting-shine-sec" style="background-color: #f7f5f0;">
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style2 mb-5">
+						<h4 class="pbmit-subtitle">CLEANING TIPS</h4>
 						<h2 class="pbmit-title">Care for Lasting Shine</h2>
 					</div>
 
 					<div class="row g-4">
+						<!-- Card 1 -->
 						<div class="col-md-6 col-lg-4">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-tools"></i>
-												</div>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Weekly Dusting</h2>
-										</div>
+							<div class="why-choose-card p-4 bg-white h-100">
+								<div class="d-flex align-items-center mb-3">
+									<div class="why-choose-icon-box me-3">
+										<i class="pbmit-xinterio-icon pbmit-xinterio-icon-tools"></i>
 									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Simply glide a soft microfiber duster across the panels to remove everyday dust no scrubbing needed.</div>
-									</div>
+									<h2 class="pbmit-element-title mb-0 fs-5">Weekly Dusting</h2>
+								</div>
+								<div class="pbmit-heading-desc mb-0">
+									Simply glide a soft microfiber duster across the panels to remove everyday dust — quick, gentle, and effortless, no scrubbing needed.
 								</div>
 							</div>
 						</div>
 
+						<!-- Card 2 -->
 						<div class="col-md-6 col-lg-4">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-satisfaction"></i>
-												</div>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Monthly Cleaning</h2>
-										</div>
+							<div class="why-choose-card p-4 bg-white h-100">
+								<div class="d-flex align-items-center mb-3">
+									<div class="why-choose-icon-box me-3">
+										<i class="pbmit-xinterio-icon pbmit-xinterio-icon-satisfaction"></i>
 									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">For a deeper clean, wipe with a soft sponge dipped in mild soap and lukewarm water, then dry with a clean cloth.</div>
-									</div>
+									<h2 class="pbmit-element-title mb-0 fs-5">Monthly Cleaning</h2>
+								</div>
+								<div class="pbmit-heading-desc mb-0">
+									For a deeper clean, wipe with a soft sponge dipped in mild soap and lukewarm water, then dry thoroughly with a clean, soft cloth.
 								</div>
 							</div>
 						</div>
 
+						<!-- Card 3 -->
 						<div class="col-md-6 col-lg-4">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-xinterio-icon pbmit-xinterio-icon-trophy"></i>
-												</div>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Kitchen Areas</h2>
-										</div>
+							<div class="why-choose-card p-4 bg-white h-100">
+								<div class="d-flex align-items-center mb-3">
+									<div class="why-choose-icon-box me-3">
+										<i class="pbmit-xinterio-icon pbmit-xinterio-icon-trophy"></i>
 									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">In kitchens or cooking spaces, a citrus-based degreaser works great grease and oil wipe off easily thanks to the smooth, non-porous surface.</div>
-									</div>
+									<h2 class="pbmit-element-title mb-0 fs-5">Kitchen Degreasing</h2>
+								</div>
+								<div class="pbmit-heading-desc mb-0">
+									In kitchens, mild citrus degreasers easily remove cooking oil residue and stubborn grease stains from smooth, non-porous surfaces.
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
+			<!-- Care for Lasting Shine Section End -->
             <!-- Service End -->  
+			 <!-- Final CTA Section Start -->
+			<section class="section-xl pbmit-final-cta-section">
+				<div class="container">
+					<div class="pbmit-final-cta-inner text-center">
+						<div class="pbmit-cta-divider mx-auto mb-4"></div>
+						<h2 class="pbmit-cta-title">Have Questions About Maintenance?</h2>
+						<p class="pbmit-cta-desc mx-auto">
+							Our team is here to help — get in touch for personalized care and maintenance guidance.
+						</p>
+						<div
+							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
+							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+								<span>Get in Touch</span>
+							</a>
+							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+								<span>Download Catalogue</span>
+							</a>
+
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Final CTA Section End -->
+
 			
 		</div>
 		<!-- page content End -->

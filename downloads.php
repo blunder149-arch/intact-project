@@ -4,13 +4,21 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Download PVC Panel Brochures & Catalogues | INTACT</title>
-	<meta name="description" content="Download PVC wall and ceiling panel brochures, catalogues, specifications and installation guides from INTACT. Explore designs, textures and product details.">
+	<title>Download PVC Panel Brochures & Catalogues | INTACT Design & Extrusion</title>
+	<meta name="description"
+		content="Download PVC wall and ceiling panel brochures, catalogues, specifications and installation guides from INTACT. Explore designs, textures and product details.">
 	<meta name="robots" content="index, follow">
-	<meta name="author" content="INTACT Design & Extrusion">
+	<meta name="keywords"
+		content="PVC panel brochure, PVC panel catalogue, panel specifications, download catalogue, PVC panel designs">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Space+Grotesk:wght@300..700&display=swap"
+		rel="stylesheet">
 	<!-- CSS
 			============================================ -->
 	<!-- Bootstrap CSS -->
@@ -51,14 +59,14 @@
 
 		<!-- page content -->
 		<div class="page-content">
-		
-		 <div class="bg2">
+
+			<div class="pbmit-title-bar-wrapper bg2">
 				<div class="container">
 					<div class="pbmit-title-bar-content">
 						<div class="pbmit-title-bar-content-inner">
 							<div class="pbmit-tbar">
 								<div class="pbmit-tbar-inner container">
-									<h1 class="pbmit-tbar-title">Download Product Details</h1>
+									<h1 class="pbmit-tbar-title">Download Details</h1>
 								</div>
 							</div>
 							<div class="pbmit-breadcrumb">
@@ -66,8 +74,8 @@
 									<span>
 										<a title="home" href="index.php" class="home"><span>Home</span></a>
 										<span class="sep">
-										<i class="pbmit-base-icon-angle-right"></i>
-									</span>
+											<i class="pbmit-base-icon-angle-right"></i>
+										</span>
 										<span title="Resources" class="Resources">Resources</span>
 									</span>
 									<span class="sep">
@@ -77,276 +85,174 @@
 								</div>
 							</div>
 						</div>
-					</div> 
-				</div> 
+					</div>
+				</div>
 			</div>
+
 			<!-- Downloads Section -->
-			<section class="section-lgt pbmit-bg-color-light">
+			<section class="section-xl pbmit-bg-color-light">
 				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">Download</h4>
-						<h2 class="pbmit-title">Everything you need to install, and maintain our products.</h2>
+					<div class="pbmit-heading-subheading text-center animation-style2 mb-5">
+						<h2 class="pbmit-title">Catalogs & Brochures</h2>
 					</div>
-					
+
 					<div class="row g-4">
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-6 col-lg-3">
 							<div class="pbmit-ihbox-style-7">
 								<div class="pbmit-ihbox-box">
-									
+									<div class="pbmit-download-image mb-2">
+										<img src="images/product/d1.jpg" class="img-fluid rounded"
+											alt="Product Brochure">
+									</div>
 									<div class="pbmit-icon-wrapper d-flex align-items-center">
 										<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper">
-											<a href="#">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-base-icon-download" style="font-size: 25px;"></i>
-												</div>
-											</a>
+											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
+												<a href="#">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-base-icon-download"
+															style="font-size: 25px;"></i>
+													</div>
+												</a>
+											</div>
 										</div>
-									</div>
 										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Design Catalog</h2>
+											<h2 class="pbmit-element-title">Product Catalogue</h2>
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Complete overview of PVC ceilings, 3D fluted panels, acoustic louvers, textures, and dimensions.</div>
-										<div style="margin-top: 15px; font-size: 14px; color: #666;">
-											<strong>PDF - 18.5 MB</strong>
+										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
+											<strong>PDF - 12 MB</strong>
 										</div>
 									</div>
 								</div>
-								
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-4">
+
+						<div class="col-md-6 col-lg-3">
 							<div class="pbmit-ihbox-style-7">
 								<div class="pbmit-ihbox-box">
-									
+									<div class="pbmit-download-image mb-2">
+										<img src="images/product/d2.jpg" class="img-fluid rounded"
+											alt="Warranty Document">
+									</div>
 									<div class="pbmit-icon-wrapper d-flex align-items-center">
 										<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper">
-											<a href="#">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-base-icon-download" style="font-size: 25px;"></i>
-												</div>
-											</a>
+											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
+												<a href="#">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-base-icon-download"
+															style="font-size: 25px;"></i>
+													</div>
+												</a>
+											</div>
 										</div>
-									</div>
 										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Color & Finish Guide</h2>
+											<h2 class="pbmit-element-title">Warranty Document</h2>
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Color fidelity shade booklet showcasing natural wood grains, marble, and metallic finishes</div>
-										<div style="margin-top: 15px; font-size: 14px; color: #666;">
-											<strong>PDF - 12.2 MB</strong>
+										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
+											<strong>PDF - 8 MB</strong>
 										</div>
 									</div>
 								</div>
-								
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-6 col-lg-3">
 							<div class="pbmit-ihbox-style-7">
 								<div class="pbmit-ihbox-box">
-									
+									<div class="pbmit-download-image mb-2">
+										<img src="images/product/d3.jpg" class="img-fluid rounded"
+											alt="Application Guide">
+									</div>
 									<div class="pbmit-icon-wrapper d-flex align-items-center">
 										<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper">
-											<a href="#">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-base-icon-download" style="font-size: 25px;"></i>
-												</div>
-											</a>
+											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
+												<a href="#">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-base-icon-download"
+															style="font-size: 25px;"></i>
+													</div>
+												</a>
+											</div>
 										</div>
-									</div>
 										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Installation Manual</h2>
+											<h2 class="pbmit-element-title">Application Guide</h2>
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Comprehensive step-by-step joist framing, tongue-and-groove alignment, and edge trim fixing guide.</div>
-										<div style="margin-top: 15px; font-size: 14px; color: #666;">
-											<strong>PDF - 6.5 MB</strong>
+										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
+											<strong>PDF - 20 MB</strong>
 										</div>
 									</div>
 								</div>
-								
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-4">
+						<div class="col-md-6 col-lg-3">
 							<div class="pbmit-ihbox-style-7">
 								<div class="pbmit-ihbox-box">
-									
+									<div class="pbmit-download-image mb-2">
+										<img src="images/product/d4.jpg" class="img-fluid rounded"
+											alt="Maintenance Guide">
+									</div>
 									<div class="pbmit-icon-wrapper d-flex align-items-center">
 										<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper">
-											<a href="#">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-base-icon-download" style="font-size: 25px;"></i>
-												</div>
-											</a>
+											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
+												<a href="#">
+													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+														<i class="pbmit-base-icon-download"
+															style="font-size: 25px;"></i>
+													</div>
+												</a>
+											</div>
 										</div>
-									</div>
 										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Technical Data Sheets</h2>
+											<h2 class="pbmit-element-title">Maintenance Guide</h2>
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Detailed technical data sheets with dimensions, material properties, and installation requirements.</div>
-										<div style="margin-top: 15px; font-size: 14px; color: #666;">
-											<strong>PDF - 4.8 MB</strong>
+										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
+											<strong>PDF - 8.5 MB</strong>
 										</div>
 									</div>
 								</div>
-								
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-4">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper">
-											<a href="#">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-base-icon-download" style="font-size: 25px;"></i>
-												</div>
-											</a>
-										</div>
-									</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Warranty & Care Guide</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Manufacturer structural warranty terms, batch registration guidelines, and care recommendations.</div>
-										<div style="margin-top: 15px; font-size: 14px; color: #666;">
-											<strong>ZIP - 24.0 MB</strong>
-										</div>
-									</div>
-								</div>
-								
-							</div>
-						</div>
-
-						<div class="col-md-6 col-lg-4">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper">
-											<a href="#">
-												<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-													<i class="pbmit-base-icon-download" style="font-size: 25px;"></i>
-												</div>
-											</a>
-										</div>
-									</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Drawings Pack</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Architectural 2D cross-sections, ceiling cove details, and 3D Revit families for project drafting.</div>
-										<div style="margin-top: 15px; font-size: 14px; color: #666;">
-											<strong>PDF - 2.1 MB</strong>
-										</div>
-									</div>
-								</div>
-								
-							</div>
-						</div>
 					</div>
-				</div>
-			</section>
-			<!-- Downloads Section End -->
 
-				  <!-- Ihbox Start -->
-			<section class="section-lg ihbox-five">
-				<div class="container">
-					<div class="row g-0">
-						<div class="pbmit-col-20">
-							<div class="pbmit-ihbox-style-10">
-								<div class="pbmit-ihbox-headingicon">
-									<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
-											<img src="images/homepage-5/ihbox/ih-award01.png" alt="Image">
-										</div>
-									</div>
-									<div class="pbmit-ihbox-contents">
-										<h2 class="pbmit-element-title">Top PVC Panel Manufacturer</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="pbmit-col-20">
-							<div class="pbmit-ihbox-style-10">
-								<div class="pbmit-ihbox-headingicon">
-									<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
-											<img src="images/homepage-5/ihbox/ih-award02.png" alt="Image">
-										</div>
-									</div>
-									<div class="pbmit-ihbox-contents">
-										<h2 class="pbmit-element-title">Best Quality Wall & Ceiling Panels</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="pbmit-col-20">
-							<div class="pbmit-ihbox-style-10">
-								<div class="pbmit-ihbox-headingicon">
-									<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
-											<img src="images/homepage-5/ihbox/ih-award03.png" alt="Image">
-										</div>
-									</div>
-									<div class="pbmit-ihbox-contents">
-										<h2 class="pbmit-element-title">Trusted by 500+ Clients Across India</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="pbmit-col-20">
-							<div class="pbmit-ihbox-style-10">
-								<div class="pbmit-ihbox-headingicon">
-									<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
-											<img src="images/homepage-5/ihbox/ih-award04.png" alt="Image">
-										</div>
-									</div>
-									<div class="pbmit-ihbox-contents">
-										<h2 class="pbmit-element-title">Excellence in Manufacturing Award</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="pbmit-col-20">
-							<div class="pbmit-ihbox-style-10">
-								<div class="pbmit-ihbox-headingicon">
-									<div class="pbmit-ihbox-icon">
-										<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-image">
-											<img src="images/homepage-5/ihbox/ih-award05.png" alt="Image">
-										</div>
-									</div>
-									<div class="pbmit-ihbox-contents">
-										<h2 class="pbmit-element-title">Best Emerging Brand in Surface Solutions</h2>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
 				</div>
-			</section>
-			<!-- Ihbox End -->
-			
 		</div>
-		<!-- page content End -->
+		</section>
+		
+		<!-- Downloads Section End -->
+
+		<!-- Final CTA Section Start -->
+			<section class="section-xl pbmit-final-cta-section">
+				<div class="container">
+					<div class="pbmit-final-cta-inner text-center">
+						<div class="pbmit-cta-divider mx-auto mb-4"></div>
+						<h2 class="pbmit-cta-title">Need Help Choosing the Right Panel?</h2>
+						<p class="pbmit-cta-desc mx-auto">
+							Our team is here to guide you — from product selection to installation support.
+						</p>
+						<div
+							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
+							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+								<span>Get in Touch</span>
+							</a>
+							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+								<span>Download Catalogue</span>
+							</a>
+
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Final CTA Section End -->
 
 		<!-- footer -->
 		<?php require('includes/footer.php'); ?>

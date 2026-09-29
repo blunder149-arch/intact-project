@@ -57,7 +57,7 @@
 						<div class="pbmit-title-bar-content-inner">
 							<div class="pbmit-tbar">
 								<div class="pbmit-tbar-inner container">
-									<h1 class="pbmit-tbar-title">Quality Built Into Every Panel</h1>
+									<h1 class="pbmit-tbar-title">Manufactured with Precision & Quality</h1>
 								</div>
 							</div>
 							<div class="pbmit-breadcrumb">
@@ -76,38 +76,43 @@
 				</div> 
 			</div>
 			
-			 <!-- About --> 
-			   <section class="section-xl">
+			 <!-- Quality Assurance & Standards Start --> 
+			  <section class="section-xl" style="background-color: #ffffff;">
 				<div class="container">
-					<div class="row g-0">
-						<div class="col-md-12 col-xl-6">
+					<div class="row align-items-center g-5">
+						<div class="col-lg-5">
+							<div class="about-three-img1">
+								<div class="pbmit-animation-style7 active">
+									<img src="images/product/quality7.jpg" class="img-fluid" alt="PVC Wall and Ceiling Panel Quality Standards"
+										style="width: 100%; height: 471px; object-fit: cover;">
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-7">
 							<div class="pbmit-heading-subheading animation-style2">
-								<h4 class="pbmit-subtitle">Our Commitment</h4>
-								<h2 class="pbmit-title">Quality Built Into Every Product</h2>
+								<h4 class="pbmit-subtitle">QUALITY ASSURANCE & STANDARDS</h4>
+								<h2 class="pbmit-title">High-Performance PVC Wall & Ceiling Panels</h2>
 							</div>
 							<div class="pbmit-heading-desc mt-3" align="justify">
-								Using high-grade virgin PVC compounds and advanced extrusion technology, we ensure consistent thickness, accurate dimensions, and excellent dimensional stability across every panel we produce. Before any product reaches you, it goes through rigorous quality checks covering surface finish, colour consistency, strength, and flatness, so you can install with complete confidence knowing each panel will perform exactly the way it should.
-							</div>
-							<div class="pbmit-heading-desc mt-3" align="justify">
-								We don't just aim for good we aim for consistent, dependable results that hold up beautifully even in tough, demanding environments. Whether it's your home, office, or commercial space, our panels are built to perform for years without letting you down.
-							</div>
-							<div class="pbmit-heading-desc mt-3" align="justify">
-								Because long-term value matters as much as day-one performance, every panel is engineered to be eco-friendly, recyclable, and built to last a smarter, more sustainable choice for tomorrow.
-							</div>
+								At <strong>INTACT Design & Extrusion</strong>, quality is built into every step of our manufacturing process. We produce high-performance <strong>PVC wall panels</strong> and <strong>PVC ceiling panels</strong> using 100% virgin PVC raw materials and state-of-the-art precision extrusion lines. Every panel undergoes multi-stage quality testing to guarantee consistent thickness, accurate dimensions, and flawless surface finishes for modern interior applications.<br><br>
+								Designed to outperform traditional wall cladding and plasterboard ceilings, INTACT PVC panels are 100% <strong>waterproof, termite-proof, and fire-retardant</strong>. Whether engineered for residential homes, corporate offices, luxury hotels, or commercial complexes, our panels deliver exceptional durability, zero-maintenance upkeep, and long-lasting aesthetic brilliance.
+							</div><br><br>
 							<div class="row g-4">
 								<div class="col-md-6">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
+												<i aria-hidden="true"
+													class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Accurate Dimensions</span>
+											<span class="pbmit-icon-list-text"><strong>100% Virgin PVC Compound</strong></span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
+												<i aria-hidden="true"
+													class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Superior Surface Finish</span>
+											<span class="pbmit-icon-list-text"><strong>Precision Extrusion Control</strong></span>
 										</li>
 									</ul>
 								</div>
@@ -115,175 +120,103 @@
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
+												<i aria-hidden="true"
+													class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Colour Consistency</span>
+											<span class="pbmit-icon-list-text"><strong>Waterproof & Anti-Fungal</strong></span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
+												<i aria-hidden="true"
+													class="pbmit-xinterio-icon pbmit-xinterio-icon-tick-mark"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Reliable Performance</span>
+											<span class="pbmit-icon-list-text"><strong>Fire-Retardant & Termite-Proof</strong></span>
 										</li>
 									</ul>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-12 col-xl-6 position-relative">
-							<div class="about-three-rightbox h-100">
-								<div class="about-three-img1 h-100">
-									<div class="pbmit h-100">
-										<img src="images/product/quality1.jpg" class="img-fluid h-100 object-fit-cover" alt="Quality Image">
-									</div>
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
-            </section>            
-            <!-- About End -->  
-			
-				<!-- Accordion Start -->
-			  <section class="section-xl">
+			</section>          
+			<!-- Quality Assurance & Standards End -->  
+
+			<!-- Our Manufacturing Process Start -->
+			<section class="section-xl" style="background-color: #f8f5f0; padding: 75px 0;">
 				<div class="container">
-				<div class="pbmit-heading-subheading text-center animation-style2">
-						<h2 class="pbmit-title">What Makes Our Panels Different</h2>
-					</div>	
-					<div class="row">
-					<div class="col-md-12 col-xl-5">
-							<div class="accordion-two-rightbox">
-								
-								<div class="floor-img">
-									<img src="images/product/quality7.jpg" class="img-fluid" alt="Image">
+					<div class="pbmit-heading-subheading text-center animation-style2" style="margin-bottom: 40px !important;">
+						<h4 class="pbmit-subtitle">HOW WE MANUFACTURE</h4>
+						<h2 class="pbmit-title">From Raw Material to Finished Panel</h2>
+					</div>
+
+					<div class="intact-process-card-box p-4 p-lg-5" style="background: #ffffff; border: 1px solid #e8e2d8;  margin-top: 25px;">
+						<div class="row g-4">
+							<!-- Step 01 -->
+							<div class="col-md-6 col-lg-3 intact-process-col">
+								<div class="intact-process-item pe-lg-3 h-100">
+									<div class="intact-process-num mb-3" style="font-size: 52px; font-weight: 800; color: #b58a4c; line-height: 1; font-family: var(--pbmit-heading-typography-font-family); opacity: 0.95;">
+										01
+									</div>
+									<h3 class="intact-process-title mb-2" style="font-size: 18px; font-weight: 700; color: #33251a;">
+										Raw Material Selection
+									</h3>
+									<p class="intact-process-desc mb-0" style="font-size: 14px; color: #665b52; line-height: 1.6;">
+										We source high-grade virgin PVC compounds, ensuring quality starts from the very first stage.
+									</p>
 								</div>
 							</div>
-						</div>
-						<div class="col-md-12 col-xl-7">
-							<div class="accordion-two-area">
-								<div class="accordion" id="accordionExample1">
-									<div class="accordion-item active">
-										<h2 class="accordion-header" id="heading1">
-											<button class="accordion-button" type="button" data-bs-toggle="collapse" 
-											data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													Consistent Thickness
-												</span>
-											</button>
-										</h2>
-										<div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordionExample1">
-											<div class="accordion-body">
-												<P>Every panel is manufactured with uniform thickness using advanced extrusion technology. This ensures a smooth finish that installs seamlessly.</P>
-											</div>
-										</div>
+							<!-- Step 02 -->
+							<div class="col-md-6 col-lg-3 intact-process-col">
+								<div class="intact-process-item ps-lg-3 pe-lg-3 h-100">
+									<div class="intact-process-num mb-3" style="font-size: 52px; font-weight: 800; color: #b58a4c; line-height: 1; font-family: var(--pbmit-heading-typography-font-family); opacity: 0.95;">
+										02
 									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="heading2">
-											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-											data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													Accurate Dimensions
-												</span>
-											</button>
-										</h2>
-										<div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" 
-										data-bs-parent="#accordionExample1">
-											<div class="accordion-body">
-												<p>Precise width and length specifications are maintained across every PVC panel produced. This accuracy delivers a perfect fit with minimal wastage.</p>
-											</div>
-										</div>
+									<h3 class="intact-process-title mb-2" style="font-size: 18px; font-weight: 700; color: #33251a;">
+										Precision Extrusion
+									</h3>
+									<p class="intact-process-desc mb-0" style="font-size: 14px; color: #665b52; line-height: 1.6;">
+										Advanced extrusion technology shapes each panel with consistent thickness and accurate dimensions.
+									</p>
+								</div>
+							</div>
+							<!-- Step 03 -->
+							<div class="col-md-6 col-lg-3 intact-process-col">
+								<div class="intact-process-item ps-lg-3 pe-lg-3 h-100">
+									<div class="intact-process-num mb-3" style="font-size: 52px; font-weight: 800; color: #b58a4c; line-height: 1; font-family: var(--pbmit-heading-typography-font-family); opacity: 0.95;">
+										03
 									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="heading3">
-											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" 
-											data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													Superior Surface Finish 
-												</span>
-											</button>
-										</h2> 
-										<div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" 
-										data-bs-parent="#accordionExample1">
-											<div class="accordion-body">
-												<p>A flawless, scratch-resistant surface is achieved through advanced finishing techniques on every panel. This gives lasting shine in wood, marble, and metallic textures.</p>
-											</div>
-										</div>                         
-									</div>      
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="heading4">
-											<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" 
-											data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="../../www.w3.org/2000/svg.html">
-															<path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													Long-Lasting Durability
-												</span>
-											</button>
-										</h2> 
-										<div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" 
-										data-bs-parent="#accordionExample1">
-											<div class="accordion-body">
-												<p>Strong resistance to moisture, termites, and daily wear is built into every wall and ceiling panel. This durability lowers maintenance costs over time.</p>
-											</div>
-										</div>                         
-									</div>     									
+									<h3 class="intact-process-title mb-2" style="font-size: 18px; font-weight: 700; color: #33251a;">
+										Quality Inspection
+									</h3>
+									<p class="intact-process-desc mb-0" style="font-size: 14px; color: #665b52; line-height: 1.6;">
+										Every panel undergoes rigorous checks for surface finish, strength, and flatness before moving forward.
+									</p>
+								</div>
+							</div>
+							<!-- Step 04 -->
+							<div class="col-md-6 col-lg-3 intact-process-col">
+								<div class="intact-process-item ps-lg-3 h-100">
+									<div class="intact-process-num mb-3" style="font-size: 52px; font-weight: 800; color: #b58a4c; line-height: 1; font-family: var(--pbmit-heading-typography-font-family); opacity: 0.95;">
+										04
+									</div>
+									<h3 class="intact-process-title mb-2" style="font-size: 18px; font-weight: 700; color: #33251a;">
+										Ready for Delivery
+									</h3>
+									<p class="intact-process-desc mb-0" style="font-size: 14px; color: #665b52; line-height: 1.6;">
+										Finished panels are carefully packed and prepared for dispatch — ready to transform your space.
+									</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Accordion End --> 
-			
-			<!-- Section -->
-			<section class="section-lgt pbmit-bg-color-light">
+			<!-- Our Manufacturing Process End -->
+
+			<section class="section-lgt" style="background-color: #ffffff; padding: 75px 0;">
 				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2 mb-0">
+					<div class="pbmit-heading-subheading text-center animation-style2 mb-4">
+						<h4 class="pbmit-subtitle">OUR CORE PILLARS</h4>
 						<h2 class="pbmit-title">Pillars of Our Quality Assurance</h2>
 					</div>
 
@@ -305,7 +238,7 @@
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Honeycomb structure resists dents, scratches, and heavy impact.</div>
+										<div class="pbmit-heading-desc" style="text-align: justify;">Our PVC panels feature a honeycomb structure that resists dents, scratches, and heavy impact.</div>
 									</div>
 								</div>
 							</div>
@@ -328,7 +261,7 @@
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Fresh virgin PVC ensures maximum strength and long life.</div>
+										<div class="pbmit-heading-desc" style="text-align: justify;">Fresh virgin PVC compounds ensure maximum strength and long-lasting, durable panels.</div>
 									</div>
 								</div>
 							</div>
@@ -351,7 +284,7 @@
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Non-porous design keeps out water, bacteria, and fungal decay.</div>
+										<div class="pbmit-heading-desc" style="text-align: justify;">Our PVC panels have a non-porous design that keeps out water, bacteria, and fungal decay.</div>
 									</div>
 								</div>
 							</div>
@@ -374,7 +307,7 @@
 										</div>
 									</div>
 									<div class="pbmit-content-wrapper">
-										<div class="pbmit-heading-desc">Self-extinguishing material stops flame spread with minimal smoke.</div>
+										<div class="pbmit-heading-desc" style="text-align: justify;">Every PVC panel uses self-extinguishing material that stops flame spread with minimal smoke.</div>
 									</div>
 								</div>
 							</div>
@@ -382,56 +315,34 @@
 					</div>
 				</div>
 			</section>
-			<!-- Section End -->
 			
-			<!-- Portfolio Grid col 4 -->
-		<section class="section-xl">
-			<div class="pbmit-heading-subheading text-center animation-style2 mb-0">
-						<h2 class="pbmit-title">Showcasing Our Quality Installation</h2>
+			
+
+			 
+			
+			<!-- Final CTA Section Start -->
+			<section class="section-xl pbmit-final-cta-section">
+				<div class="container">
+					<div class="pbmit-final-cta-inner text-center">
+						<div class="pbmit-cta-divider mx-auto mb-4"></div>
+						<h2 class="pbmit-cta-title">Not Sure Which Panel Suits Your Space?</h2>
+						<p class="pbmit-cta-desc mx-auto">
+							Talk to our team — we'll help you choose the right PVC panel for your project.
+						</p>
+						<div
+							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
+							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+								<span>Get in Touch</span>
+							</a>
+							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+								<span>Download Catalogue</span>
+							</a>
+							
+						</div>
 					</div>
-					<br>
-			<div class="container-fluid px-4">
-				<div class="row pbmit-element-posts-wrapper">
-					<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 col-md-6 col-lg-3">
-						<div class="pbminfotech-post-content">
-							<div class="pbmit-featured-img-wrapper">
-								<div class="pbmit-featured-wrapper">
-									<img src="images/product/q1.jpg" class="img-fluid" alt="Image">
-								</div>
-							</div>
-						</div>
-					</article>
-					<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 col-md-6 col-lg-3">
-						<div class="pbminfotech-post-content">
-							<div class="pbmit-featured-img-wrapper">
-								<div class="pbmit-featured-wrapper">
-									<img src="images/product/installation/q2.jpg" class="img-fluid" alt="Image">
-								</div>
-							</div>
-						</div>
-					</article>
-					<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 col-md-6 col-lg-3">
-						<div class="pbminfotech-post-content">
-							<div class="pbmit-featured-img-wrapper">
-								<div class="pbmit-featured-wrapper">
-									<img src="images/product/q3.jpg" class="img-fluid" alt="Image">
-								</div>
-							</div>
-						</div>
-					</article>
-					<article class="pbmit-ele-portfolio pbmit-portfolio-style-2 col-md-6 col-lg-3">
-						<div class="pbminfotech-post-content">
-							<div class="pbmit-featured-img-wrapper">
-								<div class="pbmit-featured-wrapper">
-									<img src="images/product/q4.jpg" class="img-fluid" alt="Image">
-								</div>
-							</div>
-						</div>
-					</article>
 				</div>
-			</div>
-		</section>
-		<!-- Portfolio Grid col 4 End -->
+			</section>
+			<!-- Final CTA Section End -->
 		
 		</div>
 		<!-- page content End -->

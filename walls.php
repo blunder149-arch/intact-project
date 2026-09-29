@@ -105,13 +105,13 @@
 														<div class="pbmit-ihbox-icon-wrapper">
 															<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
 																<i
-																	class="pbmit-xinterio-icon pbmit-xinterio-icon-pantone"></i>
+																	class="pbmit-xinterio-icon pbmit-xinterio-icon-tape-measure"></i>
 															</div>
 														</div>
 													</div>
 													<div class="pbmit-ihbox-contents">
 														<h2 class="pbmit-element-title" style="font-size: 15px;">
-															Lines — S · M · L
+															Thickness — 10mm
 														</h2>
 													</div>
 												</div>
@@ -126,13 +126,34 @@
 														<div class="pbmit-ihbox-icon-wrapper">
 															<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
 																<i
-																	class="pbmit-xinterio-icon pbmit-xinterio-icon-tape-measure"></i>
+																	class="pbmit-xinterio-icon pbmit-xinterio-icon-axis"></i>
 															</div>
 														</div>
 													</div>
 													<div class="pbmit-ihbox-contents">
 														<h2 class="pbmit-element-title" style="font-size: 15px;">
-															Thickness — 5mm – 12mm
+															Width — 300mm
+														</h2>
+													</div>
+												</div>
+											</div>
+										</article>
+									</div>
+									<div class="col-md-6">
+										<article class="pbmit-miconheading-style-9 h-100">
+											<div class="pbmit-ihbox-style-9 h-100">
+												<div class="pbmit-ihbox-box d-flex align-items-center h-100">
+													<div class="pbmit-ihbox-icon">
+														<div class="pbmit-ihbox-icon-wrapper">
+															<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
+																<i
+																	class="pbmit-xinterio-icon pbmit-xinterio-icon-house-design"></i>
+															</div>
+														</div>
+													</div>
+													<div class="pbmit-ihbox-contents">
+														<h2 class="pbmit-element-title" style="font-size: 15px;">
+															Length — 3.05m & 3.66m
 														</h2>
 													</div>
 												</div>
@@ -168,34 +189,13 @@
 														<div class="pbmit-ihbox-icon-wrapper">
 															<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
 																<i
-																	class="pbmit-xinterio-icon pbmit-xinterio-icon-axis"></i>
-															</div>
-														</div>
-													</div>
-													<div class="pbmit-ihbox-contents">
-														<h2 class="pbmit-element-title" style="font-size: 15px;">
-															Mount — Vertical · Horizontal
-														</h2>
-													</div>
-												</div>
-											</div>
-										</article>
-									</div>
-									<div class="col-md-6">
-										<article class="pbmit-miconheading-style-9 h-100">
-											<div class="pbmit-ihbox-style-9 h-100">
-												<div class="pbmit-ihbox-box d-flex align-items-center h-100">
-													<div class="pbmit-ihbox-icon">
-														<div class="pbmit-ihbox-icon-wrapper">
-															<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-																<i
 																	class="pbmit-xinterio-icon pbmit-xinterio-icon-house-design"></i>
 															</div>
 														</div>
 													</div>
 													<div class="pbmit-ihbox-contents">
 														<h2 class="pbmit-element-title" style="font-size: 15px;">
-															Length — Up to 3.05m
+															Mount — Vertical · Horizontal
 														</h2>
 													</div>
 												</div>
@@ -237,8 +237,643 @@
 					</div>
 				</div>
 			</section>
+
+
+			<!-- Colour & Finish Library Start -->
+			<section class="section-xl" style="background-color: #f8f5f0; padding: 65px 0;">
+				<div class="container">
+					<div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-end mb-4 gap-3">
+						<div class="pbmit-heading-subheading text-start animation-style2 mb-0">
+							<h4 class="pbmit-subtitle">COLOUR & FINISH LIBRARY</h4>
+							<h2 class="pbmit-title mb-0">Extruded PVC Wall Panel Finishes</h2>
+						</div>
+						<!-- Filter Tabs -->
+						<div class="pbmit-sortable-list pbmit-finish-filter mb-0">
+							<ul class="pbmit-sortable-list-ul mb-0">
+								<li><a href="#" class="pbmit-selected" data-filter="*">ALL (21)</a></li>
+								<li><a href="#" data-filter="wood">WOODEN TEXTURE (10)</a></li>
+								<li><a href="#" data-filter="plain">PLAIN / STONE (4)</a></li>
+								<li><a href="#" data-filter="marble">MARBLE DESIGN (7)</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row pbmit-element-posts-wrapper g-3">
+						<!-- ================= WOODEN TEXTURE (10) ================= -->
+						<!-- 001: Vintage Walnut -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Vintage-Walnut-001-p.jpg"
+										data-simple="images/2G/Vintage-Walnut-001-p.jpg"
+										data-golden="images/2G/Vintage-Walnut-001.jpg"
+										data-copper="images/2G/Vintage-Walnut-001-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Vintage Walnut">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Vintage Walnut <span class="finish-code">(001)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 002: Natural White -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Natural-White-002-p.jpg"
+										data-simple="images/2G/Natural-White-002-p.jpg"
+										data-golden="images/2G/Natural-White-002.jpg"
+										data-copper="images/2G/Natural-White-002-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Natural White">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Natural White <span class="finish-code">(002)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 003: Teak Wood -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/teak-wood-003-p.jpg" data-simple="images/2G/teak-wood-003-p.jpg"
+										data-golden="images/2G/teak-wood-003.jpg"
+										data-copper="images/2G/teak-wood-003-p-c.jpg" class="img-fluid finish-panel-img"
+										alt="Teak Wood">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Teak Wood <span class="finish-code">(003)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+						<!-- 004: Heritage Walnut -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Heritage-Walnut-034-p.jpg"
+										data-simple="images/2G/Heritage-Walnut-034-p.jpg"
+										data-golden="images/2G/Heritage-Walnut-034.jpg"
+										data-copper="images/2G/Heritage-Walnut-034-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Heritage Walnut">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Heritage Walnut <span class="finish-code">(004)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 005: Oak Wood -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Oak-Wood-005-p.jpg" data-simple="images/2G/Oak-Wood-005-p.jpg"
+										data-golden="images/2G/oak-wood-g.jpg.jpeg"
+										data-copper="images/2G/Oak-Wood-005-p-c.jpg" class="img-fluid finish-panel-img"
+										alt="Oak Wood">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Oak Wood <span class="finish-code">(005)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 006: Classic Walnut -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/classic-walnut-006-p.jpg"
+										data-simple="images/2G/classic-walnut-006-p.jpg"
+										data-golden="images/2G/classic-walnut-006.jpg"
+										data-copper="images/2G/classic-walnut-006-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Classic Walnut">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Classic Walnut <span class="finish-code">(006)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 007: Golden Oak -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Golden-Oak-007-p.jpg"
+										data-simple="images/2G/Golden-Oak-007-p.jpg"
+										data-golden="images/2G/Golden-Oak-007.jpg"
+										data-copper="images/2G/Golden-Oak-007-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Golden Oak">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Golden Oak <span class="finish-code">(007)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 008: Retro Wood -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/retro-wood-s.jpg.jpeg"
+										data-simple="images/2G/retro-wood-s.jpg.jpeg"
+										data-golden="images/2G/Retro-Wood-008.jpg"
+										data-copper="images/2G/retro-wood-c.jpg" class="img-fluid finish-panel-img"
+										alt="Retro Wood">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Retro Wood <span class="finish-code">(008)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 010: Desert Oak -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/desert-oak-010-p.jpg"
+										data-simple="images/2G/desert-oak-010-p.jpg"
+										data-golden="images/2G/desert-oak-010.jpg"
+										data-copper="images/2G/desert-oak-010-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Desert Oak">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Desert Oak <span class="finish-code">(010)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 011: Honey Oak -->
+						<article class="wall-finish-item finish-item wood">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Honey-Oak-011.jpg" data-simple="images/2G/Honey-Oak-011.jpg"
+										data-golden="images/2G/honey-oak-g.jpg.jpeg"
+										data-copper="images/2G/Honey-Oak-011-c.jpg" class="img-fluid finish-panel-img"
+										alt="Honey Oak">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Honey Oak <span class="finish-code">(011)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- ================= PLAIN / STONE (4) ================= -->
+						<!-- 012: Urban Concrete -->
+						<article class="wall-finish-item finish-item plain">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Urban-Concrete-012-p.jpg"
+										data-simple="images/2G/Urban-Concrete-012-p.jpg"
+										data-golden="images/2G/Urban-Concrete-012.jpg"
+										data-copper="images/2G/Urban-Concrete-012-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Urban Concrete">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Urban Concrete <span class="finish-code">(012)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 021: Sage Stone -->
+						<article class="wall-finish-item finish-item plain">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Sage-Stone-021-p.jpg"
+										data-simple="images/2G/Sage-Stone-021-p.jpg"
+										data-golden="images/2G/SageStone-021.jpg"
+										data-copper="images/2G/Sage-Stone-021-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Sage Stone">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Sage Stone <span class="finish-code">(021)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 022: Titanium Grey -->
+						<article class="wall-finish-item finish-item plain">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Titanium-Grey-022-p.jpg"
+										data-simple="images/2G/Titanium-Grey-022-p.jpg"
+										data-golden="images/2G/Titanium-Grey-022.jpg"
+										data-copper="images/2G/Titanium-Grey-022-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Titanium Grey">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Titanium Grey <span class="finish-code">(022)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 023: Silk Cream -->
+						<article class="wall-finish-item finish-item plain">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/silk-cream.jpg" data-simple="images/2G/silk-cream.jpg"
+										data-golden="images/2G/silk-cream-g.jpg"
+										data-copper="images/2G/silk-cream-c.jpg" class="img-fluid finish-panel-img"
+										alt="Silk Cream">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Silk Cream <span class="finish-code">(023)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- ================= MARBLE DESIGN (7) ================= -->
+						<!-- 032: White Pearl -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/White-Pearl-032.jpg" data-simple="images/2G/White-Pearl-032.jpg"
+										data-golden="images/2G/White-Pearl-032-p.jpg"
+										data-copper="images/2G/White-Pearl-032-c.jpg" class="img-fluid finish-panel-img"
+										alt="White Pearl">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										White Pearl <span class="finish-code">(032)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 033: Imperial Stone -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Imperial-Stone-033-p.jpg"
+										data-simple="images/2G/Imperial-Stone-033-p.jpg"
+										data-golden="images/2G/Imperial-Stone-033.jpg"
+										data-copper="images/2G/Imperial-Stone-033-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Imperial Stone">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Imperial Stone <span class="finish-code">(033)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 034: White Royal Gold -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/White-Royal-Gold-034-p.jpg"
+										data-simple="images/2G/White-Royal-Gold-034-p.jpg"
+										data-golden="images/2G/White-Royal-Gold-034.jpg"
+										data-copper="images/2G/White-Royal-Gold-034-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="White Royal Gold">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										White Royal Gold <span class="finish-code">(034)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 035: Smoky Titanium -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Smoky-Titanium-035-p.jpg"
+										data-simple="images/2G/Smoky-Titanium-035-p.jpg"
+										data-golden="images/2G/Smoky-Titanium-035.jpg"
+										data-copper="images/2G/Smoky-Titanium-035-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Smoky Titanium">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Smoky Titanium <span class="finish-code">(035)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 036: Green Stone -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/green-stone-036-p.jpg"
+										data-simple="images/2G/green-stone-036-p.jpg"
+										data-golden="images/2G/green-stone-036.jpg"
+										data-copper="images/2G/green-stone-036-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Green Stone">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Green Stone <span class="finish-code">(036)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 037: Marble Black -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/Marble-Black-037-p.jpg"
+										data-simple="images/2G/Marble-Black-037-p.jpg"
+										data-golden="images/2G/Marble-Black-037.jpg"
+										data-copper="images/2G/Marble-Black-037-p-c.jpg"
+										class="img-fluid finish-panel-img" alt="Marble Black">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Marble Black <span class="finish-code">(037)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
+											Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<!-- 038: Gremish Royal -->
+						<article class="wall-finish-item finish-item marble">
+							<div class="finish-card-box text-center">
+								<div class="finish-img-wrap">
+									<img src="images/2G/gremish-royal-s.jpg" data-simple="images/2G/gremish-royal-s.jpg"
+										data-golden="images/2G/gremish-royal-g.jpg"
+										data-copper="images/2G/gremish-royal-c.jpg" class="img-fluid finish-panel-img"
+										alt="Gremish Royal">
+								</div>
+								<div class="finish-card-body">
+									<h3 class="finish-card-title">
+										Gremish Royal <span class="finish-code">(038)</span>
+									</h3>
+									<div class="finish-line-types">
+										<button type="button" class="finish-type-btn active" data-type="simple"
+											title="Simple Black Line"><span
+												class="finish-type-dot dot-simple"></span>Simple</button>
+										<button type="button" class="finish-type-btn" data-type="golden"
+											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
+											Golden</button>
+										<button type="button" class="finish-type-btn" data-type="copper"
+											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
+											Copper</button>
+									</div>
+								</div>
+							</div>
+						</article>
+
+					</div>
+				</div>
+			</section>
+			<!-- Colour & Finish Library End -->
+
+
+
+
+
 			<!-- Wall Sub-Categories Start -->
-			<section id="sub-categories" class="section-md" style="background-color: #ffffff; padding: 65px 0; border-top: 1px solid #eee;">
+			<!-- <section id="sub-categories" class="section-md" style="background-color: #ffffff; padding: 65px 0; border-top: 1px solid #eee;">
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style4 mb-5">
 						<h4 class="pbmit-subtitle">FLUTED PANELS</h4>
@@ -294,14 +929,14 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- Wall Sub-Categories End -->
 			<!-- Ihbox Start -->
-			<section style="background-color: #f8f5f0; padding: 65px 0;">
+			<!-- <section style="background-color: #f8f5f0; padding: 65px 0;">
 				<div class="container">
 					<div class="row justify-content-center text-center mb-1">
 						<div class="col-lg-8">
-							<div class="pbmit-heading-subheading" style="margin-bottom: 0;">
+							<div class="pbmit-heading-subheading animation-style2" style="margin-bottom: 0;">
 								<h4 class="pbmit-subtitle" style="margin-bottom: 2px;">Product Features</h4>
 								<h2 class="pbmit-title" style="margin-bottom: 4px;">Features That Matter</h2>
 								<div class="pbmit-heading-desc mx-auto" style="max-width: 650px;">
@@ -380,7 +1015,7 @@
 							<div class="ihbox-imgbox">
 								<img src="images/pvc-ceilibg-panel.png" class="img-fluid"
 									style="width: 420px; height: 420px; max-width: 100%; border-radius: 50%; object-fit: cover; border: 8px solid #ffffff; box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);"
-									alt="PVC Ceiling Panels">
+									alt="PVC Wall Panels">
 							</div>
 						</div>
 						<div class="col-md-3 ihbox-one-right-col">
@@ -449,18 +1084,18 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
-
+			<!-- 
 			<section class="section-md">
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style4">
 						<h4 class="pbmit-subtitle">THE LINES</h4>
 						<h2 class="pbmit-title">Every Line Tells a Story.</h2>
 					</div>
-					<div class="row g-4">
-						<!-- Card 1 - S -->
-						<div class="col-md-4">
+					<div class="row g-4"> -->
+			<!-- Card 1 - S -->
+			<!-- <div class="col-md-4">
 							<article class="pbmit-service-style-6">
 								<div class="pbminfotech-post-item">
 									<div class="pbmit-box-content-wrap">
@@ -490,9 +1125,9 @@
 									</div>
 								</div>
 							</article>
-						</div>
-						<!-- Card 2 - M -->
-						<div class="col-md-4">
+						</div> -->
+			<!-- Card 2 - M -->
+			<!-- <div class="col-md-4">
 							<article class="pbmit-service-style-6">
 								<div class="pbminfotech-post-item">
 									<div class="pbmit-box-content-wrap">
@@ -522,9 +1157,9 @@
 									</div>
 								</div>
 							</article>
-						</div>
-						<!-- Card 3 - L -->
-						<div class="col-md-4">
+						</div> -->
+			<!-- Card 3 - L -->
+			<!-- <div class="col-md-4">
 							<article class="pbmit-service-style-6">
 								<div class="pbminfotech-post-item">
 									<div class="pbmit-box-content-wrap">
@@ -557,13 +1192,13 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 			<!-- Static Box Start -->
 			<section class="section-md pbmit-static-box-border overflow-hidden"
 				style="background-color: #f4efe6; padding: 75px 0; border-top: 1px solid #e2dacd; border-bottom: 1px solid #e2dacd;">
 				<div class="container p-0">
-					<div class="pbmit-heading-subheading text-center animation-style4">
+					<div class="pbmit-heading-subheading text-center animation-style2">
 						<h4 class="pbmit-subtitle">HOW IT'S DONE</h4>
 						<h2 class="pbmit-title">How to Install PVC Wall Panels</h2>
 					</div>
@@ -572,7 +1207,8 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-1.png" class="img-fluid" alt="Measure & Prepare">
+										<img src="images/wall-install-step-1.png" class="img-fluid"
+											alt="Measure & Prepare">
 										<div class="pbmit-box-number">01</div>
 									</div>
 								</div>
@@ -589,7 +1225,8 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-2.png" class="img-fluid" alt="Install the Frame">
+										<img src="images/wall-install-step-2.png" class="img-fluid"
+											alt="Install the Frame">
 										<div class="pbmit-box-number">02</div>
 									</div>
 								</div>
@@ -606,7 +1243,8 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-3.png" class="img-fluid" alt="Fix the Panels">
+										<img src="images/wall-install-step-3.png" class="img-fluid"
+											alt="Fix the Panels">
 										<div class="pbmit-box-number">03</div>
 									</div>
 								</div>
@@ -641,13 +1279,80 @@
 			</section>
 			<!-- Static Box End -->
 
+
+			<!-- Installation Accessories Section Start -->
+			<section class="intact-accessories-section section-xl">
+				<div class="container">
+					<div class="intact-acc-card-wrapper">
+						<div class="row align-items-center">
+							<!-- Left Column: Hero Image from top section -->
+							<div class="col-lg-6 col-md-12">
+								<div class="intact-acc-left-hero">
+									<img src="images/installation-u-a.png" class="intact-acc-hero-img"
+										alt="PVC Wall Panels">
+								</div>
+							</div>
+
+							<!-- Right Column: Content & Accessories Grid -->
+							<div class="col-lg-6 col-md-12">
+								<div class="intact-acc-right-content">
+									<!-- Subtitle Header -->
+									<div class="intact-acc-header">
+										<div class="pbmit-heading-subheading animation-style2 mb-0">
+											<h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
+											<h2 class="pbmit-title">Finishing Touches That Matter</h2>
+										</div>
+										<div class="pbmit-heading-desc mt-3" text-align: justify;>
+											Our precision PVC panel joiners give your wall and ceiling installations a
+											clean, durable and professional finish. They hide joints, protect panel
+											edges and make every corner look sharp and neat. Perfect for homes, offices
+											and commercial spaces.
+										</div>
+									</div>
+
+									<!-- Two Accessory Profile Cards -->
+									<div class="row g-3 intact-acc-cards-row">
+										<!-- Card 1: U Jointer -->
+										<div class="col-6">
+											<div class="intact-acc-item-box">
+												<div class="intact-acc-img-wrap">
+													<img src="images/u-jointer.png" alt="U Jointer Profile"
+														class="img-fluid">
+												</div>
+												<h3 class="intact-acc-item-title">U Jointer</h3>
+												<p class="intact-acc-item-desc">Joins two PVC panels along a straight
+													line, hides the gap and gives a seamless finish.</p>
+											</div>
+										</div>
+
+										<!-- Card 2: Angle Jointer -->
+										<div class="col-6">
+											<div class="intact-acc-item-box">
+												<div class="intact-acc-img-wrap">
+													<img src="images/angle-jointer.png" alt="Angle Jointer Profile"
+														class="img-fluid">
+												</div>
+												<h3 class="intact-acc-item-title">Angle Jointer</h3>
+												<p class="intact-acc-item-desc">Made for corner installations. It adds
+													strength to the edge and gives a sharp, clean corner.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Installation Accessories Section End -->
+
 			<!-- Gallery Start -->
 			<section class="section-xl"
 				style="background-color: #ffffff; padding: 65px 0 60px 0; border-top: 1px solid #eee;">
 				<div class="container">
 					<div class="row justify-content-center text-center mb-4">
 						<div class="col-lg-8">
-							<div class="pbmit-heading-subheading">
+							<div class="pbmit-heading-subheading text-center animation-style2">
 								<h4 class="pbmit-subtitle">INSTALLED PROJECTS</h4>
 								<h2 class="pbmit-title">See Our Panels in Action</h2>
 							</div>
@@ -758,149 +1463,59 @@
 				</div>
 			</section>
 
-			<!-- Colour & Finish Library Start -->
-			<section class="section-xl"
-				style="background-color: #f8f5f0; padding: 65px 0; border-top: 2px solid #e0d8cc;">
+
+			<!-- CTA Section Start -->
+			<section class="section-lgt" style="padding: 75px 0; background: #f8f5f0;">
 				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2 mb-4">
-						<h4 class="pbmit-subtitle">COLOUR & FINISH LIBRARY</h4>
-						<h2 class="pbmit-title">Extruded PVC Wall Panel Finishes</h2>
-					</div>
-					<!-- Filter Tabs -->
-					<div class="pbmit-sortable-list text-center mb-4 pbmit-finish-filter">
-						<ul class="pbmit-sortable-list-ul">
-							<li><a href="#" class="pbmit-selected" data-filter="*">All Finishes</a></li>
-							<li><a href="#" data-filter="wood">Wood Finishes</a></li>
-							<li><a href="#" data-filter="solid">Solid Colors</a></li>
-							<li><a href="#" data-filter="marble">Marble Finishes</a></li>
-						</ul>
-					</div>
-					<div class="row pbmit-element-posts-wrapper g-4">
-						<article class="col-md-6 col-lg-3 finish-item solid">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Pure White Panel.png" class="img-fluid" alt="Pure White Panel"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Pure White Panel
-								</h3>
+					<div class="row align-items-center"
+						style="background: #ffffff; border-radius: 15px; padding: 50px 45px; border: 1px solid #e8e2d8; 	">
+						<div class="col-lg-8 col-md-12 mb-4 mb-lg-0">
+							<div class="cta-content-wrap">
+								<span class="text-uppercase d-block mb-2"
+									style="color: #bb9a65; letter-spacing: 2px; font-weight: 700; font-size: 13px;">READY
+									TO TRANSFORM YOUR SPACES?</span>
+								<h2 class="mb-3"
+									style="color: #33251a; font-size: 34px; font-weight: 700; line-height: 1.25; font-family: 'Space Grotesk', sans-serif;">
+									Elevate Your Walls with INTACT Premium PVC Panels</h2>
+								<p class="mb-0"
+									style="color: #665b52; font-size: 15px; max-width: 620px; line-height: 1.6;">
+									Connect with our extrusion specialists today for instant custom quotes, sample
+									swatches, or technical installation assistance.
+								</p>
 							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item solid">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8;">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Matte Black.png" class="img-fluid" alt="Matte Black"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Matte Black
-								</h3>
+						</div>
+						<div class="col-lg-4 col-md-12 text-lg-end text-start">
+							<div class="d-flex flex-column flex-sm-row flex-lg-column gap-3 justify-content-lg-end">
+								<a class="pbmit-btn" href="contact-us.php"
+									style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; border: none; padding: 14px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
+									<span class="pbmit-button-content-wrapper">
+										<span class="pbmit-button-text" style="color: #ffffff;">Get A Free Quote</span>
+									</span>
+								</a>
+								<a class="pbmit-btn" href="tel:+911234567890"
+									style="display: inline-flex; align-items: center; justify-content: center; background: transparent; color: #33251a; border: 1.5px solid #33251a; padding: 13px 26px; border-radius: 8px; font-weight: 600; text-decoration: none;">
+									<span class="pbmit-button-content-wrapper">
+										<span class="pbmit-button-text" style="color: #33251a;"><i
+												class="fa fa-phone me-2" style="color: #bb9a65;"></i>+91
+											1234567890</span>
+									</span>
+								</a>
 							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item wood">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Golden Oak.png" class="img-fluid" alt="Golden Oak"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Golden Oak
-								</h3>
-							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item wood">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Dark Walnut.png" class="img-fluid" alt="Dark Walnut"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Dark Walnut
-								</h3>
-							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item wood">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Oak Winchester.png" class="img-fluid" alt="Oak Winchester"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Oak Winchester
-								</h3>
-							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item wood">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Rosewood.png" class="img-fluid" alt="Rosewood"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Rosewood
-								</h3>
-							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item solid">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Graphite Grey.png" class="img-fluid" alt="Graphite Grey"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Graphite Grey
-								</h3>
-							</div>
-						</article>
-						<article class="col-md-6 col-lg-3 finish-item marble">
-							<div class="finish-card-box text-center p-3"
-								style="background: #ffffff;  border: 1px solid #e8e2d8; ">
-								<div class="finish-img-wrap"
-									style="background: #f7f4ef;  padding: 12px; height: 210px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-									<img src="images/Statuario Marble.png" class="img-fluid" alt="Statuario Marble"
-										style="max-height: 186px; max-width: 100%; object-fit: contain; ">
-								</div>
-								<h3 class="pbmit-portfolio-title mt-3 mb-1"
-									style="font-size: 22px; font-weight: 700; color: #33251a;">
-									Statuario Marble
-								</h3>
-							</div>
-						</article>
+						</div>
 					</div>
 				</div>
 			</section>
-			<!-- Colour & Finish Library End -->
+			<!-- CTA Section End -->
+
 
 			<!-- Faq Start -->
 			<section class="section-xl">
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">PVC CEILING PANELS</h4>
+						<h4 class="pbmit-subtitle">PVC WALL PANELS</h4>
 						<h2 class="pbmit-title">Frequently Asked Questions</h2>
 						<div class="pbmit-heading-desc">
-							Find answers to common questions about INTACT PVC ceiling panel specifications,<br>
+							Find answers to common questions about INTACT PVC wall panel specifications,<br>
 							waterproofing, installation, and finishes.
 						</div>
 					</div>
@@ -1154,15 +1769,15 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													7. Can LED lights & ceiling fans be installed with PVC panels?
+													7. Can LED lights & wall fixtures be installed with PVC wall panels?
 												</span>
 											</button>
 										</h2>
 										<div id="collapse3" class="accordion-collapse collapse"
 											aria-labelledby="heading3" data-bs-parent="#accordionExample1">
 											<div class="accordion-body">
-												Yes, PVC ceiling panels easily accommodate recessed LED spot lights,
-												strip lighting, ceiling fans, and chandelier fixtures with proper
+												Yes, PVC wall panels easily accommodate recessed LED spot lights,
+												strip lighting, wall sconces, and fixtures with proper
 												framing support.
 											</div>
 										</div>
@@ -1191,15 +1806,16 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													8. Why choose INTACT PVC ceiling panels over POP ceilings?
+													8. Why choose INTACT PVC wall panels over traditional wall paint or
+													wallpaper?
 												</span>
 											</button>
 										</h2>
 										<div id="collapse4" class="accordion-collapse collapse"
 											aria-labelledby="heading4" data-bs-parent="#accordionExample1">
 											<div class="accordion-body">
-												INTACT PVC ceiling panels are 100% moisture-proof, non-sagging, quicker
-												to install without plastering dust, and require zero repainting over
+												INTACT PVC wall panels are 100% moisture-proof, termite-proof, quicker
+												to install without dust, easy to clean, and require zero repainting over
 												their lifespan.
 											</div>
 										</div>
@@ -1312,6 +1928,59 @@
 		<script src="js/isotope.pkgd.min.js"></script>
 		<!-- Scripts JS -->
 		<script src="js/scripts.js"></script>
+		<script>
+			jQuery(document).ready(function ($) {
+				// Filter tabs
+				$('.pbmit-finish-filter a').on('click', function (e) {
+					e.preventDefault();
+					$('.pbmit-finish-filter a').removeClass('pbmit-selected');
+					$(this).addClass('pbmit-selected');
+					var filter = $(this).data('filter');
+					if (filter === '*' || filter === 'all') {
+						$('.finish-item').stop(true, true).fadeIn(250);
+					} else {
+						$('.finish-item').stop(true, true).hide();
+						$('.finish-item.' + filter).stop(true, true).fadeIn(250);
+					}
+				});
+
+				// Finish type button switcher (Simple / Golden / Copper)
+				$(document).on('click', '.finish-type-btn', function (e) {
+					e.preventDefault();
+					var $btn = $(this);
+					var $card = $btn.closest('.finish-card-box');
+					var type = $btn.data('type');
+					var $imgWrap = $card.find('.finish-img-wrap');
+					var $img = $imgWrap.find('.finish-panel-img');
+
+					var simpleSrc = $img.data('simple') || $img.attr('src');
+					var goldenSrc = $img.data('golden') || simpleSrc;
+					var copperSrc = $img.data('copper');
+
+					// Reset groove overlay classes
+					$imgWrap.removeClass('show-copper show-golden-overlay');
+
+					if (type === 'simple') {
+						$img.attr('src', simpleSrc);
+					} else if (type === 'golden') {
+						$img.attr('src', goldenSrc);
+						if (goldenSrc === simpleSrc) {
+							$imgWrap.addClass('show-golden-overlay');
+						}
+					} else if (type === 'copper') {
+						if (copperSrc) {
+							$img.attr('src', copperSrc);
+						} else {
+							$img.attr('src', simpleSrc);
+							$imgWrap.addClass('show-copper');
+						}
+					}
+
+					$card.find('.finish-type-btn').removeClass('active');
+					$btn.addClass('active');
+				});
+			});
+		</script>
 		<script defer
 			src="../../static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496"
 			integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ=="
