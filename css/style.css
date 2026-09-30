@@ -4255,7 +4255,7 @@ textarea.form-control {
 	display: inline-block !important;
 	background-color: #bb9a65 !important;
 	color: #ffffff !important;
-	padding: 6px 18px !important;
+	padding: 8px 18px !important;
 	border-radius: 25px !important;
 	font-size: 14px !important;
 	font-weight: 700 !important;
@@ -5051,6 +5051,7 @@ textarea.form-control {
 /* Site-wide Image Responsiveness & Media Scaling Overrides */
 img {
 	max-width: 100%;
+	height: auto;
 }
 
 @media (max-width: 767px) {
@@ -5060,6 +5061,7 @@ img {
 		height: 280px !important;
 		object-fit: cover !important;
 	}
+
 	.pbmit-static-box-style-3 .pbmit-img img {
 		max-width: 100% !important;
 		width: 160px !important;
@@ -5074,16 +5076,71 @@ img {
 	}
 }
 
-/* Heading Character Spacing (Letter Spacing) Fix */
-.pbmit-heading-subheading .pbmit-title,
-.pbmit-heading .pbmit-title,
-.pbmit-title,
+/* ==========================================================================
+   Global Typography Standardization (Exact Match to Homepage Design System)
+   ========================================================================== */
+/* 1. Banner Title (52px) */
+.pbmit-title-bar-wrapper .pbmit-tbar-title,
+.pbmit-tbar .pbmit-tbar-title,
 .pbmit-tbar-title {
+	font-family: "Space Grotesk", sans-serif !important;
+	font-size: 52px !important;
+	font-weight: 700 !important;
+	line-height: 1.2 !important;
 	letter-spacing: 0px !important;
 }
 
+/* 2. Subtitle / Title Badge (14px) */
+.pbmit-heading-subheading .pbmit-subtitle,
+.pbmit-heading .pbmit-subtitle,
 .pbmit-subtitle {
-	letter-spacing: 1px !important;
+	font-family: "Space Grotesk", sans-serif !important;
+	font-size: 14px !important;
+	font-weight: 700 !important;
+	letter-spacing: 1.5px !important;
+	text-transform: uppercase !important;
+	line-height: 20px !important;
+}
+
+/* 3. Section Heading (32px) */
+.pbmit-heading-subheading .pbmit-title,
+.pbmit-heading .pbmit-title,
+.pbmit-title,
+h2.pbmit-title {
+	font-family: "Space Grotesk", sans-serif !important;
+	font-size: 32px !important;
+	font-weight: 700 !important;
+	line-height: 1.3 !important;
+	letter-spacing: 0px !important;
+	color: #403226;
+}
+
+/* 4. Description / Paragraph (16px) */
+.pbmit-heading-desc,
+.pbmit-heading-desc p,
+.about-one-rightbox .pbmit-heading-desc,
+.pbmit-desc,
+p {
+	font-family: 'Roboto', sans-serif !important;
+	font-size: 16px !important;
+	line-height: 1.6 !important;
+	font-weight: 300 !important;
+}
+
+@media (max-width: 767px) {
+
+	.pbmit-title-bar-wrapper .pbmit-tbar-title,
+	.pbmit-tbar .pbmit-tbar-title,
+	.pbmit-tbar-title {
+		font-size: 34px !important;
+	}
+
+	.pbmit-heading-subheading .pbmit-title,
+	.pbmit-heading .pbmit-title,
+	.pbmit-title,
+	h2.pbmit-title {
+		font-size: 26px !important;
+	}
 }
 
 /* ==========================================================================
@@ -5204,6 +5261,7 @@ img {
 		justify-content: flex-start;
 		padding: 16px 14px;
 	}
+
 	.intact-finish-item {
 		min-width: 95px;
 	}
@@ -5434,18 +5492,22 @@ img {
 	.intact-acc-left-hero {
 		min-height: 400px;
 	}
+
 	.intact-acc-right-content {
 		padding: 35px 25px;
 		min-height: auto;
 	}
+
 	.intact-acc-title {
 		font-size: 30px;
 	}
+
 	.intact-acc-circle-callout {
 		width: 110px;
 		height: 110px;
 		left: 20px;
 	}
+
 	.intact-acc-line-connector {
 		left: 75px;
 	}
@@ -5456,9 +5518,11 @@ img {
 		flex-wrap: wrap;
 		gap: 15px;
 	}
+
 	.intact-acc-badge-divider {
 		display: none;
 	}
+
 	.intact-acc-badge-item {
 		min-width: 45%;
 	}
@@ -5636,13 +5700,16 @@ img {
 	.precision-capability-bg {
 		padding: 60px 0;
 	}
+
 	.precision-content-wrap {
 		padding-right: 0;
 		margin-bottom: 30px;
 	}
+
 	.precision-card-img {
 		height: 300px;
 	}
+
 	.precision-points-grid {
 		gap: 14px 16px;
 	}
@@ -5656,17 +5723,20 @@ img {
 
 /* Process Section 5 Columns Single Line Layout */
 @media (min-width: 992px) {
-	.process-five-cols > .col-lg-5-custom {
+	.process-five-cols>.col-lg-5-custom {
 		flex: 0 0 20%;
 		max-width: 20%;
 		width: 20%;
 	}
+
 	.process-five-cols .pbmit-ihbox-style-4 .pbmit-heading-desc {
 		padding: 0 5px;
 	}
+
 	.process-five-cols .pbmit-ihbox-style-4 .pbmit-ihbox-icon:before {
 		right: -60px;
 	}
+
 	.process-five-cols .pbmit-ihbox-style-4 .pbmit-ihbox-icon::after {
 		width: 55px;
 		right: -75px;
@@ -5742,14 +5812,17 @@ img {
 	.about-tab-sec .pbmit-tab {
 		flex-direction: column;
 	}
+
 	.about-tab-sec .pbmit-tab .tab-content {
 		padding-left: 0 !important;
 		margin-top: 30px;
 	}
+
 	.about-tab-sec .pbmit-tab-list {
 		padding-left: 0 !important;
 		margin-top: 25px;
 	}
+
 	.about-tab-sec .pbmit-tab-img img {
 		height: 380px !important;
 	}
@@ -5998,6 +6071,7 @@ img {
 }
 
 @media (max-width: 1199px) and (min-width: 768px) {
+
 	.ceiling-finish-item,
 	.wall-finish-item {
 		flex: 0 0 33.333333% !important;
@@ -6007,6 +6081,7 @@ img {
 }
 
 @media (max-width: 767px) {
+
 	.ceiling-finish-item,
 	.wall-finish-item {
 		flex: 0 0 50% !important;
@@ -6016,6 +6091,7 @@ img {
 }
 
 @media (max-width: 400px) {
+
 	.ceiling-finish-item,
 	.wall-finish-item {
 		flex: 0 0 100% !important;
@@ -6066,43 +6142,41 @@ img {
 /* Copper Line / Groove Overlay */
 .finish-img-wrap.show-copper .finish-groove-overlay {
 	opacity: 1;
-	background: linear-gradient(90deg, 
-		transparent calc(33.33% - 2.5px), 
-		rgba(115, 48, 18, 0.85) calc(33.33% - 2.5px), 
-		#b8683a calc(33.33% - 1.5px), 
-		#f7a674 33.33%, 
-		#b8683a calc(33.33% + 1.5px), 
-		rgba(115, 48, 18, 0.85) calc(33.33% + 2.5px), 
-		transparent calc(33.33% + 2.5px), 
-		transparent calc(66.66% - 2.5px), 
-		rgba(115, 48, 18, 0.85) calc(66.66% - 2.5px), 
-		#b8683a calc(66.66% - 1.5px), 
-		#f7a674 66.66%, 
-		#b8683a calc(66.66% + 1.5px), 
-		rgba(115, 48, 18, 0.85) calc(66.66% + 2.5px), 
-		transparent calc(66.66% + 2.5px)
-	);
+	background: linear-gradient(90deg,
+			transparent calc(33.33% - 2.5px),
+			rgba(115, 48, 18, 0.85) calc(33.33% - 2.5px),
+			#b8683a calc(33.33% - 1.5px),
+			#f7a674 33.33%,
+			#b8683a calc(33.33% + 1.5px),
+			rgba(115, 48, 18, 0.85) calc(33.33% + 2.5px),
+			transparent calc(33.33% + 2.5px),
+			transparent calc(66.66% - 2.5px),
+			rgba(115, 48, 18, 0.85) calc(66.66% - 2.5px),
+			#b8683a calc(66.66% - 1.5px),
+			#f7a674 66.66%,
+			#b8683a calc(66.66% + 1.5px),
+			rgba(115, 48, 18, 0.85) calc(66.66% + 2.5px),
+			transparent calc(66.66% + 2.5px));
 }
 
 /* Golden Overlay (when no separate golden image exists or for metallic boost) */
 .finish-img-wrap.show-golden-overlay .finish-groove-overlay {
 	opacity: 1;
-	background: linear-gradient(90deg, 
-		transparent calc(33.33% - 2.5px), 
-		rgba(135, 95, 12, 0.85) calc(33.33% - 2.5px), 
-		#d8b04a calc(33.33% - 1.5px), 
-		#fff1a8 33.33%, 
-		#d8b04a calc(33.33% + 1.5px), 
-		rgba(135, 95, 12, 0.85) calc(33.33% + 2.5px), 
-		transparent calc(33.33% + 2.5px), 
-		transparent calc(66.66% - 2.5px), 
-		rgba(135, 95, 12, 0.85) calc(66.66% - 2.5px), 
-		#d8b04a calc(66.66% - 1.5px), 
-		#fff1a8 66.66%, 
-		#d8b04a calc(66.66% + 1.5px), 
-		rgba(135, 95, 12, 0.85) calc(66.66% + 2.5px), 
-		transparent calc(66.66% + 2.5px)
-	);
+	background: linear-gradient(90deg,
+			transparent calc(33.33% - 2.5px),
+			rgba(135, 95, 12, 0.85) calc(33.33% - 2.5px),
+			#d8b04a calc(33.33% - 1.5px),
+			#fff1a8 33.33%,
+			#d8b04a calc(33.33% + 1.5px),
+			rgba(135, 95, 12, 0.85) calc(33.33% + 2.5px),
+			transparent calc(33.33% + 2.5px),
+			transparent calc(66.66% - 2.5px),
+			rgba(135, 95, 12, 0.85) calc(66.66% - 2.5px),
+			#d8b04a calc(66.66% - 1.5px),
+			#fff1a8 66.66%,
+			#d8b04a calc(66.66% + 1.5px),
+			rgba(135, 95, 12, 0.85) calc(66.66% + 2.5px),
+			transparent calc(66.66% + 2.5px));
 }
 
 /* Card Body */
@@ -6175,14 +6249,17 @@ img {
 	border-radius: 50%;
 	display: inline-block;
 	flex-shrink: 0;
-	box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
 }
+
 .finish-type-dot.dot-simple {
 	background: #2b241d;
 }
+
 .finish-type-dot.dot-golden {
 	background: #d8b04a;
 }
+
 .finish-type-dot.dot-copper {
 	background: #b8683a;
 }
@@ -6194,6 +6271,7 @@ img {
 	border-color: #2b241d;
 	box-shadow: 0 2px 6px rgba(43, 36, 29, 0.25);
 }
+
 .finish-type-btn[data-type="simple"].active .finish-type-dot {
 	background: #ffffff;
 	box-shadow: 0 0 0 1.5px #2b241d;
@@ -6205,6 +6283,7 @@ img {
 	border-color: #b88628;
 	box-shadow: 0 2px 6px rgba(201, 152, 52, 0.3);
 }
+
 .finish-type-btn[data-type="golden"].active .finish-type-dot {
 	background: #ffffff;
 	box-shadow: 0 0 0 1.5px #b88628;
@@ -6216,6 +6295,7 @@ img {
 	border-color: #9c4b22;
 	box-shadow: 0 2px 6px rgba(173, 89, 45, 0.3);
 }
+
 .finish-type-btn[data-type="copper"].active .finish-type-dot {
 	background: #ffffff;
 	box-shadow: 0 0 0 1.5px #9c4b22;
@@ -6225,32 +6305,24 @@ img {
 	.finish-img-wrap {
 		height: 155px;
 	}
+
 	.finish-line-types {
 		gap: 3px;
 		margin-top: 8px;
 	}
+
 	.finish-type-btn {
 		font-size: 10px;
 		padding: 5px 3px;
 		gap: 3px;
 	}
+
 	.finish-type-dot {
 		width: 6px;
 		height: 6px;
 	}
+
 	.finish-card-body {
 		padding: 10px 8px 12px;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-

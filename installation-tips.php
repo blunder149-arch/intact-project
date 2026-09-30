@@ -97,7 +97,7 @@
 						<!-- Left Column: Image -->
 						<div class="col-lg-5 col-md-12">
 							<div class="installation-left-img">
-								<img src="images/product/about1.jpg" class="img-fluid w-100" style="height: 399px; object-fit: cover; alt="PVC Panel Installation Guide">
+								<img src="images/product/about1.jpg" class="img-fluid w-100" style="height: 399px; object-fit: cover;" alt="PVC Panel Installation Guide">
 							</div>
 						</div>
 						<!-- Right Column: 4 Installation Steps -->

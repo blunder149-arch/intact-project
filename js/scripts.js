@@ -420,6 +420,14 @@
 				$(this).find('i').toggleClass('pbmit-base-icon-angle-right pbmit-base-icon-up-open-big');
 				return false;
 		});  
+		$('.main-menu ul.navigation li.dropdown > a[href="javascript:void(0);"], .main-menu ul.navigation li.dropdown > a[href="#"]').on('click', function(e) {
+			if ($(window).width() < 1200) {
+				e.preventDefault();
+				$(this).siblings('ul').toggleClass('open');
+				$(this).siblings('.righticon').find('i').toggleClass('pbmit-base-icon-angle-right pbmit-base-icon-up-open-big');
+				return false;
+			}
+		});  
 
 	/*-------------------------------------
 	Sticky Header

@@ -156,12 +156,12 @@
 										<div class="col-md-6">
 											<select class="form-control" name="product" required>
 												<option value="" disabled selected>Select Product Category</option>
-												<option value="Wall Panel">Plane PVC Panel</option>
-												<option value="Wall Panel">2 G</option>
-												<option value="Ceiling Panel">3 G</option>
-												<option value="Ceiling Panel">9 G</option>
-												<option value="Ceiling Panel">10 G</option>
-												<option value="Decorative Panel">Sumo Panel</option>
+												<option value="Wall Panel">Plain Panel</option>
+												<option value="Wall Panel">2 Groove</option>
+												<option value="Ceiling Panel">3 Groove</option>
+												<option value="Ceiling Panel">9 Groove</option>
+												<option value="Ceiling Panel">10 Groove</option>
+												<option value="Decorative Panel">SUMO Panel</option>
 												<option value="Custom Requirement">Custom Requirement</option>
 											</select>
 										</div>
