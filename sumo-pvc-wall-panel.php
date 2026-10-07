@@ -92,14 +92,15 @@
 						<div class="col-md-12 col-xl-6">
 							<div class="about-one-rightbox p-0 pe-xl-4">
 								<div class="pbmit-heading-subheading animation-style2">
-									<h4 class="pbmit-subtitle">Wall Panel</h4>
-									<h2 class="pbmit-title">ABOUT PVC WALL PANELS</h2>
-									<div class="pbmit-heading-desc" text-align: justify;>
-										Our PVC wall panels combine advanced extrusion technology with virgin PVC
-										compounds, delivering superior finish, moisture resistance, and long-lasting
-										durability for every space. Lightweight, termite-proof, and fire-retardant, they
-										are ideal for homes, offices, hotels, and commercial interiors — offering a
-										maintenance-free solution that stays beautiful for years.
+									<h4 class="pbmit-subtitle">SUMO PVC WALL PANEL</h4>
+									<h2 class="pbmit-title" style="white-space: nowrap;">SUMO PVC Wall Panel Manufacturer</h2>
+									<div class="pbmit-heading-desc" style="text-align: justify;">
+										Our SUMO PVC Wall Panels are made using advanced extrusion technology and virgin
+										PVC compounds, giving a superior finish, moisture resistance, and long-lasting
+										durability. Lightweight, termite-proof, and fire-retardant, they are ideal for
+										homes, offices, hotels, and commercial interiors across India, from a trusted
+										manufacturer and supplier. They are easy to install, simple to clean, and need
+										almost no maintenance.
 									</div>
 								</div>
 								<div class="row g-3">
@@ -235,7 +236,7 @@
 						<!-- Image Column (Right Side) -->
 						<div class="col-md-12 col-xl-6 mt-4 mt-xl-0">
 							<div class="">
-								<img src="images/pvc-wall-panel.png" class="img-fluid w-100"
+								<img src="images/sumo-panel.png" class="img-fluid w-100"
 									style="width: 100%; height: 495px; object-fit: cover; display: block;"
 									alt="About Wall Panels">
 							</div>
@@ -251,7 +252,7 @@
 					<div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-end mb-4 gap-3">
 						<div class="pbmit-heading-subheading text-start animation-style2 mb-0">
 							<h4 class="pbmit-subtitle">COLOUR & FINISH LIBRARY</h4>
-							<h2 class="pbmit-title mb-0">Extruded PVC Wall Panel Finishes</h2>
+							<h2 class="pbmit-title mb-0">SUMO PVC Wall Panel Finishes</h2>
 						</div>
 						<!-- Filter Tabs -->
 						<div class="pbmit-sortable-list pbmit-finish-filter mb-0">
@@ -269,27 +270,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Vintage-Walnut-001-p.jpg"
-										data-simple="images/2G/Vintage-Walnut-001-p.jpg"
-										data-golden="images/2G/Vintage-Walnut-001.jpg"
-										data-copper="images/2G/Vintage-Walnut-001-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Vintage Walnut">
+									<img src="images/sumo/vintage-walnut-001.jpg" class="img-fluid finish-panel-img"
+										alt="Vintage Walnut">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Vintage Walnut <span class="finish-code">(001)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -298,27 +285,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Natural-White-002-p.jpg"
-										data-simple="images/2G/Natural-White-002-p.jpg"
-										data-golden="images/2G/Natural-White-002.jpg"
-										data-copper="images/2G/Natural-White-002-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Natural White">
+									<img src="images/sumo/natural-white-002.jpg" class="img-fluid finish-panel-img"
+										alt="Natural White">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Natural White <span class="finish-code">(002)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -327,54 +300,28 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/teak-wood-003-p.jpg" data-simple="images/2G/teak-wood-003-p.jpg"
-										data-golden="images/2G/teak-wood-003.jpg"
-										data-copper="images/2G/teak-wood-003-p-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/teak-wood-003.jpg" class="img-fluid finish-panel-img"
 										alt="Teak Wood">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Teak Wood <span class="finish-code">(003)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
+
 						<!-- 004: Heritage Walnut -->
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Heritage-Walnut-034-p.jpg"
-										data-simple="images/2G/Heritage-Walnut-034-p.jpg"
-										data-golden="images/2G/Heritage-Walnut-034.jpg"
-										data-copper="images/2G/Heritage-Walnut-034-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Heritage Walnut">
+									<img src="images/sumo/heritage-walnut-004.jpg" class="img-fluid finish-panel-img"
+										alt="Heritage Walnut">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Heritage Walnut <span class="finish-code">(004)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -383,26 +330,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Oak-Wood-005-p.jpg" data-simple="images/2G/Oak-Wood-005-p.jpg"
-										data-golden="images/2G/oak-wood-g.jpg.jpeg"
-										data-copper="images/2G/Oak-Wood-005-p-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/oak-wood-005.jpg" class="img-fluid finish-panel-img"
 										alt="Oak Wood">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Oak Wood <span class="finish-code">(005)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -411,27 +345,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/classic-walnut-006-p.jpg"
-										data-simple="images/2G/classic-walnut-006-p.jpg"
-										data-golden="images/2G/classic-walnut-006.jpg"
-										data-copper="images/2G/classic-walnut-006-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Classic Walnut">
+									<img src="images/sumo/classic-walnut-006.jpg" class="img-fluid finish-panel-img"
+										alt="Classic Walnut">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Classic Walnut <span class="finish-code">(006)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -440,27 +360,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Golden-Oak-007-p.jpg"
-										data-simple="images/2G/Golden-Oak-007-p.jpg"
-										data-golden="images/2G/Golden-Oak-007.jpg"
-										data-copper="images/2G/Golden-Oak-007-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Golden Oak">
+									<img src="images/sumo/goldern-oak.jpg" class="img-fluid finish-panel-img"
+										alt="Golden Oak">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Golden Oak <span class="finish-code">(007)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -469,27 +375,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/retro-wood-s.jpg.jpeg"
-										data-simple="images/2G/retro-wood-s.jpg.jpeg"
-										data-golden="images/2G/Retro-Wood-008.jpg"
-										data-copper="images/2G/retro-wood-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/Retro-Wood.jpg" class="img-fluid finish-panel-img"
 										alt="Retro Wood">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Retro Wood <span class="finish-code">(008)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -498,27 +390,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/desert-oak-010-p.jpg"
-										data-simple="images/2G/desert-oak-010-p.jpg"
-										data-golden="images/2G/desert-oak-010.jpg"
-										data-copper="images/2G/desert-oak-010-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Desert Oak">
+									<img src="images/sumo/desert-oak-010.jpg" class="img-fluid finish-panel-img"
+										alt="Desert Oak">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Desert Oak <span class="finish-code">(010)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -527,26 +405,13 @@
 						<article class="wall-finish-item finish-item wood">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Honey-Oak-011.jpg" data-simple="images/2G/Honey-Oak-011.jpg"
-										data-golden="images/2G/honey-oak-g.jpg.jpeg"
-										data-copper="images/2G/Honey-Oak-011-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/n2.jpg" class="img-fluid finish-panel-img"
 										alt="Honey Oak">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Honey Oak <span class="finish-code">(011)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -556,27 +421,13 @@
 						<article class="wall-finish-item finish-item plain">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Urban-Concrete-012-p.jpg"
-										data-simple="images/2G/Urban-Concrete-012-p.jpg"
-										data-golden="images/2G/Urban-Concrete-012.jpg"
-										data-copper="images/2G/Urban-Concrete-012-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Urban Concrete">
+									<img src="images/sumo/urban-concrete-012.jpg" class="img-fluid finish-panel-img"
+										alt="Urban Concrete">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Urban Concrete <span class="finish-code">(012)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -585,27 +436,13 @@
 						<article class="wall-finish-item finish-item plain">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Sage-Stone-021-p.jpg"
-										data-simple="images/2G/Sage-Stone-021-p.jpg"
-										data-golden="images/2G/SageStone-021.jpg"
-										data-copper="images/2G/Sage-Stone-021-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Sage Stone">
+									<img src="images/sumo/sage-stone-021.jpg" class="img-fluid finish-panel-img"
+										alt="Sage Stone">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Sage Stone <span class="finish-code">(021)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -614,27 +451,13 @@
 						<article class="wall-finish-item finish-item plain">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Titanium-Grey-022-p.jpg"
-										data-simple="images/2G/Titanium-Grey-022-p.jpg"
-										data-golden="images/2G/Titanium-Grey-022.jpg"
-										data-copper="images/2G/Titanium-Grey-022-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Titanium Grey">
+									<img src="images/sumo/TITANIUM-GREY-022.jpg" class="img-fluid finish-panel-img"
+										alt="Titanium Grey">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Titanium Grey <span class="finish-code">(022)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -643,26 +466,13 @@
 						<article class="wall-finish-item finish-item plain">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/silk-cream.jpg" data-simple="images/2G/silk-cream.jpg"
-										data-golden="images/2G/silk-cream-g.jpg"
-										data-copper="images/2G/silk-cream-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/silk-cream.jpg" class="img-fluid finish-panel-img"
 										alt="Silk Cream">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Silk Cream <span class="finish-code">(023)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -672,26 +482,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/White-Pearl-032.jpg" data-simple="images/2G/White-Pearl-032.jpg"
-										data-golden="images/2G/White-Pearl-032-p.jpg"
-										data-copper="images/2G/White-Pearl-032-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/white-pearl.jpg" class="img-fluid finish-panel-img"
 										alt="White Pearl">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										White Pearl <span class="finish-code">(032)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -700,27 +497,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Imperial-Stone-033-p.jpg"
-										data-simple="images/2G/Imperial-Stone-033-p.jpg"
-										data-golden="images/2G/Imperial-Stone-033.jpg"
-										data-copper="images/2G/Imperial-Stone-033-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Imperial Stone">
+									<img src="images/sumo/imperial-stone-033.jpg" class="img-fluid finish-panel-img"
+										alt="Imperial Stone">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Imperial Stone <span class="finish-code">(033)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -729,27 +512,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/White-Royal-Gold-034-p.jpg"
-										data-simple="images/2G/White-Royal-Gold-034-p.jpg"
-										data-golden="images/2G/White-Royal-Gold-034.jpg"
-										data-copper="images/2G/White-Royal-Gold-034-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="White Royal Gold">
+									<img src="images/sumo/White-Royal-Gold.jpg" class="img-fluid finish-panel-img"
+										alt="White Royal Gold">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										White Royal Gold <span class="finish-code">(034)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -758,27 +527,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Smoky-Titanium-035-p.jpg"
-										data-simple="images/2G/Smoky-Titanium-035-p.jpg"
-										data-golden="images/2G/Smoky-Titanium-035.jpg"
-										data-copper="images/2G/Smoky-Titanium-035-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Smoky Titanium">
+									<img src="images/sumo/SMOKY-TITANIUM-035.jpg" class="img-fluid finish-panel-img"
+										alt="Smoky Titanium">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Smoky Titanium <span class="finish-code">(035)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -787,27 +542,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/green-stone-036-p.jpg"
-										data-simple="images/2G/green-stone-036-p.jpg"
-										data-golden="images/2G/green-stone-036.jpg"
-										data-copper="images/2G/green-stone-036-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Green Stone">
+									<img src="images/sumo/green-stone-036.jpg" class="img-fluid finish-panel-img"
+										alt="Green Stone">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Green Stone <span class="finish-code">(036)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -816,27 +557,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/Marble-Black-037-p.jpg"
-										data-simple="images/2G/Marble-Black-037-p.jpg"
-										data-golden="images/2G/Marble-Black-037.jpg"
-										data-copper="images/2G/Marble-Black-037-p-c.jpg"
-										class="img-fluid finish-panel-img" alt="Marble Black">
+									<img src="images/sumo/marble-black.jpg" class="img-fluid finish-panel-img"
+										alt="Marble Black">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Marble Black <span class="finish-code">(037)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span class="finish-type-dot dot-simple"></span>
-											Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -845,26 +572,13 @@
 						<article class="wall-finish-item finish-item marble">
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
-									<img src="images/2G/gremish-royal-s.jpg" data-simple="images/2G/gremish-royal-s.jpg"
-										data-golden="images/2G/gremish-royal-g.jpg"
-										data-copper="images/2G/gremish-royal-c.jpg" class="img-fluid finish-panel-img"
+									<img src="images/sumo/grenish-royal-031.jpg" class="img-fluid finish-panel-img"
 										alt="Gremish Royal">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
 										Gremish Royal <span class="finish-code">(038)</span>
 									</h3>
-									<div class="finish-line-types">
-										<button type="button" class="finish-type-btn active" data-type="simple"
-											title="Simple Black Line"><span
-												class="finish-type-dot dot-simple"></span>Simple</button>
-										<button type="button" class="finish-type-btn" data-type="golden"
-											title="Golden Line"><span class="finish-type-dot dot-golden"></span>
-											Golden</button>
-										<button type="button" class="finish-type-btn" data-type="copper"
-											title="Copper Line"><span class="finish-type-dot dot-copper"></span>
-											Copper</button>
-									</div>
 								</div>
 							</div>
 						</article>
@@ -1199,6 +913,72 @@
 					</div>
 				</div>
 			</section> -->
+<!-- Installation Accessories Section Start -->
+			<section class="intact-accessories-section section-xl">
+				<div class="container">
+					<div class="intact-acc-card-wrapper">
+						<div class="row align-items-center">
+							<!-- Left Column: Hero Image from top section -->
+							<div class="col-lg-6 col-md-12">
+								<div class="intact-acc-left-hero">
+									<img src="images/installation-u-a.png" class="intact-acc-hero-img"
+										alt="PVC Wall Panels">
+								</div>
+							</div>
+
+							<!-- Right Column: Content & Accessories Grid -->
+							<div class="col-lg-6 col-md-12">
+								<div class="intact-acc-right-content">
+									<!-- Subtitle Header -->
+									<div class="intact-acc-header">
+										<div class="pbmit-heading-subheading animation-style2 mb-0">
+											<h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
+											<h2 class="pbmit-title">SUMO Wall Panel Jointers</h2>
+										</div>
+										<div class="pbmit-heading-desc mt-3" text-align: justify;>
+											Our PVC panel jointers give your wall installations a clean, durable and
+											professional finish. They hide joints, protect panel edges and make every
+											corner look sharp and neat. Perfect for homes, offices and commercial spaces
+											using SUMO PVC wall panels.
+										</div>
+									</div>
+
+									<!-- Two Accessory Profile Cards -->
+									<div class="row g-3 intact-acc-cards-row">
+										<!-- Card 1: U Jointer -->
+										<div class="col-6">
+											<div class="intact-acc-item-box">
+												<div class="intact-acc-img-wrap">
+													<img src="images/u-jointer.png" alt="U Jointer Profile"
+														class="img-fluid">
+												</div>
+												<h3 class="intact-acc-item-title">U Jointer</h3>
+												<p class="intact-acc-item-desc">Joins two PVC panels along a straight
+													line, hides the gap and gives a seamless finish.</p>
+											</div>
+										</div>
+
+										<!-- Card 2: Angle Jointer -->
+										<div class="col-6">
+											<div class="intact-acc-item-box">
+												<div class="intact-acc-img-wrap">
+													<img src="images/angle-jointer.png" alt="Angle Jointer Profile"
+														class="img-fluid">
+												</div>
+												<h3 class="intact-acc-item-title">Angle Jointer</h3>
+												<p class="intact-acc-item-desc">Made for corner installations. It adds
+													strength to the edge and gives a sharp, clean corner.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Installation Accessories Section End -->
+
 
 			<!-- Static Box Start -->
 			<section class="section-md pbmit-static-box-border overflow-hidden"
@@ -1206,7 +986,7 @@
 				<div class="container p-0">
 					<div class="pbmit-heading-subheading text-center animation-style2">
 						<h4 class="pbmit-subtitle">HOW IT'S DONE</h4>
-						<h2 class="pbmit-title">How to Install PVC Wall Panels</h2>
+						<h2 class="pbmit-title">How to Install SUMO PVC Wall Panels</h2>
 					</div>
 					<div class="row g-0">
 						<article class="pbmit-static-box-style-3 col-md-6 col-lg-3">
@@ -1286,81 +1066,17 @@
 			<!-- Static Box End -->
 
 
-			<!-- Installation Accessories Section Start -->
-			<section class="intact-accessories-section section-xl">
-				<div class="container">
-					<div class="intact-acc-card-wrapper">
-						<div class="row align-items-center">
-							<!-- Left Column: Hero Image from top section -->
-							<div class="col-lg-6 col-md-12">
-								<div class="intact-acc-left-hero">
-									<img src="images/installation-u-a.png" class="intact-acc-hero-img"
-										alt="PVC Wall Panels">
-								</div>
-							</div>
-
-							<!-- Right Column: Content & Accessories Grid -->
-							<div class="col-lg-6 col-md-12">
-								<div class="intact-acc-right-content">
-									<!-- Subtitle Header -->
-									<div class="intact-acc-header">
-										<div class="pbmit-heading-subheading animation-style2 mb-0">
-											<h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
-											<h2 class="pbmit-title">Finishing Touches That Matter</h2>
-										</div>
-										<div class="pbmit-heading-desc mt-3" text-align: justify;>
-											Our precision PVC panel joiners give your wall and ceiling installations a
-											clean, durable and professional finish. They hide joints, protect panel
-											edges and make every corner look sharp and neat. Perfect for homes, offices
-											and commercial spaces.
-										</div>
-									</div>
-
-									<!-- Two Accessory Profile Cards -->
-									<div class="row g-3 intact-acc-cards-row">
-										<!-- Card 1: U Jointer -->
-										<div class="col-6">
-											<div class="intact-acc-item-box">
-												<div class="intact-acc-img-wrap">
-													<img src="images/u-jointer.png" alt="U Jointer Profile"
-														class="img-fluid">
-												</div>
-												<h3 class="intact-acc-item-title">U Jointer</h3>
-												<p class="intact-acc-item-desc">Joins two PVC panels along a straight
-													line, hides the gap and gives a seamless finish.</p>
-											</div>
-										</div>
-
-										<!-- Card 2: Angle Jointer -->
-										<div class="col-6">
-											<div class="intact-acc-item-box">
-												<div class="intact-acc-img-wrap">
-													<img src="images/angle-jointer.png" alt="Angle Jointer Profile"
-														class="img-fluid">
-												</div>
-												<h3 class="intact-acc-item-title">Angle Jointer</h3>
-												<p class="intact-acc-item-desc">Made for corner installations. It adds
-													strength to the edge and gives a sharp, clean corner.</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- Installation Accessories Section End -->
+			
 
 			<!-- Gallery Start -->
-			<section class="section-xl"
+			<!-- <section class="section-xl"
 				style="background-color: #ffffff; padding: 65px 0 60px 0; border-top: 1px solid #eee;">
 				<div class="container">
 					<div class="row justify-content-center text-center mb-4">
 						<div class="col-lg-8">
 							<div class="pbmit-heading-subheading text-center animation-style2">
-								<h4 class="pbmit-subtitle">INSTALLED PROJECTS</h4>
-								<h2 class="pbmit-title">See Our Panels in Action</h2>
+								<h4 class="pbmit-subtitle">DESIGN IDEAS</h4>
+								<h2 class="pbmit-title">SUMO Wall Panel Design Ideas</h2>
 							</div>
 						</div>
 					</div>
@@ -1371,7 +1087,7 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/resort-w.png" class="img-fluid" alt="Resort">
+										<img src="images/s-living-room.png" class="img-fluid" alt="Resort">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1387,7 +1103,7 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/villa-w.png" class="img-fluid" alt="Villa">
+										<img src="images/s-villa.png" class="img-fluid" alt="Villa">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1403,7 +1119,7 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/commercial-space-w.png" class="img-fluid"
+										<img src="images/s-commercial-space.png" class="img-fluid"
 											alt="Commercial Space">
 									</div>
 								</div>
@@ -1420,7 +1136,7 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/corporate-office-w.png" class="img-fluid"
+										<img src="images/s-corporate-office.png" class="img-fluid"
 											alt="Corporate Office">
 									</div>
 								</div>
@@ -1437,7 +1153,7 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/living-room-w.png" class="img-fluid" alt="Living Room">
+										<img src="images/ss-living-room.png" class="img-fluid" alt="Living Room">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1453,7 +1169,7 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/grand-lobby-w.png" class="img-fluid" alt="Grand Lobby">
+										<img src="images/s-grand-lobby.png" class="img-fluid" alt="Grand Lobby">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1467,7 +1183,7 @@
 						</article>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 
 			<!-- CTA Section Start -->
@@ -1475,23 +1191,24 @@
 				<div class="container">
 					<div class="row align-items-center"
 						style="background: #ffffff; border-radius: 15px; padding: 50px 45px; border: 1px solid #e8e2d8; 	">
-						<div class="col-lg-8 col-md-12 mb-4 mb-lg-0">
+						<div class="col-lg-9 col-md-12 mb-4 mb-lg-0">
 							<div class="cta-content-wrap">
 								<span class="text-uppercase d-block mb-2"
 									style="color: #bb9a65; letter-spacing: 2px; font-weight: 700; font-size: 13px;">READY
 									TO TRANSFORM YOUR SPACES?</span>
 								<h2 class="mb-3"
 									style="color: #33251a; font-size: 34px; font-weight: 700; line-height: 1.25; font-family: 'Space Grotesk', sans-serif;">
-									Elevate Your Walls with INTACT Premium PVC Panels</h2>
+									Elevate Your Walls with INTACT SUMO Wall Panels</h2>
 								<p class="mb-0"
-									style="color: #665b52; font-size: 15px; max-width: 620px; line-height: 1.6;">
+									style="color: #665b52; font-size: 15px;  line-height: 1.6;">
 									Connect with our extrusion specialists today for instant custom quotes, sample
-									swatches, or technical installation assistance.
+									swatches, or technical installation assistance.<br> We supply SUMO PVC wall panels to
+									dealers, contractors and customers across India.
 								</p>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-12 text-lg-end text-start">
-							<div class="d-flex flex-column flex-sm-row flex-lg-column gap-3 justify-content-lg-end">
+						<div class="col-lg-3 col-md-12 text-lg-end text-start">
+							<div class="d-flex flex-column flex-sm-row flex-lg-column gap-2 justify-content-lg-end">
 								<a class="pbmit-btn" href="contact-us.php"
 									style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; border: none; padding: 14px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
 									<span class="pbmit-button-content-wrapper">
@@ -1519,9 +1236,9 @@
 				<div class="container">
 					<div class="pbmit-heading-subheading text-center animation-style2">
 						<h4 class="pbmit-subtitle">PVC WALL PANELS</h4>
-						<h2 class="pbmit-title">Frequently Asked Questions</h2>
+						<h2 class="pbmit-title">SUMO PVC Wall Panels FAQ</h2>
 						<div class="pbmit-heading-desc">
-							Find answers to common questions about INTACT PVC wall panel specifications,<br>
+							Find answers to common questions about INTACT SUMO PVC wall panel specifications,
 							waterproofing, installation, and finishes.
 						</div>
 					</div>
@@ -1553,7 +1270,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													1. Are INTACT PVC wall panels waterproof?
+													1. Are INTACT SUMO PVC wall panels waterproof?
 												</span>
 											</button>
 										</h2>
@@ -1625,7 +1342,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													3. What sizes do PVC wall panels come in?
+													3. What sizes do SUMO PVC wall panels come in?
 												</span>
 											</button>
 										</h2>
@@ -1661,7 +1378,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													4. What finishes are available for PVC wall panels?
+													4. What finishes are available for SUMO PVC wall panels?
 												</span>
 											</button>
 										</h2>
@@ -1670,6 +1387,43 @@
 											<div class="accordion-body">
 												We offer 7 premium finishes — Wood Grain, Marble, Matte, High Gloss,
 												Metallic, Solid Colours, and Designer Textures.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingFour">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseFour"
+												aria-expanded="false" aria-controls="collapseFour">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													5. Are you a manufacturer of SUMO PVC wall panels in India?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseFour" class="accordion-collapse collapse"
+											aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+											<div class="accordion-body">
+												Yes, we manufacture and supply SUMO PVC wall panels across India.
+												Dealers, contractors and customers can send an enquiry for prices and
+												samples.
 											</div>
 										</div>
 									</div>
@@ -1703,7 +1457,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													5. Do PVC wall panels require maintenance?
+													6. Do PVC wall panels require maintenance?
 												</span>
 											</button>
 										</h2>
@@ -1739,7 +1493,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													6. Is installation of PVC wall panels easy?
+													7. Is installation of PVC wall panels easy?
 												</span>
 											</button>
 										</h2>
@@ -1775,7 +1529,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													7. Can LED lights & wall fixtures be installed with PVC wall panels?
+													8. Can LED lights & wall fixtures be installed with PVC wall panels?
 												</span>
 											</button>
 										</h2>
@@ -1812,7 +1566,7 @@
 													</span>
 												</span>
 												<span class="pbmit-accordion-title">
-													8. Why choose INTACT PVC wall panels over traditional wall paint or
+													9. Why choose INTACT PVC wall panels over traditional wall paint or
 													wallpaper?
 												</span>
 											</button>
@@ -1823,6 +1577,42 @@
 												INTACT PVC wall panels are 100% moisture-proof, termite-proof, quicker
 												to install without dust, easy to clean, and require zero repainting over
 												their lifespan.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="heading4">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapse4"
+												aria-expanded="false" aria-controls="collapse4">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													10. Where can SUMO PVC wall panels be used?
+												</span>
+											</button>
+										</h2>
+										<div id="collapse4" class="accordion-collapse collapse"
+											aria-labelledby="heading4" data-bs-parent="#accordionExample1">
+											<div class="accordion-body">
+												They are ideal for living room feature walls, TV unit walls, bedrooms,
+												offices, hotels and commercial interiors.
 											</div>
 										</div>
 									</div>

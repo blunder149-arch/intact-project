@@ -1349,7 +1349,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
 				<div class="container">
 					<div class="row align-items-center"
 						style="background: #ffffff; border-radius: 15px; padding: 50px 45px; border: 1px solid #e8e2d8; 	">
-						<div class="col-lg-8 col-md-12 mb-4 mb-lg-0">
+						<div class="col-lg-9 col-md-12 mb-4 mb-lg-0">
 							<div class="cta-content-wrap">
 								<span class="text-uppercase d-block mb-2"
 									style="color: #bb9a65; letter-spacing: 2px; font-weight: 700; font-size: 13px;">READY
@@ -1358,14 +1358,14 @@ if (!file_exists($targetDir . 'install-01.png')) {
 									style="color: #33251a; font-size: 34px; font-weight: 700; line-height: 1.25; font-family: 'Space Grotesk', sans-serif;">
 									Elevate Your Ceilings with INTACT Premium PVC Panels</h2>
 								<p class="mb-0"
-									style="color: #665b52; font-size: 15px; max-width: 620px; line-height: 1.6;">
+									style="color: #665b52; font-size: 15px; line-height: 1.6;">
 									Connect with our extrusion specialists today for instant custom quotes, sample
 									swatches, or technical installation assistance.
 								</p>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-12 text-lg-end text-start">
-							<div class="d-flex flex-column flex-sm-row flex-lg-column gap-3 justify-content-lg-end">
+						<div class="col-lg-3 col-md-12 text-lg-end text-start">
+							<div class="d-flex flex-column flex-sm-row flex-lg-column gap-2 justify-content-lg-end">
 								<a class="pbmit-btn" href="contact-us.php"
 									style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; border: none; padding: 14px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
 									<span class="pbmit-button-content-wrapper">

@@ -237,7 +237,7 @@
                         <!-- Image Column (Right Side) -->
                         <div class="col-md-12 col-xl-6 mt-4 mt-xl-0">
                             <div class="">
-                                <img src="images/pvc-wall-panel.png" class="img-fluid w-100"
+                                <img src="images/9-groove.png" class="img-fluid w-100"
                                     style="width: 100%; height: 495px; object-fit: cover; display: block;"
                                     alt="About Wall Panels">
                             </div>
@@ -1195,6 +1195,73 @@
                 </div>
             </section> -->
 
+
+             <!-- Installation Accessories Section Start -->
+            <section class="intact-accessories-section section-xl">
+                <div class="container">
+                    <div class="intact-acc-card-wrapper">
+                        <div class="row align-items-center">
+                            <!-- Left Column: Hero Image from top section -->
+                            <div class="col-lg-6 col-md-12">
+                                <div class="intact-acc-left-hero">
+                                    <img src="images/installation-u-a.png" class="intact-acc-hero-img"
+                                        alt="PVC Wall Panels">
+                                </div>
+                            </div>
+
+                            <!-- Right Column: Content & Accessories Grid -->
+                            <div class="col-lg-6 col-md-12">
+                                <div class="intact-acc-right-content">
+                                    <!-- Subtitle Header -->
+                                    <div class="intact-acc-header">
+                                        <div class="pbmit-heading-subheading animation-style2 mb-0">
+                                            <h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
+                                            <h2 class="pbmit-title">Jointers for 9 Groove PVC Wall Panels</h2>
+                                        </div>
+                                        <div class="pbmit-heading-desc mt-3" text-align: justify;>
+                                            Our PVC panel jointers give your wall installations a clean, durable and
+                                            professional finish. They hide joints, protect panel edges and make every
+                                            corner look sharp and neat. Perfect for homes, offices and commercial spaces
+                                            using 9 Groove PVC wall panels.
+                                        </div>
+                                    </div>
+
+                                    <!-- Two Accessory Profile Cards -->
+                                    <div class="row g-3 intact-acc-cards-row">
+                                        <!-- Card 1: U Jointer -->
+                                        <div class="col-6">
+                                            <div class="intact-acc-item-box">
+                                                <div class="intact-acc-img-wrap">
+                                                    <img src="images/u-jointer-9g.jpg" alt="U Jointer Profile"
+                                                        class="img-fluid">
+                                                </div>
+                                                <h3 class="intact-acc-item-title">U Jointer</h3>
+                                                <p class="intact-acc-item-desc">Joins two PVC panels along a straight
+                                                    line, hides the gap and gives a seamless finish.</p>
+                                            </div>
+                                        </div>
+
+                                        <!-- Card 2: Angle Jointer -->
+                                        <div class="col-6">
+                                            <div class="intact-acc-item-box">
+                                                <div class="intact-acc-img-wrap">
+                                                    <img src="images/angle-jointer-9g.jpg" alt="Angle Jointer Profile"
+                                                        class="img-fluid">
+                                                </div>
+                                                <h3 class="intact-acc-item-title">Angle Jointer</h3>
+                                                <p class="intact-acc-item-desc">Made for corner installations. It adds
+                                                    strength to the edge and gives a sharp, clean corner.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Installation Accessories Section End -->
+
             <!-- Static Box Start -->
             <section class="section-md pbmit-static-box-border overflow-hidden"
                 style="background-color: #f4efe6; padding: 75px 0; border-top: 1px solid #e2dacd; border-bottom: 1px solid #e2dacd;">
@@ -1281,74 +1348,10 @@
             <!-- Static Box End -->
 
 
-            <!-- Installation Accessories Section Start -->
-            <section class="intact-accessories-section section-xl">
-                <div class="container">
-                    <div class="intact-acc-card-wrapper">
-                        <div class="row align-items-center">
-                            <!-- Left Column: Hero Image from top section -->
-                            <div class="col-lg-6 col-md-12">
-                                <div class="intact-acc-left-hero">
-                                    <img src="images/installation-u-a.png" class="intact-acc-hero-img"
-                                        alt="PVC Wall Panels">
-                                </div>
-                            </div>
-
-                            <!-- Right Column: Content & Accessories Grid -->
-                            <div class="col-lg-6 col-md-12">
-                                <div class="intact-acc-right-content">
-                                    <!-- Subtitle Header -->
-                                    <div class="intact-acc-header">
-                                        <div class="pbmit-heading-subheading animation-style2 mb-0">
-                                            <h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
-                                            <h2 class="pbmit-title">Jointers for 9 Groove PVC Wall Panels</h2>
-                                        </div>
-                                        <div class="pbmit-heading-desc mt-3" text-align: justify;>
-                                            Our PVC panel jointers give your wall installations a clean, durable and
-                                            professional finish. They hide joints, protect panel edges and make every
-                                            corner look sharp and neat. Perfect for homes, offices and commercial spaces
-                                            using 9 Groove PVC wall panels.
-                                        </div>
-                                    </div>
-
-                                    <!-- Two Accessory Profile Cards -->
-                                    <div class="row g-3 intact-acc-cards-row">
-                                        <!-- Card 1: U Jointer -->
-                                        <div class="col-6">
-                                            <div class="intact-acc-item-box">
-                                                <div class="intact-acc-img-wrap">
-                                                    <img src="images/u-jointer.png" alt="U Jointer Profile"
-                                                        class="img-fluid">
-                                                </div>
-                                                <h3 class="intact-acc-item-title">U Jointer</h3>
-                                                <p class="intact-acc-item-desc">Joins two PVC panels along a straight
-                                                    line, hides the gap and gives a seamless finish.</p>
-                                            </div>
-                                        </div>
-
-                                        <!-- Card 2: Angle Jointer -->
-                                        <div class="col-6">
-                                            <div class="intact-acc-item-box">
-                                                <div class="intact-acc-img-wrap">
-                                                    <img src="images/angle-jointer.png" alt="Angle Jointer Profile"
-                                                        class="img-fluid">
-                                                </div>
-                                                <h3 class="intact-acc-item-title">Angle Jointer</h3>
-                                                <p class="intact-acc-item-desc">Made for corner installations. It adds
-                                                    strength to the edge and gives a sharp, clean corner.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Installation Accessories Section End -->
+           
 
             <!-- Gallery Start -->
-            <section class="section-xl"
+            <!-- <section class="section-xl"
                 style="background-color: #ffffff; padding: 65px 0 60px 0; border-top: 1px solid #eee;">
                 <div class="container">
                     <div class="row justify-content-center text-center mb-4">
@@ -1398,7 +1401,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/commercial-space-w.png" class="img-fluid"
+                                        <img src="images/9-commercial-space.png" class="img-fluid"
                                             alt="Commercial Space">
                                     </div>
                                 </div>
@@ -1415,7 +1418,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/corporate-office-w.png" class="img-fluid"
+                                        <img src="images/9-corporate-office.png" class="img-fluid"
                                             alt="Corporate Office">
                                     </div>
                                 </div>
@@ -1432,7 +1435,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/living-room-w.png" class="img-fluid" alt="Living Room">
+                                        <img src="images/9-living-room.png" class="img-fluid" alt="Living Room">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1462,7 +1465,7 @@
                         </article>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
 
             <!-- CTA Section Start -->
@@ -1470,7 +1473,7 @@
                 <div class="container">
                     <div class="row align-items-center"
                         style="background: #ffffff; border-radius: 15px; padding: 50px 45px; border: 1px solid #e8e2d8; 	">
-                        <div class="col-lg-8 col-md-12 mb-4 mb-lg-0">
+                        <div class="col-lg-9 col-md-12 mb-4 mb-lg-0">
                             <div class="cta-content-wrap">
                                 <span class="text-uppercase d-block mb-2"
                                     style="color: #bb9a65; letter-spacing: 2px; font-weight: 700; font-size: 13px;">READY
@@ -1479,15 +1482,15 @@
                                     style="color: #33251a; font-size: 34px; font-weight: 700; line-height: 1.25; font-family: 'Space Grotesk', sans-serif;">
                                     Elevate Your Walls with INTACT 9 Groove Panels</h2>
                                 <p class="mb-0"
-                                    style="color: #665b52; font-size: 15px; max-width: 620px; line-height: 1.6;">
+                                    style="color: #665b52; font-size: 15px; line-height: 1.6;">
                                     Connect with our extrusion specialists today for instant custom quotes, sample
-                                    swatches, or technical installation assistance. We supply 9 Groove PVC wall panels
+                                    swatches, or technical installation assistance.<br> We supply 9 Groove PVC wall panels
                                     to dealers, contractors and customers across India.
                                 </p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-12 text-lg-end text-start">
-                            <div class="d-flex flex-column flex-sm-row flex-lg-column gap-3 justify-content-lg-end">
+                        <div class="col-lg-3 col-md-12 text-lg-end text-start">
+                            <div class="d-flex flex-column flex-sm-row flex-lg-column gap-2 justify-content-lg-end">
                                 <a class="pbmit-btn" href="contact-us.php"
                                     style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; border: none; padding: 14px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
                                     <span class="pbmit-button-content-wrapper">

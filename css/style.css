@@ -4277,12 +4277,29 @@ textarea.form-control {
 }
 
 /* Product Collection Title & Circular Arrow Badge Styling */
-.pbmit-portfolio-style-1 .pbmit-featured-wrapper,
+.pbmit-portfolio-style-1 .pbmit-featured-wrapper {
+	position: relative !important;
+	overflow: hidden !important;
+	border-radius: 24px !important;
+	transition: box-shadow 0.5s ease, transform 0.4s ease !important;
+}
+
 .pbmit-portfolio-style-1 .pbmit-featured-wrapper img {
 	height: 440px !important;
 	width: 100% !important;
 	object-fit: cover !important;
+	object-position: center !important;
 	border-radius: 24px !important;
+	transform: scale(1) !important;
+	transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1) !important;
+}
+
+.pbmit-portfolio-style-1:hover .pbmit-featured-wrapper img {
+	transform: scale(1.09) !important;
+}
+
+.pbmit-portfolio-style-1:hover .pbmit-featured-wrapper {
+	box-shadow: 0 16px 36px rgba(0, 0, 0, 0.22) !important;
 }
 
 .pbmit-portfolio-style-1 .pbminfotech-post-content {
@@ -4292,6 +4309,14 @@ textarea.form-control {
 
 .pbmit-portfolio-style-1 .pbminfotech-titlebox {
 	width: 100%;
+}
+
+.portfolio-three-slider .pbmit-portfolio-title,
+.portfolio-three-slider .pbmit-portfolio-title a,
+.pbmit-portfolio-style-1 .pbmit-portfolio-title,
+.pbmit-portfolio-style-1 .pbmit-portfolio-title a {
+	font-size: 20px !important;
+	line-height: 26px !important;
 }
 
 .pbmit-product-circle-btn {
@@ -4663,11 +4688,12 @@ textarea.form-control {
 	object-fit: cover !important;
 	object-position: center !important;
 	border-radius: 24px !important;
-	transition: transform 0.6s ease-in-out !important;
+	transform: scale(1) !important;
+	transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1) !important;
 }
 
 .pbmit-portfolio-style-2:hover .pbmit-featured-wrapper img {
-	transform: scale(1.07) !important;
+	transform: scale(1.1) !important;
 }
 
 .pbmit-portfolio-style-2:hover .pbmit-featured-wrapper {
@@ -5035,6 +5061,12 @@ textarea.form-control {
 	max-height: 100% !important;
 	object-fit: contain !important;
 	display: block !important;
+	transform: scale(1) !important;
+	transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1) !important;
+}
+
+.finish-card-box:hover .finish-img-wrap img {
+	transform: scale(1.08) !important;
 }
 
 .finish-card-box .pbmit-portfolio-title {
@@ -5304,8 +5336,9 @@ p {
    Installation Accessories Section (Finishing Touches That Matter)
    ========================================================================== */
 .intact-accessories-section {
-	background-color: #f8f5f0 !important;
-	border: none !important;
+	background-color: #ffffff !important;
+	border-top: 1px solid #e8e2d8 !important;
+	border-bottom: 1px solid #e8e2d8 !important;
 	padding: 65px 0 !important;
 }
 
@@ -6325,4 +6358,11 @@ p {
 	.finish-card-body {
 		padding: 10px 8px 12px;
 	}
+}
+
+/* Remove circle arrow icon from CTA buttons in CTA card */
+.cta-content-wrap ~ div .pbmit-btn:after,
+.cta-buttons-wrap .pbmit-btn:after,
+.section-lgt .pbmit-btn:after {
+    display: none !important;
 }

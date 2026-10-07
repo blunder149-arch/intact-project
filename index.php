@@ -244,22 +244,22 @@
 					<div class="swiper-slider portfolio-three-slider" data-autoplay="true" data-loop="true"
 						data-arrows="false" data-columns="3.5" data-margin="30" data-effect="slide">
 						<div class="swiper-wrapper">
-							<!-- Slide1 -->
+							<!-- Slide1: 2 Groove -->
 							<article class="pbmit-portfolio-style-1 swiper-slide">
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/fluted-Panel.jpg" class="img-fluid"
-												alt="PVC Fluted Panels">
+											<img src="images/collection/2-groove-panel.png" class="img-fluid"
+												alt="2 Groove PVC Wall Panel">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="#">PVC Fluted Panels</a>
+												<a href="2-groove-pvc-wall-panel.php">2 Groove PVC Wall Panel</a>
 											</h3>
-											<a href="#" class="pbmit-product-circle-btn" aria-label="PVC Fluted Panels">
+											<a href="2-groove-pvc-wall-panel.php" class="pbmit-product-circle-btn" aria-label="2 Groove PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
 													stroke-linejoin="round">
@@ -271,23 +271,23 @@
 									</div>
 								</div>
 							</article>
-							<!-- Slide2 -->
+							<!-- Slide2: 9 Groove -->
 							<article class="pbmit-portfolio-style-1 swiper-slide">
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/Decorative-panell.jpg" class="img-fluid"
-												alt="Decorative Wall Panels">
+											<img src="images/collection/9-groove-panel.png" class="img-fluid"
+												alt="9 Groove PVC Wall Panel">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="#">Decorative Wall Panels</a>
+												<a href="9-groove-pvc-wall-panel.php">9 Groove PVC Wall Panel</a>
 											</h3>
-											<a href="#" class="pbmit-product-circle-btn"
-												aria-label="Decorative Wall Panels">
+											<a href="9-groove-pvc-wall-panel.php" class="pbmit-product-circle-btn"
+												aria-label="9 Groove PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
 													stroke-linejoin="round">
@@ -299,23 +299,22 @@
 									</div>
 								</div>
 							</article>
-							<!-- Slide3 -->
+							<!-- Slide4: 10 Groove -->
 							<article class="pbmit-portfolio-style-1 swiper-slide">
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/pcv-ceiling.jpg" class="img-fluid"
-												alt="PVC Ceiling Panels">
+											<img src="images/collection/10-groove-panel.png" class="img-fluid"
+												alt="10 Groove PVC Wall Panel">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="#">PVC Ceiling Panels</a>
+												<a href="10-groove-pvc-wall-panel.php">10 Groove PVC Wall Panel</a>
 											</h3>
-											<a href="#" class="pbmit-product-circle-btn"
-												aria-label="PVC Ceiling Panels">
+											<a href="10-groove-pvc-wall-panel.php" class="pbmit-product-circle-btn" aria-label="10 Groove PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
 													stroke-linejoin="round">
@@ -327,50 +326,23 @@
 									</div>
 								</div>
 							</article>
-							<!-- Slide4 -->
+							<!-- Slide5: SUMO Panel -->
 							<article class="pbmit-portfolio-style-1 swiper-slide">
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/exterior-panel.jpg" class="img-fluid"
-												alt="Grade PVC Panels">
+											<img src="images/collection/sumo-pvc-panel.jpg" class="img-fluid"
+												alt="SUMO PVC Wall Panel">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="#">Grade PVC Panels</a>
+												<a href="sumo-pvc-wall-panel.php">SUMO PVC Wall Panel</a>
 											</h3>
-											<a href="#" class="pbmit-product-circle-btn" aria-label="Grade PVC Panels">
-												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
-													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
-													stroke-linejoin="round">
-													<line x1="5" y1="12" x2="19" y2="12"></line>
-													<polyline points="12 5 19 12 12 19"></polyline>
-												</svg>
-											</a>
-										</div>
-									</div>
-								</div>
-							</article>
-							<!-- Slide5 -->
-							<article class="pbmit-portfolio-style-1 swiper-slide">
-								<div class="pbminfotech-post-content">
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/product/wpvc.jpg" class="img-fluid"
-												alt="WPVC Decorative Panels">
-										</div>
-									</div>
-									<div class="pbminfotech-box-content">
-										<div
-											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
-											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="#">WPVC Decorative Panels</a>
-											</h3>
-											<a href="#" class="pbmit-product-circle-btn"
-												aria-label="WPVC Decorative Panels">
+											<a href="sumo-pvc-wall-panel.php" class="pbmit-product-circle-btn"
+												aria-label="SUMO PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
 													stroke-linejoin="round">
@@ -889,7 +861,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/lightweight1.jpg" class="img-fluid"
+											<img src="images/latest-work/drawing-room.png" class="img-fluid"
 												alt="Drawing Room Interior with Decorative PVC Wall Panels">
 										</div>
 									</div>
@@ -905,7 +877,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/office.jpg" class="img-fluid" alt="Modern Corporate Office Wall Cladding with PVC Panels">
+											<img src="images/latest-work/office.png" class="img-fluid" alt="Modern Corporate Office Wall Cladding with PVC Panels">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -920,7 +892,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/home.jpg" class="img-fluid" alt="Residential Home Interior False Ceiling PVC Panels">
+											<img src="images/latest-work/home.png" class="img-fluid" alt="Residential Home Interior False Ceiling PVC Panels">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -935,7 +907,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/retailstore.jpg" class="img-fluid"
+											<img src="images/latest-work/retail-stores.png" class="img-fluid"
 												alt="Commercial Retail Store Wall and Ceiling Panels">
 										</div>
 									</div>
@@ -951,7 +923,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/firerestant.jpg" class="img-fluid" alt="Luxury Hotel and Hospitality Interior PVC Panels">
+											<img src="images/latest-work/hotels.png" class="img-fluid" alt="Luxury Hotel and Hospitality Interior PVC Panels">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -966,7 +938,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/product/resturant.jpg" class="img-fluid" alt="Restaurant Interior Design with Waterproof PVC Panels">
+											<img src="images/latest-work/restaurants.png" class="img-fluid" alt="Restaurant Interior Design with Waterproof PVC Panels">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">

@@ -83,7 +83,8 @@
 									<li class="dropdown <?php echo (in_array($current_page, ['3-groove-pvc-wall-panel.php', '9-groove-pvc-wall-panel.php', '10-groove-pvc-wall-panel.php', 'sumo-pvc-wall-panel.php', 'walls.php'])) ? 'active' : ''; ?>">
 										<a href="javascript:void(0);">WALLS</a>
 										<ul>
-											<li><a href="3-groove-pvc-wall-panel.php">3 Groove PVC Wall Panel</a></li>
+										
+											<li><a href="2-groove-pvc-wall-panel.php">2 Groove PVC Wall Panel</a></li>
 											<li><a href="9-groove-pvc-wall-panel.php">9 Groove PVC Wall Panel</a></li>
 											<li><a href="10-groove-pvc-wall-panel.php">10 Groove PVC Wall Panel</a></li>
 											<li><a href="sumo-pvc-wall-panel.php">SUMO PVC Wall Panel</a></li>
