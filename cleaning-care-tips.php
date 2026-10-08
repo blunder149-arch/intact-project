@@ -4,11 +4,146 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>PVC Panel Cleaning & Maintenance Guide | INTACT Design & Extrusion</title>
-	<meta name="description" content="Learn how to clean and maintain PVC wall and ceiling panels with easy care tips for a clean, durable and long-lasting interior finish.">
-	<meta name="robots" content="index, follow">
-	<meta name="keywords" content="PVC panel cleaning, PVC panel maintenance, panel care tips, wall panel cleaning, ceiling panel maintenance">
+	<title>PVC Wall & Ceiling Panel Cleaning & Maintenance Guide | INTACT India</title>
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<meta name="description"
+		content="Expert cleaning and maintenance guide for PVC wall and ceiling panels in India. Learn daily dusting, deep washing, kitchen degreasing, bathroom mould care, and do's & don'ts.">
+	<meta name="keywords"
+		content="how to clean PVC wall panels, PVC ceiling panel maintenance India, PVC wall panel cleaning liquid, bathroom PVC panel mould prevention, kitchen PVC panel grease cleaning, INTACT panel care tips">
+	<meta name="geo.region" content="IN">
+	<meta name="geo.placename" content="India">
+	<meta name="author" content="INTACT Design & Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="canonical" href="https://intactdesign.com/cleaning-care-tips.php">
+
+	<!-- Open Graph / Facebook / WhatsApp SEO -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://intactdesign.com/cleaning-care-tips.php">
+	<meta property="og:title" content="PVC Wall & Ceiling Panel Cleaning & Maintenance Guide | INTACT India">
+	<meta property="og:description"
+		content="Expert cleaning and maintenance guide for PVC wall and ceiling panels in India. Learn daily dusting, deep washing, kitchen degreasing, bathroom mould care, and do's & don'ts.">
+	<meta property="og:image" content="https://intactdesign.com/images/product/care-dusting.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:site_name" content="INTACT Design & Extrusion">
+
+	<!-- Twitter Card SEO -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="PVC Wall & Ceiling Panel Cleaning & Maintenance Guide | INTACT India">
+	<meta name="twitter:description"
+		content="Expert cleaning and maintenance guide for PVC wall and ceiling panels in India. Learn daily dusting, deep washing, kitchen degreasing, bathroom mould care, and do's & don'ts.">
+	<meta name="twitter:image" content="https://intactdesign.com/images/product/care-dusting.png">
+
+	<!-- Schema.org JSON-LD Structured Data for HowTo, Breadcrumbs & FAQs -->
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@graph": [
+	    {
+	      "@type": "HowTo",
+	      "@id": "https://intactdesign.com/cleaning-care-tips.php#howto",
+	      "name": "How to Clean and Maintain PVC Wall & Ceiling Panels",
+	      "description": "Step-by-step cleaning and maintenance instructions to preserve the luster, hygiene, and lifespan of PVC wall and ceiling panels.",
+	      "step": [
+	        {
+	          "@type": "HowToStep",
+	          "position": 1,
+	          "name": "Weekly Anti-Static Dusting",
+	          "text": "Wipe along panel grooves with a soft microfiber cloth or feather duster to prevent particulate buildup without scratching the finish."
+	        },
+	        {
+	          "@type": "HowToStep",
+	          "position": 2,
+	          "name": "Monthly Deep Clean & Wash",
+	          "text": "Mix a few drops of neutral dishwashing detergent in lukewarm water. Wipe panels using a soft sponge and dry immediately with a clean lint-free cloth."
+	        },
+	        {
+	          "@type": "HowToStep",
+	          "position": 3,
+	          "name": "Kitchen Backsplash Degreasing",
+	          "text": "Apply a mild citrus-based kitchen degreaser to cooking oil splatters, let rest for 60 seconds, and wipe away smoothly without abrasive pads."
+	        },
+	        {
+	          "@type": "HowToStep",
+	          "position": 4,
+	          "name": "Bathroom Waterproof Maintenance",
+	          "text": "Use a rubber squeegee after showers to eliminate water spots and rinse soap film bi-weekly with clean water."
+	        },
+	        {
+	          "@type": "HowToStep",
+	          "position": 5,
+	          "name": "Follow Protective Care Rules",
+	          "text": "Never use harsh acetone solvents, wire brushes, or open flame near panels to ensure decades of lasting performance."
+	        }
+	      ]
+	    },
+	    {
+	      "@type": "BreadcrumbList",
+	      "@id": "https://intactdesign.com/cleaning-care-tips.php#breadcrumb",
+	      "itemListElement": [
+	        {
+	          "@type": "ListItem",
+	          "position": 1,
+	          "name": "Home",
+	          "item": "https://intactdesign.com/"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 2,
+	          "name": "Cleaning & Care Tips",
+	          "item": "https://intactdesign.com/cleaning-care-tips.php"
+	        }
+	      ]
+	    },
+	    {
+	      "@type": "FAQPage",
+	      "@id": "https://intactdesign.com/cleaning-care-tips.php#faq",
+	      "mainEntity": [
+	        {
+	          "@type": "Question",
+	          "name": "How often should INTACT PVC wall and ceiling panels be cleaned?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "A quick weekly dry dusting with a microfiber duster is sufficient for everyday rooms. A light sponge wipe-down with mild soapy water once a month keeps the surface looking brand-new."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Can I use Colin or household spray cleaners on PVC panels?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, mild household glass cleaners or diluted all-purpose cleaners (like Colin) are safe for laminated and textured PVC panels when applied with a soft microfiber cloth."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "What cleaning materials should NEVER be used on PVC panels?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Never use abrasive scouring pads (Scotch-Brite green side), steel wool, wire brushes, acetone, paint thinners, or pure bleach, as these will scratch or haze the protective surface."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "How do I remove stubborn cooking oil and turmeric curry stains from kitchen panels?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Spray a mild kitchen degreaser or apply a baking soda and liquid soap paste with a soft cloth. Leave for 1 minute and gently wipe off. The non-porous PVC polymer prevents turmeric or oil from penetrating."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Do INTACT PVC panels yellow, fade, or discolour over time?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "No. INTACT PVC panels are extruded using 100% virgin polymer with built-in UV stabilizers and protective protective surface films that resist yellowing and retain color vibrancy for years."
+	          }
+	        }
+	      ]
+	    }
+	  ]
+	}
+	</script>
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
 	<!-- Google Fonts -->
@@ -70,7 +205,7 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="home" href="index.php" class="home"><span>Home</span></a>
+										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
 										<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
 									</span>
@@ -133,10 +268,14 @@
 										</p>
 										<div class="row g-3 mb-4">
 											<div class="col-md-6">
-												<img src="images/product/care-dusting.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Weekly Anti-Static Dusting of PVC Wall Panel">
+												<img src="images/product/care-dusting.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Anti-Static Dusting of PVC Wall Cladding Panel India">
 											</div>
 											<div class="col-md-6">
-												<img src="images/product/cleaning1.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Clean Wooden PVC Wall Cladding">
+												<img src="images/product/cleaning1.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Clean and Spotless Wooden Texture PVC Wall Panels India">
 											</div>
 										</div>
 										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
@@ -159,10 +298,14 @@
 										</p>
 										<div class="row g-3 mb-4">
 											<div class="col-md-6">
-												<img src="images/product/care-deepwash.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Monthly Mild Soap Cleaning of PVC Panels">
+												<img src="images/product/care-deepwash.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Monthly Deep Cleaning of PVC Wall and False Ceiling Panels India">
 											</div>
 											<div class="col-md-6">
-												<img src="images/product/cleaning2.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Spotless Clean Interior Wall Finish">
+												<img src="images/product/cleaning2.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Pristine Finished PVC Wall Cladding in Living Room India">
 											</div>
 										</div>
 										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
@@ -185,10 +328,14 @@
 										</p>
 										<div class="row g-3 mb-4">
 											<div class="col-md-6">
-												<img src="images/product/care-kitchen.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Kitchen PVC Wall Panel Cleaning & Degreasing">
+												<img src="images/product/care-kitchen.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Degreasing Kitchen Oil Splatters on PVC Backsplash Panels India">
 											</div>
 											<div class="col-md-6">
-												<img src="images/product/cleaning1.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Oil Resistant Decorative PVC Panel">
+												<img src="images/product/cleaning1.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Oil Resistant Decorative PVC Wall Panels India">
 											</div>
 										</div>
 										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
@@ -207,14 +354,18 @@
 									<div class="pbmit-service-content">
 										<h2 class="pbmit-title mb-3" style="font-size: 30px; line-height: 40px; font-weight: 700; color: #403226;">4. Bathroom & High-Moisture Waterproof Care</h2>
 										<p class="pbmit-heading-desc mb-4" style="font-size: 15px; line-height: 1.7; color: #665c54;">
-											Manufactured with 100% virgin PVC extrusions, INTACT wall and false ceiling panels are 100% waterproof. Unlike drywall or plywood, they do not rot, swell, or absorb moisture, completely eliminating mould, fungus, and mildew formation in humid bathrooms.
+											Manufactured with virgin PVC extrusions, INTACT wall and false ceiling panels are waterproof and moisture resistant. Unlike drywall or plywood, they do not rot, swell, or absorb moisture, completely eliminating mould, fungus, and mildew formation in humid bathrooms.
 										</p>
 										<div class="row g-3 mb-4">
 											<div class="col-md-6">
-												<img src="images/product/care-bathroom.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Waterproof Bathroom PVC Wall Cladding">
+												<img src="images/product/care-bathroom.png" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Waterproof and Moisture Care for Bathroom PVC Wall Cladding India">
 											</div>
 											<div class="col-md-6">
-												<img src="images/product/cleaning2.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;" alt="Mould Proof PVC Ceiling & Wall Panel">
+												<img src="images/product/cleaning2.jpg" class="img-fluid w-100" style="height: 280px; object-fit: cover; border-radius: 18px;"
+													width="400" height="280" loading="lazy"
+													alt="Mould Proof PVC Ceiling Panel Finish in Bathroom India">
 											</div>
 										</div>
 										<div class="p-4 rounded-4" style="background-color: #fdfbf7; border: 1px solid #efebe4;">
@@ -328,7 +479,210 @@
 				</div>
 			</section>
 			<!-- Care for Lasting Shine Section End -->
-            <!-- Service End -->  
+
+			<!-- Cleaning & Care FAQs Section Start -->
+			<section class="section-xl" style="background-color: #ffffff; padding: 75px 0; border-top: 1px solid #e8e2d8;">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style2">
+						<h4 class="pbmit-subtitle">FREQUENTLY ASKED QUESTIONS</h4>
+						<h2 class="pbmit-title">PVC Panel Cleaning & Care FAQs</h2>
+						<div class="pbmit-heading-desc mx-auto" style="max-width: 680px;">
+							Helpful expert advice for maintaining clean, stain-free, and hygienic PVC wall and ceiling panels across residential and commercial spaces.
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 col-xl-6">
+							<div class="pe-xl-3">
+								<div class="accordion" id="accordionCareCol1">
+									<div class="accordion-item active">
+										<h2 class="accordion-header" id="headingCare1">
+											<button class="accordion-button" type="button" data-bs-toggle="collapse"
+												data-bs-target="#collapseCare1" aria-expanded="true"
+												aria-controls="collapseCare1">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													1. How often should PVC panels be cleaned?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseCare1" class="accordion-collapse collapse show"
+											aria-labelledby="headingCare1" data-bs-parent="#accordionCareCol1">
+											<div class="accordion-body">
+												A quick weekly dry dusting with a microfiber duster is sufficient for everyday rooms. A light sponge wipe-down with mild soapy water once a month keeps the surface looking brand-new.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingCare2">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseCare2"
+												aria-expanded="false" aria-controls="collapseCare2">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													2. Can I use Colin or household spray cleaners on PVC panels?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseCare2" class="accordion-collapse collapse"
+											aria-labelledby="headingCare2" data-bs-parent="#accordionCareCol1">
+											<div class="accordion-body">
+												Yes, mild household glass cleaners or diluted all-purpose cleaners (like Colin) are safe for laminated and textured PVC panels when applied with a soft microfiber cloth.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingCare3">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseCare3"
+												aria-expanded="false" aria-controls="collapseCare3">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													3. What cleaning materials should NEVER be used on PVC panels?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseCare3" class="accordion-collapse collapse"
+											aria-labelledby="headingCare3" data-bs-parent="#accordionCareCol1">
+											<div class="accordion-body">
+												Never use abrasive scouring pads (Scotch-Brite green side), steel wool, wire brushes, acetone, paint thinners, or pure bleach, as these will scratch or haze the protective surface.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-xl-6">
+							<div class="ps-xl-3">
+								<div class="accordion" id="accordionCareCol2">
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingCare4">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseCare4"
+												aria-expanded="false" aria-controls="collapseCare4">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													4. How to remove cooking oil & turmeric stains from kitchen panels?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseCare4" class="accordion-collapse collapse"
+											aria-labelledby="headingCare4" data-bs-parent="#accordionCareCol2">
+											<div class="accordion-body">
+												Spray a mild kitchen degreaser or apply a baking soda and liquid soap paste with a soft cloth. Leave for 1 minute and gently wipe off. The non-porous PVC polymer prevents turmeric or oil from penetrating.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingCare5">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseCare5"
+												aria-expanded="false" aria-controls="collapseCare5">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													5. Do INTACT PVC panels yellow, fade, or discolour over time?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseCare5" class="accordion-collapse collapse"
+											aria-labelledby="headingCare5" data-bs-parent="#accordionCareCol2">
+											<div class="accordion-body">
+												No. INTACT PVC panels are extruded using 100% virgin polymer with built-in UV stabilizers and protective surface films that resist yellowing and retain color vibrancy for years.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Cleaning & Care FAQs Section End -->
+
 			 <!-- Final CTA Section Start -->
 			<section class="section-xl pbmit-final-cta-section">
 				<div class="container">

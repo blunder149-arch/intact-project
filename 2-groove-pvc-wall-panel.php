@@ -19,10 +19,183 @@ if (!file_exists($targetDir . 'install-01.png')) {
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Intact | Interior Design</title>
-    <meta name="robots" content="noindex, follow">
-    <meta name="description" content="">
+    <title>2 Groove PVC Wall Panel Manufacturer & Supplier in India | INTACT</title>
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="description"
+        content="Leading manufacturer and supplier of 2 Groove PVC wall panels in India. Waterproof, termite-proof & stylish fluted wall cladding panels with seamless finish.">
+    <meta name="keywords"
+        content="2 groove PVC wall panel, PVC wall panels India, 2 groove wall panel manufacturer, decorative fluted wall panels India, waterproof wall panels, interior wall cladding India, INTACT Design">
+    <meta name="geo.region" content="IN">
+    <meta name="geo.placename" content="India">
+    <meta name="author" content="INTACT Design & Extrusion">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="canonical" href="https://intactdesign.com/2-groove-pvc-wall-panel.php">
+
+    <!-- Open Graph / Facebook / WhatsApp SEO -->
+    <meta property="og:type" content="product">
+    <meta property="og:url" content="https://intactdesign.com/2-groove-pvc-wall-panel.php">
+    <meta property="og:title" content="2 Groove PVC Wall Panel Manufacturer & Supplier in India | INTACT">
+    <meta property="og:description"
+        content="Explore premium 2 groove PVC wall panels by INTACT. Waterproof, durable, and architecturally styled fluted wall panels supplied across India.">
+    <meta property="og:image" content="https://intactdesign.com/images/2-groove.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="INTACT Design & Extrusion">
+
+    <!-- Twitter Card SEO -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="2 Groove PVC Wall Panel Manufacturer & Supplier in India | INTACT">
+    <meta name="twitter:description"
+        content="Explore INTACT's 2 groove PVC wall panels. Waterproof, termite-proof & elegant fluted wall cladding.">
+    <meta name="twitter:image" content="https://intactdesign.com/images/2-groove.png">
+
+    <!-- Schema.org JSON-LD Structured Data for Product & Breadcrumbs -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Product",
+          "@id": "https://intactdesign.com/2-groove-pvc-wall-panel.php#product",
+          "name": "2 Groove PVC Wall Panel",
+          "image": [
+            "https://intactdesign.com/images/2-groove.png"
+          ],
+          "description": "Architectural 2 Groove PVC wall panel manufactured by INTACT Design & Extrusion in India. Featuring 10mm thickness, waterproof, termite-proof, fire-retardant polymer formulation with interlocking joints.",
+          "brand": {
+            "@type": "Brand",
+            "name": "INTACT"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "INTACT Design & Extrusion",
+            "url": "https://intactdesign.com/"
+          },
+          "material": "100% Virgin Grade PVC Polymer",
+          "countryOfOrigin": {
+            "@type": "Country",
+            "name": "India"
+          },
+          "category": "Building Materials > Wall Cladding > PVC Wall Panels",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "INR",
+            "areaServed": "IN",
+            "availability": "https://schema.org/InStock",
+            "url": "https://intactdesign.com/2-groove-pvc-wall-panel.php",
+            "seller": {
+              "@type": "Organization",
+              "name": "INTACT Design & Extrusion"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://intactdesign.com/2-groove-pvc-wall-panel.php#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://intactdesign.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "2 Groove PVC Wall Panel",
+              "item": "https://intactdesign.com/2-groove-pvc-wall-panel.php"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://intactdesign.com/2-groove-pvc-wall-panel.php#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Are INTACT 2 Groove PVC wall panels waterproof?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our PVC wall panels are 100% water and moisture resistant, making them ideal for living rooms, kitchens, bathrooms, and commercial spaces."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are PVC wall panels termite and fire resistant?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our wall panels are 100% termite & borer proof with fire retardant properties, offering added safety and long-term protection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What sizes do 2 Groove PVC wall panels come in?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our 2 Groove PVC Wall Panels are 10mm thick and 300mm wide, available in lengths of 3.05m and 3.66m."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What finishes are available for 2 Groove PVC wall panels?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our 2 Groove PVC wall panels are available in wooden, plain and marble designs, each with simple, golden line and copper line options."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are you a manufacturer of 2 Groove PVC wall panels in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, we manufacture and supply 2 Groove PVC wall panels across India. Dealers, contractors and customers can send an enquiry for prices and samples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do 2 Groove PVC wall panels require maintenance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, our panels are low maintenance — no painting or polishing needed, just easy cleaning for a lasting finish."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is installation of PVC wall panels easy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our panels are lightweight yet strong, allowing for quick and hassle-free installation on any interior wall type."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can wall lights, switchboards, or TV units be mounted on PVC wall panels?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, INTACT 2 Groove PVC wall panels easily accommodate wall lights and modular switchboxes. Heavy items like TV units and shelving should be anchored directly to the backing wall or wooden battens."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why choose INTACT PVC wall panels over wallpaper or paint?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "INTACT PVC wall panels eliminate recurring repaint costs and damp peel-off issues common with wallpaper. They are waterproof and moisture resistant, termite-proof, wipe-clean, and retain a luxurious fluted texture for years."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do you supply 2 Groove PVC wall panels to dealers and contractors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, we supply pan-India to dealers, distributors, contractors, architects, and direct project clients with wholesale pricing and prompt dispatch."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
     <!-- CSS
@@ -67,30 +240,30 @@ if (!file_exists($targetDir . 'install-01.png')) {
         <div class="page-content">
 
             <div class="pbmit-title-bar-wrapper"
-                style="background-image: url('images/pvc-ceiling-panel-banner.png'); background-position: center bottom;">
+                style="background-image: url('images/wall-panel-banner.png'); background-position: center top;">
                 <div class="container">
                     <div class="pbmit-title-bar-content">
                         <div class="pbmit-title-bar-content-inner">
                             <div class="pbmit-tbar">
                                 <div class="pbmit-tbar-inner container">
-                                    <h1 class="pbmit-tbar-title">2 Groove PVC Ceiling Panel</h1>
+                                    <h1 class="pbmit-tbar-title">2 Groove PVC Wall Panel</h1>
                                 </div>
                             </div>
                             <div class="pbmit-breadcrumb">
                                 <div class="pbmit-breadcrumb-inner">
                                     <span>
-                                        <a title="" href="index.php" class="home"><span>Home</span></a>
+                                        <a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
                                     </span>
                                     <span class="sep">
                                         <i class="pbmit-base-icon-angle-right"></i>
                                     </span>
                                     <span>
-                                        <a title="" href="#" class="home"><span>Ceiling</span></a>
+                                        <span>Walls</span>
                                     </span>
                                     <span class="sep">
                                         <i class="pbmit-base-icon-angle-right"></i>
                                     </span>
-                                    <span><span class="post-root post post-post current-item"> 2 Groove PVC Ceiling
+                                    <span><span class="post-root post post-post current-item"> 2 Groove PVC Wall
                                             Panel</span></span>
                                 </div>
                             </div>
@@ -105,28 +278,20 @@ if (!file_exists($targetDir . 'install-01.png')) {
                     <div class="row align-items-center">
                         <div class="col-md-12 col-xl-6">
                             <div>
-
-                                <img src="images/2g-1.jpg.jpeg" class="img-fluid w-100"
-                                    style="width: 100%; height: 543px; object-fit: cover; "
-                                    alt="About PVC Ceiling Panels">
+                                <img src="images/2-groove.png" class="img-fluid w-100"
+                                    width="600" height="543" fetchpriority="high"
+                                    style="width: 100%; height: 543px; object-fit: cover;"
+                                    alt="INTACT 2 Groove PVC Wall Panel - Fluted Architectural Wall Paneling India">
                             </div>
                         </div>
                         <div class="col-md-12 col-xl-6">
                             <div class="about-one-rightbox p-0 ps-xl-4">
                                 <div class="pbmit-heading-subheading animation-style2">
-                                    <h4 class="pbmit-subtitle">2 GROOVE PVC CEILING PANEL</h4>
-                                    <h2 class="pbmit-title" style="white-space: nowrap;">2 Groove PVC Ceiling Panel
+                                    <h4 class="pbmit-subtitle">2 GROOVE PVC WALL PANEL</h4>
+                                    <h2 class="pbmit-title" style="white-space: nowrap;">2 Groove PVC Wall Panel
                                         Manufacturer</h2>
                                     <div class="pbmit-heading-desc" style="text-align: justify;">
-                                        We are a manufacturer and supplier of 2 Groove PVC Ceiling Panels across India,
-                                        made using advanced extrusion technology and virgin PVC compounds. The
-                                        two-groove design gives your ceiling a clean, linear look, while the panel stays
-                                        lightweight, moisture-resistant, termite-proof and fire-retardant. Our 2 groove
-                                        PVC ceiling panels are ideal for homes, offices, hotels and commercial
-                                        interiors, and need almost no maintenance. Every panel is made with consistent
-                                        thickness and accurate dimensions, so installation is easy and the finish stays
-                                        beautiful for years.<br>
-
+                                        We manufacture and supply heavy-duty 2 Groove PVC Wall Panels engineered with virgin PVC compounds and precision extrusion technology. The dual-groove design adds architectural depth and modern fluted aesthetics to residential and commercial walls, while remaining waterproof and moisture resistant, termite-proof, and fire-retardant. Designed for hassle-free vertical or horizontal mounting, our 2 groove wall panels deliver seamless interlocking joints and long-lasting durability with zero maintenance.
                                     </div>
                                 </div>
                                 <div class="row g-3">
@@ -144,7 +309,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     </div>
                                                     <div class="pbmit-ihbox-contents">
                                                         <h2 class="pbmit-element-title" style="font-size: 15px;">
-                                                            Thickness — 8mm
+                                                            Thickness — 10mm
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -200,13 +365,13 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     <div class="pbmit-ihbox-icon">
                                                         <div class="pbmit-ihbox-icon-wrapper">
                                                             <div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-                                                                <i class="fa fa-tint"></i>
+                                                                <i class="pbmit-xinterio-icon pbmit-xinterio-icon-brickwall-1"></i>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="pbmit-ihbox-contents">
                                                         <h2 class="pbmit-element-title" style="font-size: 15px;">
-                                                            Application — Ceiling
+                                                            Application — Wall
                                                         </h2>
                                                     </div>
                                                 </div>
@@ -242,7 +407,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                         <div class="pbmit-ihbox-icon-wrapper">
                                                             <div class="pbmit-icon-wrapper pbmit-icon-type-icon">
                                                                 <i
-                                                                    class="pbmit-xinterio-icon pbmit-xinterio-icon-house-design"></i>
+                                                                    class="pbmit-xinterio-icon pbmit-xinterio-icon-eco-home"></i>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -332,7 +497,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                     <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-end mb-4 gap-3">
                         <div class="pbmit-heading-subheading text-start animation-style2 mb-0">
                             <h4 class="pbmit-subtitle">COLOUR & FINISH LIBRARY</h4>
-                            <h2 class="pbmit-title mb-0">2 Groove PVC Ceiling Panel Finishes</h2>
+                            <h2 class="pbmit-title mb-0">2 Groove PVC Wall Panel Finishes</h2>
                         </div>
                         <!-- Filter Tabs -->
                         <div class="pbmit-sortable-list pbmit-finish-filter mb-0">
@@ -355,7 +520,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Vintage-Walnut-001-p.jpg"
                                         data-golden="images/2G/Vintage-Walnut-001.jpg"
                                         data-copper="images/2G/Vintage-Walnut-001-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Vintage Walnut">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Vintage Walnut">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -384,7 +549,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Natural-White-002-p.jpg"
                                         data-golden="images/2G/Natural-White-002.jpg"
                                         data-copper="images/2G/Natural-White-002-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Natural White">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Natural White">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -411,7 +576,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="finish-img-wrap">
                                     <img src="images/2G/teak-wood-003-p.jpg" data-simple="images/2G/teak-wood-003-p.jpg"
                                         data-golden="images/2G/teak-wood-003.jpg"
-                                        data-copper="images/2G/teak-wood-003-p-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/teak-wood-003-p-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Teak Wood">
                                 </div>
                                 <div class="finish-card-body">
@@ -441,7 +606,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Heritage-Walnut-034-p.jpg"
                                         data-golden="images/2G/Heritage-Walnut-034.jpg"
                                         data-copper="images/2G/Heritage-Walnut-034-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Heritage Walnut">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Heritage Walnut">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -468,7 +633,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="finish-img-wrap">
                                     <img src="images/2G/Oak-Wood-005-p.jpg" data-simple="images/2G/Oak-Wood-005-p.jpg"
                                         data-golden="images/2G/oak-wood-g.jpg.jpeg"
-                                        data-copper="images/2G/Oak-Wood-005-p-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/Oak-Wood-005-p-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Oak Wood">
                                 </div>
                                 <div class="finish-card-body">
@@ -498,7 +663,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/classic-walnut-006-p.jpg"
                                         data-golden="images/2G/classic-walnut-006.jpg"
                                         data-copper="images/2G/classic-walnut-006-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Classic Walnut">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Classic Walnut">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -527,7 +692,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Golden-Oak-007-p.jpg"
                                         data-golden="images/2G/Golden-Oak-007.jpg"
                                         data-copper="images/2G/Golden-Oak-007-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Golden Oak">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Golden Oak">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -555,7 +720,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                     <img src="images/2G/retro-wood-s.jpg.jpeg"
                                         data-simple="images/2G/retro-wood-s.jpg.jpeg"
                                         data-golden="images/2G/Retro-Wood-008.jpg"
-                                        data-copper="images/2G/retro-wood-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/retro-wood-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Retro Wood">
                                 </div>
                                 <div class="finish-card-body">
@@ -585,7 +750,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/desert-oak-010-p.jpg"
                                         data-golden="images/2G/desert-oak-010.jpg"
                                         data-copper="images/2G/desert-oak-010-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Desert Oak">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Desert Oak">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -612,7 +777,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="finish-img-wrap">
                                     <img src="images/2G/Honey-Oak-011.jpg" data-simple="images/2G/Honey-Oak-011.jpg"
                                         data-golden="images/2G/honey-oak-g.jpg.jpeg"
-                                        data-copper="images/2G/Honey-Oak-011-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/Honey-Oak-011-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Honey Oak">
                                 </div>
                                 <div class="finish-card-body">
@@ -643,7 +808,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Urban-Concrete-012-p.jpg"
                                         data-golden="images/2G/Urban-Concrete-012.jpg"
                                         data-copper="images/2G/Urban-Concrete-012-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Urban Concrete">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Urban Concrete">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -672,7 +837,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Sage-Stone-021-p.jpg"
                                         data-golden="images/2G/SageStone-021.jpg"
                                         data-copper="images/2G/Sage-Stone-021-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Sage Stone">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Sage Stone">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -701,7 +866,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Titanium-Grey-022-p.jpg"
                                         data-golden="images/2G/Titanium-Grey-022.jpg"
                                         data-copper="images/2G/Titanium-Grey-022-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Titanium Grey">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Titanium Grey">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -728,7 +893,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="finish-img-wrap">
                                     <img src="images/2G/silk-cream.jpg" data-simple="images/2G/silk-cream.jpg"
                                         data-golden="images/2G/silk-cream-g.jpg"
-                                        data-copper="images/2G/silk-cream-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/silk-cream-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Silk Cream">
                                 </div>
                                 <div class="finish-card-body">
@@ -757,7 +922,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="finish-img-wrap">
                                     <img src="images/2G/White-Pearl-032.jpg" data-simple="images/2G/White-Pearl-032.jpg"
                                         data-golden="images/2G/White-Pearl-032-p.jpg"
-                                        data-copper="images/2G/White-Pearl-032-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/White-Pearl-032-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="White Pearl">
                                 </div>
                                 <div class="finish-card-body">
@@ -787,7 +952,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Imperial-Stone-033-p.jpg"
                                         data-golden="images/2G/Imperial-Stone-033.jpg"
                                         data-copper="images/2G/Imperial-Stone-033-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Imperial Stone">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Imperial Stone">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -816,7 +981,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/White-Royal-Gold-034-p.jpg"
                                         data-golden="images/2G/White-Royal-Gold-034.jpg"
                                         data-copper="images/2G/White-Royal-Gold-034-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="White Royal Gold">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="White Royal Gold">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -845,7 +1010,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Smoky-Titanium-035-p.jpg"
                                         data-golden="images/2G/Smoky-Titanium-035.jpg"
                                         data-copper="images/2G/Smoky-Titanium-035-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Smoky Titanium">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Smoky Titanium">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -874,7 +1039,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/green-stone-036-p.jpg"
                                         data-golden="images/2G/green-stone-036.jpg"
                                         data-copper="images/2G/green-stone-036-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Green Stone">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Green Stone">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -903,7 +1068,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         data-simple="images/2G/Marble-Black-037-p.jpg"
                                         data-golden="images/2G/Marble-Black-037.jpg"
                                         data-copper="images/2G/Marble-Black-037-p-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Marble Black">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Marble Black">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -930,7 +1095,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="finish-img-wrap">
                                     <img src="images/2G/gremish-royal-s.jpg" data-simple="images/2G/gremish-royal-s.jpg"
                                         data-golden="images/2G/gremish-royal-g.jpg"
-                                        data-copper="images/2G/gremish-royal-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/2G/gremish-royal-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Gremish Royal">
                                 </div>
                                 <div class="finish-card-body">
@@ -1009,8 +1174,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <!-- Left Column: Hero Image from top section -->
                             <div class="col-lg-6 col-md-12">
                                 <div class="intact-acc-left-hero">
-                                    <img src="images/2g-1.jpg.jpeg" class="intact-acc-hero-img"
-                                        alt="PVC Ceiling Panels">
+                                    <img src="images/2-groove.png" class="intact-acc-hero-img"
+                                        alt="2 Groove PVC Wall Panel Installation with Matching Jointers India" loading="lazy">
                                 </div>
                             </div>
 
@@ -1021,10 +1186,10 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                     <div class="intact-acc-header">
                                         <div class="pbmit-heading-subheading animation-style2 mb-0">
                                             <h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
-                                            <h2 class="pbmit-title">Jointers for 2 Groove PVC Ceiling Panels</h2>
+                                            <h2 class="pbmit-title">Jointers for 2 Groove PVC Wall Panels</h2>
                                         </div>
-                                        <div class="pbmit-heading-desc mt-3" text-align: justify;>
-                                            Our PVC panel jointers give your ceiling installations a clean, durable and
+                                        <div class="pbmit-heading-desc mt-3" style="text-align: justify;">
+                                            Our PVC panel jointers give your wall installations a clean, durable and
                                             professional finish. They hide joints, protect panel edges and make every
                                             corner look sharp and neat. Perfect for homes, offices and commercial spaces
                                             using 2 Groove PVC wall panels.
@@ -1037,7 +1202,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                          <div class="col-6">
                                              <div class="intact-acc-item-box">
                                                  <div class="intact-acc-img-wrap">
-                                                     <img src="images/2-u-jointer.png" alt="U Jointer Profile"
+                                                     <img src="images/2-u-jointer.png" alt="U Jointer Profile for 2 Groove PVC Wall Panels - INTACT India" loading="lazy"
                                                          class="img-fluid">
                                                  </div>
                                                  <h3 class="intact-acc-item-title">U Jointer</h3>
@@ -1050,7 +1215,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                          <div class="col-6">
                                              <div class="intact-acc-item-box">
                                                  <div class="intact-acc-img-wrap">
-                                                     <img src="images/2-angle-jointer.png" alt="Angle Jointer Profile"
+                                                     <img src="images/2-angle-jointer.png" alt="Angle Jointer Profile for 2 Groove PVC Wall Panels - INTACT India" loading="lazy"
                                                          class="img-fluid">
                                                  </div>
                                                  <h3 class="intact-acc-item-title">Angle Jointer</h3>
@@ -1076,7 +1241,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                         <div class="col-lg-8">
                             <div class="pbmit-heading-subheading text-center animation-style2">
                                 <h4 class="pbmit-subtitle">INSTALLATION GUIDE</h4>
-                                <h2 class="pbmit-title">Easy Installation of 2 Groove PVC Ceiling Panel</h2>
+                                <h2 class="pbmit-title">Easy Installation of 2 Groove PVC Wall Panel</h2>
                             </div>
                         </div>
                     </div>
@@ -1090,7 +1255,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-01.png" class="img-fluid"
-                                            alt="Measure & Plan">
+                                            alt="Step 1: Measure and Plan PVC Wall Panel Installation - INTACT" loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1099,7 +1264,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                     <div class="pbmit-same-height steps-content_wrap">
                                         <p class="pbmit-timeline-year">Step 01</p>
                                         <h3 class="pbmit-timeline-title">Measure & Plan</h3>
-                                        <p class="pbmit-timeline-desc">Measure the ceiling area and plan your PVC panel
+                                        <p class="pbmit-timeline-desc">Measure the wall area and plan your PVC wall panel
                                             layout for minimal wastage.</p>
                                     </div>
                                 </div>
@@ -1107,7 +1272,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-02.png" class="img-fluid"
-                                            alt="Prepare the Surface">
+                                            alt="Step 2: Prepare Wall Surface for PVC Panels - INTACT" loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1116,7 +1281,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                     <div class="pbmit-same-height steps-content_wrap">
                                         <p class="pbmit-timeline-year">Step 02</p>
                                         <h3 class="pbmit-timeline-title">Prepare the Surface</h3>
-                                        <p class="pbmit-timeline-desc">Ensure the ceiling surface is clean, dry, and
+                                        <p class="pbmit-timeline-desc">Ensure the wall surface is clean, dry, and
                                             level before PVC panel installation.</p>
                                     </div>
                                 </div>
@@ -1124,7 +1289,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-03.png" class="img-fluid"
-                                            alt="Install the Frame">
+                                            alt="Step 3: Framework and Batten Fixing for Wall Panels - INTACT" loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1134,14 +1299,14 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <p class="pbmit-timeline-year">Step 03</p>
                                         <h3 class="pbmit-timeline-title">Install the Frame</h3>
                                         <p class="pbmit-timeline-desc">Fix wooden or metal battens to create a sturdy
-                                            base for panel mounting.</p>
+                                            base for wall panel mounting.</p>
                                     </div>
                                 </div>
                                 <!-- Slide4 -->
                                 <div class="pbmit-timeline-wrapper swiper-slide">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-04.png" class="img-fluid"
-                                            alt="Fix the Panels">
+                                            alt="Step 4: Secure 2 Groove PVC Wall Panels to Framework - INTACT" loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1150,7 +1315,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                     <div class="pbmit-same-height steps-content_wrap">
                                         <p class="pbmit-timeline-year">Step 04</p>
                                         <h3 class="pbmit-timeline-title">Fix the Panels</h3>
-                                        <p class="pbmit-timeline-desc">Slot and secure PVC panels onto the frame using
+                                        <p class="pbmit-timeline-desc">Slot and secure PVC wall panels onto the frame using
                                             screws or clips.</p>
                                     </div>
                                 </div>
@@ -1158,7 +1323,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-05.png" class="img-fluid"
-                                            alt="Join & Align">
+                                            alt="Step 5: Tongue and Groove Alignment for Wall Panels - INTACT" loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1167,7 +1332,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                     <div class="pbmit-same-height steps-content_wrap">
                                         <p class="pbmit-timeline-year">Step 05</p>
                                         <h3 class="pbmit-timeline-title">Join & Align</h3>
-                                        <p class="pbmit-timeline-desc">Connect PVC panels edge-to-edge, ensuring
+                                        <p class="pbmit-timeline-desc">Connect PVC wall panels edge-to-edge, ensuring
                                             straight, gap-free alignment.</p>
                                     </div>
                                 </div>
@@ -1175,7 +1340,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-06.png" class="img-fluid"
-                                            alt="Finish & Seal">
+                                            alt="Step 6: Edge Finishing and Sealing PVC Wall Panels - INTACT" loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1185,7 +1350,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <p class="pbmit-timeline-year">Step 06</p>
                                         <h3 class="pbmit-timeline-title">Finish & Seal</h3>
                                         <p class="pbmit-timeline-desc">Add trims and mouldings for a clean, polished PVC
-                                            panel finish.</p>
+                                            wall panel finish.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1217,7 +1382,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/2-resort.png" class="img-fluid" alt="Resort">
+                                        <img src="images/2-resort.png" class="img-fluid" alt="2 Groove PVC Wall Panel Application in Luxury Resort Interior - INTACT India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1233,7 +1398,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/2-villa.png" class="img-fluid" alt="Villa">
+                                        <img src="images/2-villa.png" class="img-fluid" alt="Modern Villa Wall Paneling with 2 Groove PVC Panels - INTACT India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1250,7 +1415,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
                                         <img src="images/2-commercial-space.png" class="img-fluid"
-                                            alt="Commercial Space">
+                                            alt="Commercial Space Interior Wall Cladding with 2 Groove PVC Panels India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1267,7 +1432,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
                                         <img src="images/2-corporate-office.png" class="img-fluid"
-                                            alt="Corporate Office">
+                                            alt="Corporate Office Executive Wall Decoration with Fluted PVC Panels India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1283,7 +1448,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/2-living-room.png" class="img-fluid" alt="Living Room">
+                                        <img src="images/2-living-room.png" class="img-fluid" alt="Modern Living Room Feature Wall with 2 Groove PVC Panels - INTACT" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1299,7 +1464,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/2-grand-lobby.png" class="img-fluid" alt="Grand Lobby">
+                                        <img src="images/2-grand-lobby.png" class="img-fluid" alt="Grand Hotel Lobby Architectural PVC Wall Paneling - INTACT India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1389,10 +1554,10 @@ if (!file_exists($targetDir . 'install-01.png')) {
             <section class="section-xl">
                 <div class="container">
                     <div class="pbmit-heading-subheading text-center animation-style2">
-                        <h4 class="pbmit-subtitle">PVC CEILING PANELS FAQ</h4>
-                        <h2 class="pbmit-title">Frequently Asked Questions About 2 Groove PVC Ceiling Panels</h2>
+                        <h4 class="pbmit-subtitle">PVC WALL PANELS FAQ</h4>
+                        <h2 class="pbmit-title">Frequently Asked Questions About 2 Groove PVC Wall Panels</h2>
                         <div class="pbmit-heading-desc">
-                            Find answers to common questions about INTACT PVC ceiling panel specifications,<br>
+                            Find answers to common questions about INTACT PVC wall panel specifications,<br>
                             waterproofing, installation, and finishes.
                         </div>
                     </div>
@@ -1431,8 +1596,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <div id="collapseOne" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                Yes, our PVC ceiling panels are water and moisture resistant, making
-                                                them ideal for kitchens, bathrooms, and balcony ceilings.
+                                                Yes, our PVC wall panels are 100% water and moisture resistant, making
+                                                them ideal for living rooms, kitchens, bathrooms, and commercial spaces.
                                             </div>
                                         </div>
                                     </div>
@@ -1460,14 +1625,14 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     </span>
                                                 </span>
                                                 <span class="pbmit-accordion-title">
-                                                    2. Are PVC ceiling panels termite and fire resistant?
+                                                    2. Are PVC wall panels termite and fire resistant?
                                                 </span>
                                             </button>
                                         </h2>
                                         <div id="collapseTwo" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                Yes, our panels are termite & borer proof with fire retardant options,
+                                                Yes, our wall panels are 100% termite & borer proof with fire retardant properties,
                                                 offering added safety and long-term protection.
                                             </div>
                                         </div>
@@ -1503,7 +1668,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <div id="collapseThree" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                Our 2 Groove PVC Ceiling Panels are 8mm thick and 300mm wide, available
+                                                Our 2 Groove PVC Wall Panels are 10mm thick and 300mm wide, available
                                                 in lengths of 3.05m and 3.66m.
                                             </div>
                                         </div>
@@ -1612,7 +1777,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     </span>
                                                 </span>
                                                 <span class="pbmit-accordion-title">
-                                                    6. Do PVC ceiling panels require maintenance?
+                                                    6. Do 2 Groove PVC wall panels require maintenance?
                                                 </span>
                                             </button>
                                         </h2>
@@ -1648,7 +1813,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     </span>
                                                 </span>
                                                 <span class="pbmit-accordion-title">
-                                                    7. Is installation of PVC ceiling panels easy?
+                                                    7. Is installation of PVC wall panels easy?
 
                                                 </span>
                                             </button>
@@ -1657,7 +1822,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                             aria-labelledby="heading2" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
                                                 Yes, our panels are lightweight yet strong, allowing for quick and
-                                                hassle-free installation on any ceiling type.
+                                                hassle-free installation on any interior wall type.
                                             </div>
                                         </div>
                                     </div>
@@ -1685,16 +1850,14 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     </span>
                                                 </span>
                                                 <span class="pbmit-accordion-title">
-                                                    8. Can LED lights & ceiling fans be installed with PVC panels?
+                                                    8. Can wall lights, switchboards, or TV units be mounted on PVC wall panels?
                                                 </span>
                                             </button>
                                         </h2>
                                         <div id="collapse3" class="accordion-collapse collapse"
                                             aria-labelledby="heading3" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, PVC ceiling panels easily accommodate recessed LED spot lights,
-                                                strip lighting, ceiling fans, and chandelier fixtures with proper
-                                                framing support.
+                                                Yes, INTACT 2 Groove PVC wall panels easily accommodate wall lights and modular switchboxes. Heavy items like TV units and shelving should be anchored directly to the backing wall or wooden battens.
                                             </div>
                                         </div>
                                     </div>
@@ -1722,16 +1885,14 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                                     </span>
                                                 </span>
                                                 <span class="pbmit-accordion-title">
-                                                    9. Why choose INTACT PVC ceiling panels over POP ceilings?
+                                                    9. Why choose INTACT PVC wall panels over wallpaper or paint?
                                                 </span>
                                             </button>
                                         </h2>
                                         <div id="collapse4" class="accordion-collapse collapse"
                                             aria-labelledby="heading4" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                INTACT PVC ceiling panels are 100% moisture-proof, non-sagging, quicker
-                                                to install without plastering dust, and require zero repainting over
-                                                their lifespan.
+                                                INTACT PVC wall panels eliminate recurring repaint costs and damp peel-off issues common with wallpaper. They are waterproof and moisture resistant, termite-proof, wipe-clean, and retain a luxurious fluted texture for years.
                                             </div>
                                         </div>
                                     </div>

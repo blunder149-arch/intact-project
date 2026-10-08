@@ -1,0 +1,23 @@
+# robots.txt for INTACT Design & Extrusion (https://intactdesign.com/)
+User-agent: *
+Allow: /
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Disallow backend and internal directories
+Disallow: /includes/
+Disallow: /fonts/
+
+# Disallow unreleased and internal template pages
+Disallow: /walls.php
+Disallow: /ceiling.php
+Disallow: /plain-pvc-ceiling-panel.php
+
+# Disallow mail handler and temporary scripts
+Disallow: /send-mail.php
+Disallow: /*.py$
+Disallow: /*.html$
+
+# XML Sitemap
+Sitemap: https://intactdesign.com/sitemap.xml

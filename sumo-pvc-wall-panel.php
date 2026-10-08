@@ -4,10 +4,183 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Intact | Interior Design</title>
-	<meta name="robots" content="noindex, follow">
-	<meta name="description" content="">
+	<title>SUMO PVC Wall Panel Manufacturer & Supplier in India | INTACT</title>
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<meta name="description"
+		content="Leading manufacturer and supplier of SUMO PVC wall panels in India. Waterproof, termite-proof & heavy-duty fluted wall cladding panels with premium finish.">
+	<meta name="keywords"
+		content="SUMO PVC wall panel, heavy duty PVC wall panel, PVC wall panels India, SUMO wall panel manufacturer, fluted wall cladding India, waterproof wall panels, INTACT Design">
+	<meta name="geo.region" content="IN">
+	<meta name="geo.placename" content="India">
+	<meta name="author" content="INTACT Design & Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="canonical" href="https://intactdesign.com/sumo-pvc-wall-panel.php">
+
+	<!-- Open Graph / Facebook / WhatsApp SEO -->
+	<meta property="og:type" content="product">
+	<meta property="og:url" content="https://intactdesign.com/sumo-pvc-wall-panel.php">
+	<meta property="og:title" content="SUMO PVC Wall Panel Manufacturer & Supplier in India | INTACT">
+	<meta property="og:description"
+		content="Explore heavy-duty SUMO PVC wall panels by INTACT. Waterproof, termite-proof, and architecturally styled fluted wall panels supplied across India.">
+	<meta property="og:image" content="https://intactdesign.com/images/sumo-panel.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:site_name" content="INTACT Design & Extrusion">
+
+	<!-- Twitter Card SEO -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="SUMO PVC Wall Panel Manufacturer & Supplier in India | INTACT">
+	<meta name="twitter:description"
+		content="Explore INTACT's heavy-duty SUMO PVC wall panels. Waterproof, termite-proof & elegant fluted wall cladding.">
+	<meta name="twitter:image" content="https://intactdesign.com/images/sumo-panel.png">
+
+	<!-- Schema.org JSON-LD Structured Data for Product, Breadcrumbs & FAQs -->
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@graph": [
+	    {
+	      "@type": "Product",
+	      "@id": "https://intactdesign.com/sumo-pvc-wall-panel.php#product",
+	      "name": "SUMO PVC Wall Panel",
+	      "image": [
+	        "https://intactdesign.com/images/sumo-panel.png"
+	      ],
+	      "description": "Architectural SUMO heavy-duty PVC wall panel manufactured by INTACT Design & Extrusion in India. Featuring 10mm thickness, 300mm width, waterproof, termite-proof, fire-retardant virgin polymer formulation with robust fluted cladding profile.",
+	      "brand": {
+	        "@type": "Brand",
+	        "name": "INTACT"
+	      },
+	      "manufacturer": {
+	        "@type": "Organization",
+	        "name": "INTACT Design & Extrusion",
+	        "url": "https://intactdesign.com/"
+	      },
+	      "material": "100% Virgin Grade PVC Polymer",
+	      "countryOfOrigin": {
+	        "@type": "Country",
+	        "name": "India"
+	      },
+	      "category": "Building Materials > Wall Cladding > PVC Wall Panels",
+	      "offers": {
+	        "@type": "AggregateOffer",
+	        "priceCurrency": "INR",
+	        "areaServed": "IN",
+	        "availability": "https://schema.org/InStock",
+	        "url": "https://intactdesign.com/sumo-pvc-wall-panel.php",
+	        "seller": {
+	          "@type": "Organization",
+	          "name": "INTACT Design & Extrusion"
+	        }
+	      }
+	    },
+	    {
+	      "@type": "BreadcrumbList",
+	      "@id": "https://intactdesign.com/sumo-pvc-wall-panel.php#breadcrumb",
+	      "itemListElement": [
+	        {
+	          "@type": "ListItem",
+	          "position": 1,
+	          "name": "Home",
+	          "item": "https://intactdesign.com/"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 2,
+	          "name": "SUMO PVC Wall Panel",
+	          "item": "https://intactdesign.com/sumo-pvc-wall-panel.php"
+	        }
+	      ]
+	    },
+	    {
+	      "@type": "FAQPage",
+	      "@id": "https://intactdesign.com/sumo-pvc-wall-panel.php#faq",
+	      "mainEntity": [
+	        {
+	          "@type": "Question",
+	          "name": "Are INTACT SUMO PVC wall panels waterproof?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, our PVC wall panels are water and moisture resistant, making them ideal for kitchens, bathrooms, and humid interiors."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Are PVC wall panels termite and fire resistant?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, our panels are termite & borer proof with fire retardant options, offering added safety and long-term protection."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "What sizes do SUMO PVC wall panels come in?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Our panels range from 5mm–12mm thickness, 200mm–400mm width, and up to 3.05m in length, with custom sizes available."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "What finishes are available for SUMO PVC wall panels?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "We offer 7 premium finishes — Wood Grain, Marble, Matte, High Gloss, Metallic, Solid Colours, and Designer Textures."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Are you a manufacturer of SUMO PVC wall panels in India?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, we manufacture and supply SUMO PVC wall panels across India. Dealers, contractors and customers can send an enquiry for prices and samples."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Do PVC wall panels require maintenance?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "No, our panels are low maintenance — no painting or polishing needed, just easy cleaning for a lasting finish."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Is installation of PVC wall panels easy?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, our panels are lightweight yet strong, allowing for quick and hassle-free installation on any wall type."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Can LED lights & wall fixtures be installed with PVC wall panels?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, PVC wall panels easily accommodate recessed LED spot lights, strip lighting, wall sconces, and fixtures with proper framing support."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Why choose INTACT PVC wall panels over traditional wall paint or wallpaper?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "INTACT PVC wall panels are 100% moisture-proof, termite-proof, quicker to install without dust, easy to clean, and require zero repainting over their lifespan."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Where can SUMO PVC wall panels be used?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "They are ideal for living room feature walls, TV unit walls, bedrooms, offices, hotels and commercial interiors."
+	          }
+	        }
+	      ]
+	    }
+	  ]
+	}
+	</script>
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
 	<!-- CSS
@@ -66,13 +239,13 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="" href="index.php" class="home"><span>Home</span></a>
+										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
 									</span>
 									<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
 									</span>
 									<span>
-										<a title="" href="#" class="home"><span>Walls</span></a>
+										<span>Walls</span>
 									</span>
 									<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
@@ -237,8 +410,9 @@
 						<div class="col-md-12 col-xl-6 mt-4 mt-xl-0">
 							<div class="">
 								<img src="images/sumo-panel.png" class="img-fluid w-100"
+									width="600" height="495" fetchpriority="high"
 									style="width: 100%; height: 495px; object-fit: cover; display: block;"
-									alt="About Wall Panels">
+									alt="INTACT SUMO PVC Wall Panel - Heavy Duty Decorative Wall Paneling India">
 							</div>
 						</div>
 					</div>
@@ -271,7 +445,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/vintage-walnut-001.jpg" class="img-fluid finish-panel-img"
-										alt="Vintage Walnut">
+										alt="Vintage Walnut SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -286,7 +460,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/natural-white-002.jpg" class="img-fluid finish-panel-img"
-										alt="Natural White">
+										alt="Natural White SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -301,7 +475,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/teak-wood-003.jpg" class="img-fluid finish-panel-img"
-										alt="Teak Wood">
+										alt="Teak Wood SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -316,7 +490,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/heritage-walnut-004.jpg" class="img-fluid finish-panel-img"
-										alt="Heritage Walnut">
+										alt="Heritage Walnut SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -331,7 +505,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/oak-wood-005.jpg" class="img-fluid finish-panel-img"
-										alt="Oak Wood">
+										alt="Oak Wood SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -346,7 +520,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/classic-walnut-006.jpg" class="img-fluid finish-panel-img"
-										alt="Classic Walnut">
+										alt="Classic Walnut SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -361,7 +535,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/goldern-oak.jpg" class="img-fluid finish-panel-img"
-										alt="Golden Oak">
+										alt="Golden Oak SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -376,7 +550,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/Retro-Wood.jpg" class="img-fluid finish-panel-img"
-										alt="Retro Wood">
+										alt="Retro Wood SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -391,7 +565,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/desert-oak-010.jpg" class="img-fluid finish-panel-img"
-										alt="Desert Oak">
+										alt="Desert Oak SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -406,7 +580,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/n2.jpg" class="img-fluid finish-panel-img"
-										alt="Honey Oak">
+										alt="Honey Oak SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -422,7 +596,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/urban-concrete-012.jpg" class="img-fluid finish-panel-img"
-										alt="Urban Concrete">
+										alt="Urban Concrete SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -437,7 +611,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/sage-stone-021.jpg" class="img-fluid finish-panel-img"
-										alt="Sage Stone">
+										alt="Sage Stone SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -452,7 +626,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/TITANIUM-GREY-022.jpg" class="img-fluid finish-panel-img"
-										alt="Titanium Grey">
+										alt="Titanium Grey SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -467,7 +641,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/silk-cream.jpg" class="img-fluid finish-panel-img"
-										alt="Silk Cream">
+										alt="Silk Cream SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -483,7 +657,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/white-pearl.jpg" class="img-fluid finish-panel-img"
-										alt="White Pearl">
+										alt="White Pearl SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -498,7 +672,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/imperial-stone-033.jpg" class="img-fluid finish-panel-img"
-										alt="Imperial Stone">
+										alt="Imperial Stone SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -513,7 +687,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/White-Royal-Gold.jpg" class="img-fluid finish-panel-img"
-										alt="White Royal Gold">
+										alt="White Royal Gold SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -528,7 +702,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/SMOKY-TITANIUM-035.jpg" class="img-fluid finish-panel-img"
-										alt="Smoky Titanium">
+										alt="Smoky Titanium SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -543,7 +717,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/green-stone-036.jpg" class="img-fluid finish-panel-img"
-										alt="Green Stone">
+										alt="Green Stone SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -558,7 +732,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/marble-black.jpg" class="img-fluid finish-panel-img"
-										alt="Marble Black">
+										alt="Marble Black SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -573,7 +747,7 @@
 							<div class="finish-card-box text-center">
 								<div class="finish-img-wrap">
 									<img src="images/sumo/grenish-royal-031.jpg" class="img-fluid finish-panel-img"
-										alt="Gremish Royal">
+										alt="Gremish Royal SUMO PVC Wall Panel Finish - INTACT" loading="lazy">
 								</div>
 								<div class="finish-card-body">
 									<h3 class="finish-card-title">
@@ -735,7 +909,7 @@
 							<div class="ihbox-imgbox">
 								<img src="images/pvc-ceilibg-panel.png" class="img-fluid"
 									style="width: 420px; height: 420px; max-width: 100%; border-radius: 50%; object-fit: cover; border: 8px solid #ffffff; box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);"
-									alt="PVC Wall Panels">
+									alt="INTACT Heavy-Duty PVC Wall Panels Features" loading="lazy">
 							</div>
 						</div>
 						<div class="col-md-3 ihbox-one-right-col">
@@ -822,7 +996,7 @@
 										<div class="pbmit-service-image-wrapper">
 											<div class="pbmit-featured-img-wrapper">
 												<div class="pbmit-featured-wrapper">
-													<img src="images/S.png" class="img-fluid" alt="Narrow Line S">
+													<img src="images/S.png" class="img-fluid" alt="Narrow Line S Fluted Wall Panel Profile" loading="lazy">
 												</div>
 											</div>
 											<div class="pbmit-service-icon-wrapper">
@@ -854,7 +1028,7 @@
 										<div class="pbmit-service-image-wrapper">
 											<div class="pbmit-featured-img-wrapper">
 												<div class="pbmit-featured-wrapper">
-													<img src="images/M.png" class="img-fluid" alt="Balanced Line M">
+													<img src="images/M.png" class="img-fluid" alt="Balanced Line M Fluted Wall Panel Profile" loading="lazy">
 												</div>
 											</div>
 											<div class="pbmit-service-icon-wrapper">
@@ -886,7 +1060,7 @@
 										<div class="pbmit-service-image-wrapper">
 											<div class="pbmit-featured-img-wrapper">
 												<div class="pbmit-featured-wrapper">
-													<img src="images/L.png" class="img-fluid" alt="Bold Line L">
+													<img src="images/L.png" class="img-fluid" alt="Bold Line L Fluted Wall Panel Profile" loading="lazy">
 												</div>
 											</div>
 											<div class="pbmit-service-icon-wrapper">
@@ -921,8 +1095,8 @@
 							<!-- Left Column: Hero Image from top section -->
 							<div class="col-lg-6 col-md-12">
 								<div class="intact-acc-left-hero">
-									<img src="images/installation-u-a.png" class="intact-acc-hero-img"
-										alt="PVC Wall Panels">
+									<img src="images/sumo-panel.png" class="intact-acc-hero-img"
+										alt="INTACT SUMO PVC Wall Panel Profile Extrusions" loading="lazy">
 								</div>
 							</div>
 
@@ -935,7 +1109,7 @@
 											<h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
 											<h2 class="pbmit-title">SUMO Wall Panel Jointers</h2>
 										</div>
-										<div class="pbmit-heading-desc mt-3" text-align: justify;>
+										<div class="pbmit-heading-desc mt-3" style="text-align: justify;">
 											Our PVC panel jointers give your wall installations a clean, durable and
 											professional finish. They hide joints, protect panel edges and make every
 											corner look sharp and neat. Perfect for homes, offices and commercial spaces
@@ -949,8 +1123,8 @@
 										<div class="col-6">
 											<div class="intact-acc-item-box">
 												<div class="intact-acc-img-wrap">
-													<img src="images/u-jointer.png" alt="U Jointer Profile"
-														class="img-fluid">
+													<img src="images/s-u-jointer.png" alt="SUMO PVC Wall Panel U-Jointer Profile"
+														class="img-fluid" loading="lazy">
 												</div>
 												<h3 class="intact-acc-item-title">U Jointer</h3>
 												<p class="intact-acc-item-desc">Joins two PVC panels along a straight
@@ -962,8 +1136,8 @@
 										<div class="col-6">
 											<div class="intact-acc-item-box">
 												<div class="intact-acc-img-wrap">
-													<img src="images/angle-jointer.png" alt="Angle Jointer Profile"
-														class="img-fluid">
+													<img src="images/s-angle-jointer.png" alt="SUMO PVC Wall Panel Angle Jointer Profile"
+														class="img-fluid" loading="lazy">
 												</div>
 												<h3 class="intact-acc-item-title">Angle Jointer</h3>
 												<p class="intact-acc-item-desc">Made for corner installations. It adds
@@ -994,7 +1168,7 @@
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
 										<img src="images/wall-install-step-1.png" class="img-fluid"
-											alt="Measure & Prepare">
+											alt="Step 1 - Measure and Prepare Wall Surface for SUMO PVC Panels" loading="lazy">
 										<div class="pbmit-box-number">01</div>
 									</div>
 								</div>
@@ -1012,7 +1186,7 @@
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
 										<img src="images/wall-install-step-2.png" class="img-fluid"
-											alt="Install the Frame">
+											alt="Step 2 - Install Framework Battens for SUMO PVC Wall Panels" loading="lazy">
 										<div class="pbmit-box-number">02</div>
 									</div>
 								</div>
@@ -1030,7 +1204,7 @@
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
 										<img src="images/wall-install-step-3.png" class="img-fluid"
-											alt="Fix the Panels">
+											alt="Step 3 - Slot and Interlock SUMO PVC Wall Panels" loading="lazy">
 										<div class="pbmit-box-number">03</div>
 									</div>
 								</div>
@@ -1047,7 +1221,8 @@
 							<div class="pbmit-staticbox-wrapper">
 								<div class="pbmit-img">
 									<div class="pbmit-img-wrapper">
-										<img src="images/wall-install-step-4.png" class="img-fluid" alt="Finish & Seal">
+										<img src="images/wall-install-step-4.png" class="img-fluid"
+											alt="Step 4 - Finish Edges and Corner Jointers for SUMO Wall Panels" loading="lazy">
 										<div class="pbmit-box-number">04</div>
 									</div>
 								</div>
@@ -1087,7 +1262,8 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/s-living-room.png" class="img-fluid" alt="Resort">
+										<img src="images/s-living-room.png" class="img-fluid"
+											alt="Luxury Living Room Wall Cladding with SUMO PVC Wall Panels" loading="lazy">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1103,11 +1279,12 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/s-villa.png" class="img-fluid" alt="Villa">
+										<img src="images/s-villa.png" class="img-fluid"
+											alt="Modern Luxury Villa Wall Paneling with SUMO Fluted Panels" loading="lazy">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
-									<div class="pbminfotech-titlebox">
+									<div class="pbmit-titlebox">
 										<h3 class="pbmit-portfolio-title">
 											<a href="#">Villa</a>
 										</h3>
@@ -1120,7 +1297,7 @@
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/s-commercial-space.png" class="img-fluid"
-											alt="Commercial Space">
+											alt="Commercial Showroom Wall Decor using SUMO PVC Panels" loading="lazy">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1137,7 +1314,7 @@
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/s-corporate-office.png" class="img-fluid"
-											alt="Corporate Office">
+											alt="Corporate Office Reception Cladding with SUMO PVC Panels" loading="lazy">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1153,7 +1330,8 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/ss-living-room.png" class="img-fluid" alt="Living Room">
+										<img src="images/ss-living-room.png" class="img-fluid"
+											alt="Designer Living Room Feature Wall with SUMO Wall Paneling" loading="lazy">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">
@@ -1169,7 +1347,8 @@
 							<div class="pbminfotech-post-content">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/s-grand-lobby.png" class="img-fluid" alt="Grand Lobby">
+										<img src="images/s-grand-lobby.png" class="img-fluid"
+											alt="Grand Hotel Lobby Wall Paneling with Heavy Duty SUMO PVC Panels" loading="lazy">
 									</div>
 								</div>
 								<div class="pbminfotech-box-content">

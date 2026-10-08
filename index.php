@@ -7,28 +7,32 @@
 	<title>Premium PVC Wall & Ceiling Panels Manufacturer | INTACT</title>
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="description"
-		content="Leading manufacturer of premium PVC wall & ceiling panels in India. INTACT offers 100% waterproof, termite-proof & fire-retardant interior panel solutions.">
+		content="Leading manufacturer of premium PVC wall & ceiling panels in India. INTACT offers waterproof, termite-proof & fire-retardant interior panel solutions.">
 	<meta name="keywords"
-		content="PVC wall panels, PVC ceiling panels, PVC panel manufacturer, interior wall panels, waterproof ceiling panels, PVC extrusion India, decorative wall panels, INTACT Design">
+		content="PVC wall panels India, PVC ceiling panels India, PVC panel manufacturer in India, waterproof wall panels India, fluted wall panels India, PVC false ceiling India, PVC extrusion India, decorative wall panels, INTACT Design">
+	<meta name="geo.region" content="IN">
+	<meta name="geo.placename" content="India">
 	<meta name="author" content="INTACT Design & Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="canonical" href="https://intactdesign.in/">
+	<link rel="canonical" href="https://intactdesign.com/">
 
 	<!-- Open Graph / Facebook / WhatsApp SEO -->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://intactdesign.in/">
+	<meta property="og:url" content="https://intactdesign.com/">
 	<meta property="og:title" content="Premium PVC Wall & Ceiling Panels Manufacturer | INTACT">
 	<meta property="og:description"
-		content="Transform interiors with 100% waterproof, fire-retardant, and termite-proof PVC wall and ceiling panels by INTACT. Explore collection.">
-	<meta property="og:image" content="images/product/wall-panel3.jpg">
+		content="Transform interiors with waterproof, fire-retardant, and termite-proof PVC wall and ceiling panels by INTACT. Explore collection.">
+	<meta property="og:image" content="https://intactdesign.com/images/product/wall-panel3.jpg">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
 	<meta property="og:site_name" content="INTACT Design & Extrusion">
 
 	<!-- Twitter Card SEO -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Premium PVC Wall & Ceiling Panels Manufacturer | INTACT">
 	<meta name="twitter:description"
-		content="Explore India's trusted PVC wall & ceiling panel manufacturer. Waterproof, durable & stylish interior solutions.">
-	<meta name="twitter:image" content="images/product/wall-panel3.jpg">
+		content="Explore INTACT's PVC wall & ceiling panels. Waterproof, durable & stylish interior solutions for modern spaces.">
+	<meta name="twitter:image" content="https://intactdesign.com/images/product/wall-panel3.jpg">
 
 	<!-- Schema.org JSON-LD Structured Data for Google Ranking -->
 	<script type="application/ld+json">
@@ -37,31 +41,62 @@
 	  "@graph": [
 	    {
 	      "@type": "Organization",
-	      "@id": "https://intactdesign.in/#organization",
+	      "@id": "https://intactdesign.com/#organization",
 	      "name": "INTACT Design & Extrusion",
-	      "alternateName": "INTACT PVC Panels",
-	      "url": "https://intactdesign.in/",
+	      "alternateName": "INTACT PVC Panels India",
+	      "url": "https://intactdesign.com/",
 	      "logo": {
 	        "@type": "ImageObject",
-	        "url": "https://intactdesign.in/images/intact-logo.png"
+	        "url": "https://intactdesign.com/images/intact-logo.png",
+	        "caption": "INTACT PVC Wall and Ceiling Panels Manufacturer India"
 	      },
 	      "contactPoint": {
 	        "@type": "ContactPoint",
 	        "telephone": "+91-1234567890",
-	        "contactType": "customer service",
-	        "areaServed": "IN",
+	        "contactType": "sales",
+	        "areaServed": {
+	          "@type": "Country",
+	          "name": "India"
+	        },
 	        "availableLanguage": ["English", "Hindi", "Gujarati"]
 	      },
-	      "description": "India's trusted manufacturer of premium PVC wall panels and ceiling panels, engineered for durability, waterproofing, and timeless modern design.",
-	      "knowsAbout": ["PVC Wall Panels", "PVC Ceiling Panels", "Extrusion Technology", "Interior Wall Cladding", "Waterproof Ceilings"]
+	      "address": {
+	        "@type": "PostalAddress",
+	        "addressCountry": "IN"
+	      },
+	      "description": "Leading manufacturer and pan-India supplier of premium PVC wall panels and PVC ceiling panels, engineered for waterproofing, termite resistance, and fire retardancy.",
+	      "knowsAbout": ["PVC Wall Panels India", "PVC Ceiling Panels Manufacturer", "Fluted Wall Panels", "Extrusion Technology", "Interior Wall Cladding India", "Waterproof Ceilings"],
+	      "hasOfferCatalog": {
+	        "@type": "OfferCatalog",
+	        "name": "PVC Wall and Ceiling Panels Collection India",
+	        "itemListElement": [
+	          {
+	            "@type": "Offer",
+	            "itemOffered": {
+	              "@type": "Product",
+	              "name": "PVC Wall Panels",
+	              "description": "High quality waterproof and termite-proof decorative PVC wall panels supplied across India."
+	            }
+	          },
+	          {
+	            "@type": "Offer",
+	            "itemOffered": {
+	              "@type": "Product",
+	              "name": "PVC Ceiling Panels",
+	              "description": "Lightweight, moisture-resistant false ceiling PVC panels for homes and commercial spaces in India."
+	            }
+	          }
+	        ]
+	      }
 	    },
 	    {
 	      "@type": "WebSite",
-	      "@id": "https://intactdesign.in/#website",
-	      "url": "https://intactdesign.in/",
+	      "@id": "https://intactdesign.com/#website",
+	      "url": "https://intactdesign.com/",
 	      "name": "INTACT Design & Extrusion",
+	      "inLanguage": "en-IN",
 	      "publisher": {
-	        "@id": "https://intactdesign.in/#organization"
+	        "@id": "https://intactdesign.com/#organization"
 	      }
 	    }
 	  ]
@@ -124,11 +159,11 @@
 												<h1 class="pbmit-title transform-left transform-delay-3">Premium PVC
 													Wall & Ceiling Panels<br>Manufacturer in India</h1>
 												<p class="pbmit-desc transform-bottom transform-delay-4">INTACT Design &
-													Extrusion delivers 100% waterproof, termite-proof, and fire-retardant PVC wall panels
+													Extrusion delivers waterproof, termite-proof, and fire-retardant PVC wall panels
 													and ceiling panels engineered for modern residential and commercial interiors.
 												</p>
 												<div class="pbmit-button-wrap transform-bottom transform-delay-5 mt-4">
-													<a class="pbmit-btn pbmit-btn-outline" href="ceiling.php">
+													<a class="pbmit-btn pbmit-btn-outline" href="2-groove-pvc-ceiling-panel.php">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-text">Explore Products</span>
 														</span>
@@ -151,11 +186,11 @@
 												<h2 class="pbmit-title transform-left transform-delay-3">Termite-Proof &
 													Moisture-Resistant<br>PVC Wall Panels</h2>
 												<p class="pbmit-desc transform-bottom transform-delay-4">Engineered with
-													high-grade virgin PVC for maximum durability, 100% moisture
-													resistance, and termite-proof protection — built to last a lifetime.
+													high-grade virgin PVC for maximum durability, moisture
+													resistance, and termite-proof protection — built to last for years.
 												</p>
 												<div class="pbmit-button-wrap transform-bottom transform-delay-5 mt-4">
-													<a class="pbmit-btn pbmit-btn-outline" href="walls.php">
+													<a class="pbmit-btn pbmit-btn-outline" href="2-groove-pvc-wall-panel.php">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-text">Discover Collections</span>
 														</span>
@@ -177,8 +212,8 @@
 						<div class="col-lg-5">
 							<div class="about-three-img1">
 								<div class="pbmit-animation-style7 active">
-									<img src="images/product/home1.jpg" class="img-fluid" alt="Premium PVC Wall and Ceiling Panels by INTACT"
-										style="width: 100%; height: 471px; object-fit: cover;">
+									<img src="images/product/home1.jpg" class="img-fluid" alt="Best PVC Wall and Ceiling Panels Manufacturer in India - INTACT Design"
+										loading="lazy" style="width: 100%; height: 471px; object-fit: cover;">
 								</div>
 							</div>
 						</div>
@@ -188,7 +223,7 @@
 								<h2 class="pbmit-title">Leading Manufacturer of PVC Wall & Ceiling Panels</h2>
 							</div>
 							<div class="pbmit-heading-desc mt-3" style="text-align: justify;">
-								<strong>PVC wall panels and ceiling panels</strong> manufactured by INTACT Design & Extrusion deliver unmatched durability, aesthetic elegance, and superior performance for modern spaces. Engineered with 100% virgin-grade polymer, our panels are 100% waterproof, termite-proof, fire-retardant, and zero-maintenance. From luxury residential homes to corporate offices and commercial showrooms, INTACT panels offer seamless tongue-and-groove installation and timeless designer finishes.<br><br>Our versatile collection features wood grain, luxury marble, fluted grooving, and solid contemporary textures. We collaborate with architects, interior designers, contractors, and homeowners across India to deliver cost-effective, high-impact surface solutions that never warp, peel, or rot.
+								<strong>PVC wall panels and ceiling panels</strong> manufactured by INTACT Design & Extrusion deliver unmatched durability, aesthetic elegance, and superior performance for modern spaces. Engineered with virgin-grade polymer, our panels are waterproof and moisture resistant, termite-proof, fire-retardant, and low-maintenance. From luxury residential homes to corporate offices and commercial showrooms, INTACT panels offer seamless tongue-and-groove installation and timeless designer finishes.<br><br>Our versatile collection features wood grain, luxury marble, fluted grooving, and solid contemporary textures. We collaborate with architects, interior designers, contractors, and homeowners across India to deliver cost-effective, high-impact surface solutions that never warp, peel, or rot.
 							</div><br><br>
 							<div class="row g-4">
 								<div class="col-md-6">
@@ -250,7 +285,7 @@
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
 											<img src="images/collection/2-groove-panel.png" class="img-fluid"
-												alt="2 Groove PVC Wall Panel">
+												alt="2 Groove PVC Wall Panel Manufacturer in India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -277,7 +312,7 @@
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
 											<img src="images/collection/9-groove-panel.png" class="img-fluid"
-												alt="9 Groove PVC Wall Panel">
+												alt="9 Groove Fluted PVC Wall Panel Supplier in India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -305,7 +340,7 @@
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
 											<img src="images/collection/10-groove-panel.png" class="img-fluid"
-												alt="10 Groove PVC Wall Panel">
+												alt="10 Groove PVC Decorative Wall Panels India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -332,7 +367,7 @@
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
 											<img src="images/collection/sumo-pvc-panel.jpg" class="img-fluid"
-												alt="SUMO PVC Wall Panel">
+												alt="SUMO Heavy Duty PVC Wall Panel India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -504,7 +539,7 @@
 							<div class="p-4 bg-white rounded shadow-sm h-100 text-center">
 								<i
 									class="pbmit-xinterio-icon pbmit-xinterio-icon-kitchen text-warning display-6 mb-3"></i>
-								<h5 class="fw-bold">100% Water & Moisture Proof</h5>
+								<h5 class="fw-bold">Water & Moisture Resistant</h5>
 								<p class="small text-muted mb-0">Completely immune to humidity, swelling, peeling, or
 									water damage.</p>
 							</div>
@@ -647,7 +682,7 @@
 						<div class="col-lg-5">
 							<div class="about-three-img1">
 								<div class="pbmit-animation-style7 active">
-									<img src="images/product/brand.jpg" class="img-fluid rounded" alt="INTACT Brand">
+									<img src="images/product/brand.jpg" class="img-fluid rounded" alt="INTACT PVC Panels Manufacturing and Quality Excellence">
 								</div>
 							</div>
 						</div>
@@ -696,7 +731,7 @@
 										</tr>
 										<tr>
 											<td class="fw-bold">Special Features</td>
-											<td>Termite & Borer Proof, 100% Waterproof, Fire Retardant, Eco-Friendly &
+											<td>Termite & Borer Proof, Waterproof & Moisture Resistant, Fire Retardant, Eco-Friendly &
 												Recyclable</td>
 										</tr>
 										<tr>
@@ -745,7 +780,7 @@
 														<div class="pbmit-featured-img-wrapper">
 															<div class="pbmit-featured-wrapper">
 																<img src="images/product/a2.jpg" class="img-fluid"
-																	alt="Luxury Homes & Villas">
+																	alt="PVC Wall and Ceiling Panels for Luxury Homes and Villas in India" loading="lazy">
 															</div>
 														</div>
 													</div>
@@ -765,7 +800,7 @@
 														<div class="pbmit-featured-img-wrapper">
 															<div class="pbmit-featured-wrapper">
 																<img src="images/product/a1.jpg" class="img-fluid"
-																	alt="Hotels & Resorts">
+																	alt="Waterproof PVC Wall Panels for Hotels and Resorts in India" loading="lazy">
 															</div>
 														</div>
 													</div>
@@ -785,7 +820,7 @@
 														<div class="pbmit-featured-img-wrapper">
 															<div class="pbmit-featured-wrapper">
 																<img src="images/product/retailstore.jpg"
-																	class="img-fluid" alt="Showrooms & Retail">
+																	class="img-fluid" alt="Commercial PVC Wall Cladding for Retail Showrooms India" loading="lazy">
 															</div>
 														</div>
 													</div>
@@ -805,7 +840,7 @@
 														<div class="pbmit-featured-img-wrapper">
 															<div class="pbmit-featured-wrapper">
 																<img src="images/product/exterior-panel.jpg"
-																	class="img-fluid" alt="Building Facades">
+																	class="img-fluid" alt="Exterior Wall Cladding Panels for Building Facades India" loading="lazy">
 															</div>
 														</div>
 													</div>
@@ -825,7 +860,7 @@
 														<div class="pbmit-featured-img-wrapper">
 															<div class="pbmit-featured-wrapper">
 																<img src="images/product/a3.jpg" class="img-fluid"
-																	alt="Corporate Offices">
+																	alt="Modern PVC Wall Paneling Solutions for Corporate Offices India" loading="lazy">
 															</div>
 														</div>
 													</div>
@@ -862,7 +897,7 @@
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
 											<img src="images/latest-work/drawing-room.png" class="img-fluid"
-												alt="Drawing Room Interior with Decorative PVC Wall Panels">
+												alt="Drawing Room Interior PVC Wall Panels in India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -877,7 +912,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/latest-work/office.png" class="img-fluid" alt="Modern Corporate Office Wall Cladding with PVC Panels">
+											<img src="images/latest-work/office.png" class="img-fluid" alt="Modern Corporate Office Wall Cladding PVC Panels India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -892,7 +927,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/latest-work/home.png" class="img-fluid" alt="Residential Home Interior False Ceiling PVC Panels">
+											<img src="images/latest-work/home.png" class="img-fluid" alt="Residential Home False Ceiling PVC Panels India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -908,7 +943,7 @@
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
 											<img src="images/latest-work/retail-stores.png" class="img-fluid"
-												alt="Commercial Retail Store Wall and Ceiling Panels">
+												alt="Commercial Retail Store Wall and Ceiling Panels India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -923,7 +958,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/latest-work/hotels.png" class="img-fluid" alt="Luxury Hotel and Hospitality Interior PVC Panels">
+											<img src="images/latest-work/hotels.png" class="img-fluid" alt="Luxury Hotel Interior PVC Wall Panels India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">
@@ -938,7 +973,7 @@
 								<div class="pbminfotech-post-content">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/latest-work/restaurants.png" class="img-fluid" alt="Restaurant Interior Design with Waterproof PVC Panels">
+											<img src="images/latest-work/restaurants.png" class="img-fluid" alt="Restaurant Interior Design Waterproof PVC Panels India - INTACT" loading="lazy">
 										</div>
 									</div>
 									<div class="pbminfotech-box-content">

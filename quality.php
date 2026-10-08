@@ -4,10 +4,119 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>PVC Panel Quality & Standards | INTACT Design & Extrusion</title>
-	<meta name="description" content="Discover INTACT’s quality PVC wall and ceiling panels, made with reliable materials, precise manufacturing and durable finishes for modern interiors.">
-	<meta name="robots" content="index, follow">
+	<title>PVC Panel Quality & Manufacturing Standards in India | INTACT</title>
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<meta name="description"
+		content="Discover INTACT's manufacturing standards & quality testing for PVC wall and ceiling panels. High-grade virgin polymer, waterproof & fire-retardant panels in India.">
+	<meta name="keywords"
+		content="PVC panel quality standards, PVC wall panel manufacturing India, virgin PVC panels India, fire retardant PVC panels, waterproof PVC cladding quality, INTACT quality assurance">
+	<meta name="geo.region" content="IN">
+	<meta name="geo.placename" content="India">
+	<meta name="author" content="INTACT Design & Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="canonical" href="https://intactdesign.com/quality.php">
+
+	<!-- Open Graph / Facebook / WhatsApp SEO -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://intactdesign.com/quality.php">
+	<meta property="og:title" content="PVC Panel Quality & Manufacturing Standards in India | INTACT">
+	<meta property="og:description"
+		content="Discover INTACT's manufacturing standards & quality testing for PVC wall and ceiling panels. High-grade virgin polymer, waterproof & fire-retardant panels in India.">
+	<meta property="og:image" content="https://intactdesign.com/images/product/quality7.jpg">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:site_name" content="INTACT Design & Extrusion">
+
+	<!-- Twitter Card SEO -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="PVC Panel Quality & Manufacturing Standards in India | INTACT">
+	<meta name="twitter:description"
+		content="Discover INTACT's manufacturing standards & quality testing for PVC wall and ceiling panels. High-grade virgin polymer, waterproof & fire-retardant panels in India.">
+	<meta name="twitter:image" content="https://intactdesign.com/images/product/quality7.jpg">
+
+	<!-- Schema.org JSON-LD Structured Data for WebPage, Breadcrumbs & FAQs -->
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@graph": [
+	    {
+	      "@type": "WebPage",
+	      "@id": "https://intactdesign.com/quality.php#webpage",
+	      "url": "https://intactdesign.com/quality.php",
+	      "name": "PVC Panel Quality & Manufacturing Standards in India | INTACT",
+	      "description": "Discover INTACT's manufacturing standards & quality testing for PVC wall and ceiling panels. 100% virgin polymer, waterproof & fire-retardant panels in India.",
+	      "breadcrumb": {
+	        "@id": "https://intactdesign.com/quality.php#breadcrumb"
+	      },
+	      "inLanguage": "en-IN"
+	    },
+	    {
+	      "@type": "BreadcrumbList",
+	      "@id": "https://intactdesign.com/quality.php#breadcrumb",
+	      "itemListElement": [
+	        {
+	          "@type": "ListItem",
+	          "position": 1,
+	          "name": "Home",
+	          "item": "https://intactdesign.com/"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 2,
+	          "name": "Quality Standards",
+	          "item": "https://intactdesign.com/quality.php"
+	        }
+	      ]
+	    },
+	    {
+	      "@type": "FAQPage",
+	      "@id": "https://intactdesign.com/quality.php#faq",
+	      "mainEntity": [
+	        {
+	          "@type": "Question",
+	          "name": "What raw materials are used in INTACT PVC panels?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "INTACT PVC wall and ceiling panels are exclusively extruded using 100% virgin-grade PVC polymer compounds, ensuring superior structural strength, durability, and flawless finish without using regrind or inferior recycled fillers."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "How are INTACT PVC panels tested for quality and durability?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Every production batch undergoes strict quality control checks including impact resistance testing, dimension and thickness calibration, surface flatness inspection, and moisture barrier verification before packaging."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Are INTACT PVC panels fire-retardant and safe?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, our PVC panels are manufactured with self-extinguishing fire-retardant properties, preventing flame spread and minimizing smoke emission in compliance with modern safety requirements for homes, offices, and commercial spaces."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Are INTACT PVC wall and ceiling panels waterproof and moisture resistant?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, our panels feature a completely non-porous surface structure that repels water, dampness, and moisture, preventing mold, mildew, and structural warping even in coastal, high-humidity, or bathroom installations."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "How long do INTACT PVC panels last compared to traditional materials?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Unlike traditional plasterboard, drywall, or wood cladding that deteriorates with dampness and termites, INTACT PVC panels provide decades of maintenance-free performance without requiring repainting, polishing, or pest treatments."
+	          }
+	        }
+	      ]
+	    }
+	  ]
+	}
+	</script>
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
 	<!-- CSS
@@ -63,12 +172,12 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="" href="index.php" class="home"><span>Home</span></a>
+										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
 									</span>
 									<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
 									</span>
-									<span><span class="post-root post post-post current-item"> Quality </span></span>
+									<span><span class="post-root post post-post current-item">Quality Standards</span></span>
 								</div>
 							</div>
 						</div>
@@ -83,7 +192,8 @@
 						<div class="col-lg-5">
 							<div class="about-three-img1">
 								<div class="pbmit-animation-style7 active">
-									<img src="images/product/quality7.jpg" class="img-fluid" alt="PVC Wall and Ceiling Panel Quality Standards"
+									<img src="images/product/quality7.jpg" class="img-fluid" alt="INTACT PVC Wall and Ceiling Panel Manufacturing Quality Control and Testing in India"
+										width="540" height="471" fetchpriority="high"
 										style="width: 100%; height: 471px; object-fit: cover;">
 								</div>
 							</div>
@@ -93,9 +203,9 @@
 								<h4 class="pbmit-subtitle">QUALITY ASSURANCE & STANDARDS</h4>
 								<h2 class="pbmit-title">High-Performance PVC Wall & Ceiling Panels</h2>
 							</div>
-							<div class="pbmit-heading-desc mt-3" align="justify">
+							<div class="pbmit-heading-desc mt-3" style="text-align: justify;">
 								At <strong>INTACT Design & Extrusion</strong>, quality is built into every step of our manufacturing process. We produce high-performance <strong>PVC wall panels</strong> and <strong>PVC ceiling panels</strong> using 100% virgin PVC raw materials and state-of-the-art precision extrusion lines. Every panel undergoes multi-stage quality testing to guarantee consistent thickness, accurate dimensions, and flawless surface finishes for modern interior applications.<br><br>
-								Designed to outperform traditional wall cladding and plasterboard ceilings, INTACT PVC panels are 100% <strong>waterproof, termite-proof, and fire-retardant</strong>. Whether engineered for residential homes, corporate offices, luxury hotels, or commercial complexes, our panels deliver exceptional durability, zero-maintenance upkeep, and long-lasting aesthetic brilliance.
+								Designed to outperform traditional wall cladding and plasterboard ceilings, INTACT PVC panels are <strong>waterproof, termite-proof, and fire-retardant</strong>. Whether engineered for residential homes, corporate offices, luxury hotels, or commercial complexes, our panels deliver exceptional durability, zero-maintenance upkeep, and long-lasting aesthetic brilliance.
 							</div><br><br>
 							<div class="row g-4">
 								<div class="col-md-6">
@@ -320,6 +430,209 @@
 
 			 
 			
+			<!-- Quality FAQs Section Start -->
+			<section class="section-xl" style="background-color: #f8f5f0; padding: 75px 0; border-top: 1px solid #e8e2d8;">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style2">
+						<h4 class="pbmit-subtitle">FREQUENTLY ASKED QUESTIONS</h4>
+						<h2 class="pbmit-title">PVC Panel Quality & Standards FAQs</h2>
+						<div class="pbmit-heading-desc mx-auto" style="max-width: 680px;">
+							Answers to common questions regarding raw material grade, quality testing procedures, fire ratings, and waterproofing of INTACT PVC wall and ceiling panels.
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 col-xl-6">
+							<div class="pe-xl-3">
+								<div class="accordion" id="accordionQualityCol1">
+									<div class="accordion-item active">
+										<h2 class="accordion-header" id="headingQuality1">
+											<button class="accordion-button" type="button" data-bs-toggle="collapse"
+												data-bs-target="#collapseQuality1" aria-expanded="true"
+												aria-controls="collapseQuality1">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													1. What raw materials are used in INTACT PVC panels?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseQuality1" class="accordion-collapse collapse show"
+											aria-labelledby="headingQuality1" data-bs-parent="#accordionQualityCol1">
+											<div class="accordion-body">
+												INTACT PVC wall and ceiling panels are exclusively extruded using 100% virgin-grade PVC polymer compounds, ensuring superior structural strength, durability, and flawless finish without using regrind or inferior recycled fillers.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingQuality2">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseQuality2"
+												aria-expanded="false" aria-controls="collapseQuality2">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													2. How are INTACT PVC panels tested for quality and durability?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseQuality2" class="accordion-collapse collapse"
+											aria-labelledby="headingQuality2" data-bs-parent="#accordionQualityCol1">
+											<div class="accordion-body">
+												Every production batch undergoes strict quality control checks including impact resistance testing, dimension and thickness calibration, surface flatness inspection, and moisture barrier verification before packaging.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingQuality3">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseQuality3"
+												aria-expanded="false" aria-controls="collapseQuality3">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													3. Are INTACT PVC panels fire-retardant and safe?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseQuality3" class="accordion-collapse collapse"
+											aria-labelledby="headingQuality3" data-bs-parent="#accordionQualityCol1">
+											<div class="accordion-body">
+												Yes, our PVC panels are manufactured with self-extinguishing fire-retardant properties, preventing flame spread and minimizing smoke emission in compliance with modern safety requirements for homes, offices, and commercial spaces.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-xl-6">
+							<div class="ps-xl-3">
+								<div class="accordion" id="accordionQualityCol2">
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingQuality4">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseQuality4"
+												aria-expanded="false" aria-controls="collapseQuality4">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													4. Are INTACT PVC wall and ceiling panels waterproof and moisture resistant?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseQuality4" class="accordion-collapse collapse"
+											aria-labelledby="headingQuality4" data-bs-parent="#accordionQualityCol2">
+											<div class="accordion-body">
+												Yes, our panels feature a completely non-porous surface structure that repels water, dampness, and moisture, preventing mold, mildew, and structural warping even in coastal, high-humidity, or bathroom installations.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingQuality5">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseQuality5"
+												aria-expanded="false" aria-controls="collapseQuality5">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													5. How long do INTACT PVC panels last compared to traditional materials?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseQuality5" class="accordion-collapse collapse"
+											aria-labelledby="headingQuality5" data-bs-parent="#accordionQualityCol2">
+											<div class="accordion-body">
+												Unlike traditional plasterboard, drywall, or wood cladding that deteriorates with dampness and termites, INTACT PVC panels provide decades of maintenance-free performance without requiring repainting, polishing, or pest treatments.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Quality FAQs Section End -->
+
 			<!-- Final CTA Section Start -->
 			<section class="section-xl pbmit-final-cta-section">
 				<div class="container">

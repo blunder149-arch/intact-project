@@ -5154,7 +5154,7 @@ h2.pbmit-title {
 .pbmit-desc,
 p {
 	font-family: 'Roboto', sans-serif !important;
-	font-size: 16px !important;
+	/* font-size: 16px !important; */
 	line-height: 1.6 !important;
 	font-weight: 300 !important;
 }
@@ -5675,12 +5675,11 @@ p {
 	background-color: #ffffff;
 	/* border: 1px solid #e8e3d9; */
 	height: 100%;
-	transition: all 0.3s ease;
+	transform: none !important;
 }
 
 .precision-capability-item:hover {
-	border-color: var(--pbmit-global-color);
-	transform: translateY(-2px);
+	transform: none !important;
 }
 
 .precision-item-title {
@@ -5866,13 +5865,12 @@ p {
 	border: 1px solid rgba(0, 0, 0, 0.08);
 	border-radius: 0 !important;
 	box-shadow: none !important;
-	transition: transform 0.35s ease, border-color 0.35s ease;
+	transform: none !important;
 }
 
 .why-choose-card:hover {
-	transform: translateY(-6px);
+	transform: none !important;
 	box-shadow: none !important;
-	border-color: var(--pbmit-global-color) !important;
 }
 
 .why-choose-icon-box {
@@ -5887,7 +5885,7 @@ p {
 	justify-content: center !important;
 	text-align: center;
 	font-size: 22px;
-	transition: background-color 0.35s ease, color 0.35s ease, transform 0.35s ease;
+	transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .why-choose-icon-box i {
@@ -5900,7 +5898,7 @@ p {
 .why-choose-card:hover .why-choose-icon-box {
 	background: var(--pbmit-global-color);
 	color: var(--pbmit-white-color);
-	transform: scale(1.05);
+	transform: none !important;
 }
 
 /* Ensure Final CTA Section has clear background contrast from Why Choose section */
@@ -6361,8 +6359,98 @@ p {
 }
 
 /* Remove circle arrow icon from CTA buttons in CTA card */
-.cta-content-wrap ~ div .pbmit-btn:after,
+.cta-content-wrap~div .pbmit-btn:after,
 .cta-buttons-wrap .pbmit-btn:after,
 .section-lgt .pbmit-btn:after {
-    display: none !important;
+	display: none !important;
+}
+
+/* ==========================================================================
+   Downloads Page Card Styling
+   ========================================================================== */
+.download-catalog-card {
+	background: #ffffff;
+	border: 1px solid #eae5db;
+	border-radius: 0 !important;
+	padding: 16px;
+	box-shadow: 0 4px 18px rgba(0, 0, 0, 0.04);
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.download-catalog-img-wrap {
+	border-radius: 0 !important;
+	overflow: hidden;
+	margin-bottom: 16px;
+}
+
+.download-catalog-img-wrap img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	display: block;
+	border-radius: 0 !important;
+}
+
+.download-catalog-info {
+	display: flex;
+	align-items: center;
+	margin-bottom: 16px;
+	position: relative;
+}
+
+.download-pdf-icon-badge {
+	width: 42px;
+	height: 42px;
+	min-width: 42px;
+	border-radius: 50%;
+	background: #f4ede4;
+	color: #6d4b27;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 18px;
+	flex-shrink: 0;
+}
+
+.download-catalog-title {
+	font-family: 'Space Grotesk', sans-serif !important;
+	font-size: 16px !important;
+	font-weight: 700 !important;
+	color: #2b221a !important;
+	margin: 0 !important;
+	line-height: 1.3 !important;
+	text-align: center;
+	flex-grow: 1;
+	padding-right: 42px; /* balances the left badge so text is centered */
+}
+
+.download-catalog-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	width: 100%;
+	padding: 13px 18px;
+	background: #6d4b27;
+	color: #ffffff !important;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	border-radius: 0 !important;
+	border: none;
+	text-decoration: none;
+	transition: background-color 0.25s ease;
+	margin-top: auto;
+}
+
+.download-catalog-btn i {
+	font-size: 18px;
+	line-height: 1;
+}
+
+.download-catalog-btn:hover {
+	background: #4e3419;
+	color: #ffffff !important;
 }

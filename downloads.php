@@ -4,13 +4,111 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Download PVC Panel Brochures & Catalogues | INTACT Design & Extrusion</title>
+	<title>Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India</title>
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="description"
-		content="Download PVC wall and ceiling panel brochures, catalogues, specifications and installation guides from INTACT. Explore designs, textures and product details.">
-	<meta name="robots" content="index, follow">
+		content="Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.">
 	<meta name="keywords"
-		content="PVC panel brochure, PVC panel catalogue, panel specifications, download catalogue, PVC panel designs">
+		content="PVC panel catalogue PDF, download PVC wall panel brochure, PVC ceiling panel specifications India, INTACT product brochure PDF, PVC panel technical datasheet, interior PVC panel designs catalogue">
+	<meta name="geo.region" content="IN">
+	<meta name="geo.placename" content="India">
+	<meta name="author" content="INTACT Design & Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="canonical" href="https://intactdesign.com/downloads.php">
+
+	<!-- Open Graph / Facebook / WhatsApp SEO -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://intactdesign.com/downloads.php">
+	<meta property="og:title" content="Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India">
+	<meta property="og:description"
+		content="Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.">
+	<meta property="og:image" content="https://intactdesign.com/images/product/d1.jpg">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="og:site_name" content="INTACT Design & Extrusion">
+
+	<!-- Twitter Card SEO -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India">
+	<meta name="twitter:description"
+		content="Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.">
+	<meta name="twitter:image" content="https://intactdesign.com/images/product/d1.jpg">
+
+	<!-- Schema.org JSON-LD Structured Data for WebPage, Breadcrumbs & FAQs -->
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@graph": [
+	    {
+	      "@type": "WebPage",
+	      "@id": "https://intactdesign.com/downloads.php#webpage",
+	      "url": "https://intactdesign.com/downloads.php",
+	      "name": "Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India",
+	      "description": "Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.",
+	      "breadcrumb": {
+	        "@id": "https://intactdesign.com/downloads.php#breadcrumb"
+	      },
+	      "inLanguage": "en-IN"
+	    },
+	    {
+	      "@type": "BreadcrumbList",
+	      "@id": "https://intactdesign.com/downloads.php#breadcrumb",
+	      "itemListElement": [
+	        {
+	          "@type": "ListItem",
+	          "position": 1,
+	          "name": "Home",
+	          "item": "https://intactdesign.com/"
+	        },
+	        {
+	          "@type": "ListItem",
+	          "position": 2,
+	          "name": "Downloads",
+	          "item": "https://intactdesign.com/downloads.php"
+	        }
+	      ]
+	    },
+	    {
+	      "@type": "FAQPage",
+	      "@id": "https://intactdesign.com/downloads.php#faq",
+	      "mainEntity": [
+	        {
+	          "@type": "Question",
+	          "name": "How can I download the INTACT PVC wall and ceiling panel catalogue?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "You can click the 'Download' button directly on this page under Product Catalogue to instantly access our digital PDF catalogue with full colour palettes, dimensions, groove types, and shade options."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Does the INTACT catalogue contain full finish shade cards and technical specifications?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, our catalogue includes high-resolution finish swatches covering Wooden, Marble, Fluted, Textured, and Solid finishes along with panel dimensions, weight specifications, and interlocking joint details."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "What warranty coverage is detailed in the INTACT Warranty Document?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "The warranty document covers manufacturer guarantees against warping, delamination, termite damage, and moisture degradation under standard indoor installation parameters."
+	          }
+	        },
+	        {
+	          "@type": "Question",
+	          "name": "Can architects, interior designers, and dealers request printed physical sample kits?",
+	          "acceptedAnswer": {
+	            "@type": "Answer",
+	            "text": "Yes, architects, designers, builders, and prospective dealers can reach out via our contact page to receive physical finish sample swatches and printed architectural product binders."
+	          }
+	        }
+	      ]
+	    }
+	  ]
+	}
+	</script>
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
 	<!-- Google Fonts -->
@@ -72,7 +170,7 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="home" href="index.php" class="home"><span>Home</span></a>
+										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
 										<span class="sep">
 											<i class="pbmit-base-icon-angle-right"></i>
 										</span>
@@ -89,146 +187,271 @@
 				</div>
 			</div>
 
-			<!-- Downloads Section -->
-			<section class="section-xl pbmit-bg-color-light">
+			<!-- Downloads Section Start -->
+			<section class="section-xl" style="background-color: #f7f5f0; padding: 65px 0;">
 				<div class="container">
+					<!-- Section Header -->
 					<div class="pbmit-heading-subheading text-center animation-style2 mb-5">
-						<h2 class="pbmit-title">Catalogs & Brochures</h2>
+						<h4 class="pbmit-subtitle">DOWNLOAD</h4>
+						<h2 class="pbmit-title">Catalogues & Brochures</h2>
+						<div class="pbmit-heading-desc mx-auto" style="max-width: 650px;">
+							Explore our comprehensive product catalogues, architectural application guides, and technical PVC specifications for residential and commercial interiors in India.
+						</div>
 					</div>
 
+					<!-- Download Cards Row -->
 					<div class="row g-4">
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-download-image mb-2">
-										<img src="images/product/d1.jpg" class="img-fluid rounded"
-											alt="Product Brochure">
-									</div>
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
-												<a href="#">
-													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-														<i class="pbmit-base-icon-download"
-															style="font-size: 25px;"></i>
-													</div>
-												</a>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Product Catalogue</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
-											<strong>PDF - 12 MB</strong>
-										</div>
-									</div>
+						<!-- Card 1: Product Catalogue -->
+						<div class="col-sm-6 col-lg-3">
+							<div class="download-catalog-card">
+								<div class="download-catalog-img-wrap">
+									<img src="images/product/d1.jpg" alt="INTACT PVC Wall and Ceiling Panel Product Catalogue PDF Download India"
+										width="300" height="400" loading="lazy">
 								</div>
+								<div class="download-catalog-info">
+									<div class="download-pdf-icon-badge">
+										<i class="fa fa-file-pdf-o"></i>
+									</div>
+									<h3 class="download-catalog-title">Product Catalogue</h3>
+								</div>
+								<a href="images/product/d1.jpg" download class="download-catalog-btn">
+									<i class="pbmit-base-icon-download"></i>
+									<span>Download</span>
+								</a>
 							</div>
 						</div>
 
-
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-download-image mb-2">
-										<img src="images/product/d2.jpg" class="img-fluid rounded"
-											alt="Warranty Document">
-									</div>
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
-												<a href="#">
-													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-														<i class="pbmit-base-icon-download"
-															style="font-size: 25px;"></i>
-													</div>
-												</a>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Warranty Document</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
-											<strong>PDF - 8 MB</strong>
-										</div>
-									</div>
+						<!-- Card 2: Warranty Document -->
+						<div class="col-sm-6 col-lg-3">
+							<div class="download-catalog-card">
+								<div class="download-catalog-img-wrap">
+									<img src="images/product/d2.jpg" alt="INTACT PVC Panel Warranty and Quality Certification Document India"
+										width="300" height="400" loading="lazy">
 								</div>
+								<div class="download-catalog-info">
+									<div class="download-pdf-icon-badge">
+										<i class="fa fa-file-pdf-o"></i>
+									</div>
+									<h3 class="download-catalog-title">Warranty Document</h3>
+								</div>
+								<a href="images/product/d2.jpg" download class="download-catalog-btn">
+									<i class="pbmit-base-icon-download"></i>
+									<span>Download</span>
+								</a>
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-download-image mb-2">
-										<img src="images/product/d3.jpg" class="img-fluid rounded"
-											alt="Application Guide">
-									</div>
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
-												<a href="#">
-													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-														<i class="pbmit-base-icon-download"
-															style="font-size: 25px;"></i>
-													</div>
-												</a>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Application Guide</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
-											<strong>PDF - 20 MB</strong>
-										</div>
-									</div>
+						<!-- Card 3: Application Guide -->
+						<div class="col-sm-6 col-lg-3">
+							<div class="download-catalog-card">
+								<div class="download-catalog-img-wrap">
+									<img src="images/product/d3.jpg" alt="INTACT Architectural Application and Interior Design Guide India"
+										width="300" height="400" loading="lazy">
 								</div>
+								<div class="download-catalog-info">
+									<div class="download-pdf-icon-badge">
+										<i class="fa fa-file-pdf-o"></i>
+									</div>
+									<h3 class="download-catalog-title">Application Guide</h3>
+								</div>
+								<a href="images/product/d3.jpg" download class="download-catalog-btn">
+									<i class="pbmit-base-icon-download"></i>
+									<span>Download</span>
+								</a>
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-3">
-							<div class="pbmit-ihbox-style-7">
-								<div class="pbmit-ihbox-box">
-									<div class="pbmit-download-image mb-2">
-										<img src="images/product/d4.jpg" class="img-fluid rounded"
-											alt="Maintenance Guide">
-									</div>
-									<div class="pbmit-icon-wrapper d-flex align-items-center">
-										<div class="pbmit-ihbox-icon">
-											<div class="pbmit-ihbox-icon-wrapper" style="height:60px; width: 60px;">
-												<a href="#">
-													<div class="pbmit-icon-wrapper pbmit-icon-type-icon">
-														<i class="pbmit-base-icon-download"
-															style="font-size: 25px;"></i>
-													</div>
-												</a>
-											</div>
-										</div>
-										<div class="pbmit-title-wrap">
-											<h2 class="pbmit-element-title">Maintenance Guide</h2>
-										</div>
-									</div>
-									<div class="pbmit-content-wrapper">
-										<div style="font-size: 14px; color: #666;margin-bottom: 9px;margin-top: -10px;">
-											<strong>PDF - 8.5 MB</strong>
-										</div>
-									</div>
+						<!-- Card 4: Maintenance Guide -->
+						<div class="col-sm-6 col-lg-3">
+							<div class="download-catalog-card">
+								<div class="download-catalog-img-wrap">
+									<img src="images/product/d4.jpg" alt="INTACT PVC Panel Maintenance and Cleaning Instructions Guide India"
+										width="300" height="400" loading="lazy">
 								</div>
+								<div class="download-catalog-info">
+									<div class="download-pdf-icon-badge">
+										<i class="fa fa-file-pdf-o"></i>
+									</div>
+									<h3 class="download-catalog-title">Maintenance Guide</h3>
+								</div>
+								<a href="images/product/d4.jpg" download class="download-catalog-btn">
+									<i class="pbmit-base-icon-download"></i>
+									<span>Download</span>
+								</a>
 							</div>
 						</div>
-
 					</div>
-
 				</div>
-		</div>
-		</section>
-		
-		<!-- Downloads Section End -->
+			</section>
+			<!-- Downloads Section End -->
+
+			<!-- Downloads FAQs Section Start -->
+			<section class="section-xl" style="background-color: #ffffff; padding: 75px 0; border-top: 1px solid #e8e2d8;">
+				<div class="container">
+					<div class="pbmit-heading-subheading text-center animation-style2">
+						<h4 class="pbmit-subtitle">FREQUENTLY ASKED QUESTIONS</h4>
+						<h2 class="pbmit-title">Catalogues & Downloads FAQs</h2>
+						<div class="pbmit-heading-desc mx-auto" style="max-width: 680px;">
+							Information regarding catalogue formats, finish shade swatches, warranty terms, and architectural sample requests.
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 col-xl-6">
+							<div class="pe-xl-3">
+								<div class="accordion" id="accordionDownloadsCol1">
+									<div class="accordion-item active">
+										<h2 class="accordion-header" id="headingDownloads1">
+											<button class="accordion-button" type="button" data-bs-toggle="collapse"
+												data-bs-target="#collapseDownloads1" aria-expanded="true"
+												aria-controls="collapseDownloads1">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													1. How can I download the INTACT PVC panel catalogue?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseDownloads1" class="accordion-collapse collapse show"
+											aria-labelledby="headingDownloads1" data-bs-parent="#accordionDownloadsCol1">
+											<div class="accordion-body">
+												You can click the 'Download' button directly on this page under Product Catalogue to instantly access our digital PDF catalogue with full colour palettes, dimensions, groove types, and shade options.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingDownloads2">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseDownloads2"
+												aria-expanded="false" aria-controls="collapseDownloads2">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													2. Does the catalogue contain full shade cards & specifications?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseDownloads2" class="accordion-collapse collapse"
+											aria-labelledby="headingDownloads2" data-bs-parent="#accordionDownloadsCol1">
+											<div class="accordion-body">
+												Yes, our catalogue includes high-resolution finish swatches covering Wooden, Marble, Fluted, Textured, and Solid finishes along with panel dimensions, weight specifications, and interlocking joint details.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-12 col-xl-6">
+							<div class="ps-xl-3">
+								<div class="accordion" id="accordionDownloadsCol2">
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingDownloads3">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseDownloads3"
+												aria-expanded="false" aria-controls="collapseDownloads3">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													3. What warranty coverage is detailed in the Warranty Document?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseDownloads3" class="accordion-collapse collapse"
+											aria-labelledby="headingDownloads3" data-bs-parent="#accordionDownloadsCol2">
+											<div class="accordion-body">
+												The warranty document covers manufacturer guarantees against warping, delamination, termite damage, and moisture degradation under standard indoor installation parameters.
+											</div>
+										</div>
+									</div>
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingDownloads4">
+											<button class="accordion-button collapsed" type="button"
+												data-bs-toggle="collapse" data-bs-target="#collapseDownloads4"
+												aria-expanded="false" aria-controls="collapseDownloads4">
+												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
+													<span class="pbmit-accordion-icon-closed">
+														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+													<span class="pbmit-accordion-icon-opened">
+														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
+															xmlns="../../www.w3.org/2000/svg.html">
+															<path
+																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
+															</path>
+														</svg>
+													</span>
+												</span>
+												<span class="pbmit-accordion-title">
+													4. Can professionals request printed physical sample kits?
+												</span>
+											</button>
+										</h2>
+										<div id="collapseDownloads4" class="accordion-collapse collapse"
+											aria-labelledby="headingDownloads4" data-bs-parent="#accordionDownloadsCol2">
+											<div class="accordion-body">
+												Yes, architects, designers, builders, and prospective dealers can reach out via our contact page to receive physical finish sample swatches and printed architectural product binders.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Downloads FAQs Section End -->
 
 		<!-- Final CTA Section Start -->
 			<section class="section-xl pbmit-final-cta-section">

@@ -108,7 +108,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
 
 								<img src="images/PVC-CEILING-PANEL.png" class="img-fluid w-100"
 									style="width: 100%; height: 543px; object-fit: cover; "
-									alt="About PVC Ceiling Panels">
+									alt="INTACT PVC Ceiling Panels Manufacturer - Premium False Ceiling Solutions">
 							</div>
 						</div>
 						<div class="col-md-12 col-xl-6">

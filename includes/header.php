@@ -44,7 +44,7 @@
 					<div class="site-branding">
 						<div class="site-title">
 							<a href="index.php">
-								<img class="logo-img" src="images/intact-logo.png" alt="INTACT Design & Extrusion"
+								<img class="logo-img" src="images/intact-logo.png" alt="INTACT - PVC Wall and Ceiling Panels Manufacturer India"
 									style="max-height: 55px;">
 							</a>
 						</div>

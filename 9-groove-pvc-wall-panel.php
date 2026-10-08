@@ -4,10 +4,183 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Intact | Interior Design</title>
-    <meta name="robots" content="noindex, follow">
-    <meta name="description" content="">
+    <title>9 Groove PVC Wall Panel Manufacturer & Supplier in India | INTACT</title>
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="description"
+        content="Leading manufacturer and supplier of 9 Groove PVC wall panels in India. Waterproof, termite-proof & elegant fluted wall cladding panels with seamless finish.">
+    <meta name="keywords"
+        content="9 groove PVC wall panel, PVC wall panels India, 9 groove wall panel manufacturer, decorative fluted wall panels India, waterproof wall panels, interior wall cladding India, INTACT Design">
+    <meta name="geo.region" content="IN">
+    <meta name="geo.placename" content="India">
+    <meta name="author" content="INTACT Design & Extrusion">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="canonical" href="https://intactdesign.com/9-groove-pvc-wall-panel.php">
+
+    <!-- Open Graph / Facebook / WhatsApp SEO -->
+    <meta property="og:type" content="product">
+    <meta property="og:url" content="https://intactdesign.com/9-groove-pvc-wall-panel.php">
+    <meta property="og:title" content="9 Groove PVC Wall Panel Manufacturer & Supplier in India | INTACT">
+    <meta property="og:description"
+        content="Explore premium 9 groove PVC wall panels by INTACT. Waterproof, durable, and architecturally styled fluted wall panels supplied across India.">
+    <meta property="og:image" content="https://intactdesign.com/images/9-groove.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="INTACT Design & Extrusion">
+
+    <!-- Twitter Card SEO -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="9 Groove PVC Wall Panel Manufacturer & Supplier in India | INTACT">
+    <meta name="twitter:description"
+        content="Explore INTACT's 9 groove PVC wall panels. Waterproof, termite-proof & elegant fluted wall cladding.">
+    <meta name="twitter:image" content="https://intactdesign.com/images/9-groove.png">
+
+    <!-- Schema.org JSON-LD Structured Data for Product, Breadcrumbs & FAQs -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Product",
+          "@id": "https://intactdesign.com/9-groove-pvc-wall-panel.php#product",
+          "name": "9 Groove PVC Wall Panel",
+          "image": [
+            "https://intactdesign.com/images/9-groove.png"
+          ],
+          "description": "Architectural 9 Groove PVC wall panel manufactured by INTACT Design & Extrusion in India. Featuring 10mm thickness, 300mm width, waterproof, termite-proof, fire-retardant virgin polymer formulation with precision fluted profile.",
+          "brand": {
+            "@type": "Brand",
+            "name": "INTACT"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "INTACT Design & Extrusion",
+            "url": "https://intactdesign.com/"
+          },
+          "material": "100% Virgin Grade PVC Polymer",
+          "countryOfOrigin": {
+            "@type": "Country",
+            "name": "India"
+          },
+          "category": "Building Materials > Wall Cladding > PVC Wall Panels",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "INR",
+            "areaServed": "IN",
+            "availability": "https://schema.org/InStock",
+            "url": "https://intactdesign.com/9-groove-pvc-wall-panel.php",
+            "seller": {
+              "@type": "Organization",
+              "name": "INTACT Design & Extrusion"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://intactdesign.com/9-groove-pvc-wall-panel.php#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://intactdesign.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "9 Groove PVC Wall Panel",
+              "item": "https://intactdesign.com/9-groove-pvc-wall-panel.php"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://intactdesign.com/9-groove-pvc-wall-panel.php#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Are INTACT 9 Groove PVC wall panels waterproof?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our PVC wall panels are water and moisture resistant, making them ideal for kitchens, bathrooms, and humid interiors."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are PVC wall panels termite and fire resistant?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our panels are termite & borer proof with fire retardant options, offering added safety and long-term protection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What sizes do 9 Groove PVC wall panels come in?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our 9 Groove PVC wall panels are 10mm thick and 300mm wide, available in lengths of 3.05m and 3.66m."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What finishes are available for 9 Groove PVC wall panels?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our 9 Groove PVC wall panels are available in wooden, plain and marble designs, each with simple, golden line and copper line options."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are you a manufacturer of 9 Groove PVC wall panels in India?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, we manufacture and supply 9 Groove PVC wall panels across India. Dealers, contractors and customers can send an enquiry for prices and samples."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do PVC wall panels require maintenance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, our panels are low maintenance — no painting or polishing needed, just easy cleaning for a lasting finish."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is installation of PVC wall panels easy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our panels are lightweight yet strong, allowing for quick and hassle-free installation on any wall type."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can LED lights & wall fixtures be installed with PVC wall panels?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, PVC wall panels easily accommodate recessed LED spot lights, strip lighting, wall sconces, and fixtures with proper framing support."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why choose INTACT PVC wall panels over traditional wall paint or wallpaper?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "INTACT PVC wall panels are 100% moisture-proof, termite-proof, quicker to install without dust, easy to clean, and require zero repainting over their lifespan."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where can 9 Groove PVC wall panels be used?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They are ideal for living room feature walls, TV unit walls, bedrooms, offices, hotels and commercial interiors across India."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="images/intact-favicon.png">
     <!-- CSS
@@ -66,13 +239,13 @@
                             <div class="pbmit-breadcrumb">
                                 <div class="pbmit-breadcrumb-inner">
                                     <span>
-                                        <a title="" href="index.php" class="home"><span>Home</span></a>
+                                        <a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
                                     </span>
                                     <span class="sep">
                                         <i class="pbmit-base-icon-angle-right"></i>
                                     </span>
                                     <span>
-                                        <a title="" href="#" class="home"><span>Walls</span></a>
+                                        <span>Walls</span>
                                     </span>
                                     <span class="sep">
                                         <i class="pbmit-base-icon-angle-right"></i>
@@ -238,8 +411,9 @@
                         <div class="col-md-12 col-xl-6 mt-4 mt-xl-0">
                             <div class="">
                                 <img src="images/9-groove.png" class="img-fluid w-100"
+                                    width="600" height="495" fetchpriority="high"
                                     style="width: 100%; height: 495px; object-fit: cover; display: block;"
-                                    alt="About Wall Panels">
+                                    alt="INTACT 9 Groove PVC Wall Panel - Fluted Architectural Wall Paneling India">
                             </div>
                         </div>
                     </div>
@@ -274,7 +448,7 @@
                                     <img src="images/9G/vintage-walnut-001.jpg"
                                         data-simple="images/9G/vintage-walnut-001.jpg"
                                         data-golden="images/9G/vintage-walnut-g.jpg"
-                                        data-copper="images/9G/vintage-walnut-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/vintage-walnut-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Vintage Walnut">
                                 </div>
                                 <div class="finish-card-body">
@@ -303,7 +477,7 @@
                                     <img src="images/9G/natural-white-002.jpg"
                                         data-simple="images/9G/natural-white-002.jpg"
                                         data-golden="images/9G/natural-white-g.jpg"
-                                        data-copper="images/9G/natural-white-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/natural-white-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Natural White">
                                 </div>
                                 <div class="finish-card-body">
@@ -331,7 +505,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/teak-wood-003.jpg" data-simple="images/9G/teak-wood-003.jpg"
                                         data-golden="images/9G/teak-wood-g.jpg" data-copper="images/9G/teak-wood-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Teak Wood">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Teak Wood">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -359,7 +533,7 @@
                                     <img src="images/9G/heritage-walnut-004.jpg"
                                         data-simple="images/9G/heritage-walnut-004.jpg"
                                         data-golden="images/9G/heritage-walnut-g.jpg"
-                                        data-copper="images/9G/heritage-walnut-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/heritage-walnut-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Heritage Walnut">
                                 </div>
                                 <div class="finish-card-body">
@@ -387,7 +561,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/oak-wood-005.jpg" data-simple="images/9G/oak-wood-005.jpg"
                                         data-golden="images/9G/oak-wood-g.jpg" data-copper="images/9G/oak-wood-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Oak Wood">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Oak Wood">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -415,7 +589,7 @@
                                     <img src="images/9G/classic-walnut-006.jpg"
                                         data-simple="images/9G/classic-walnut-006.jpg"
                                         data-golden="images/9G/classic-walnut-g.jpg"
-                                        data-copper="images/9G/classic-walnut-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/classic-walnut-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Classic Walnut">
                                 </div>
                                 <div class="finish-card-body">
@@ -443,7 +617,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/goldern-oak.jpg" data-simple="images/9G/goldern-oak.jpg"
                                         data-golden="images/9G/goldern-oak-g.jpg"
-                                        data-copper="images/9G/goldern-oak-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/goldern-oak-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Golden Oak">
                                 </div>
                                 <div class="finish-card-body">
@@ -471,7 +645,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/Retro-Wood.jpg" data-simple="images/9G/Retro-Wood.jpg"
                                         data-golden="images/9G/Retro-Wood-g.jpg"
-                                        data-copper="images/9G/Retro-Wood-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/Retro-Wood-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Retro Wood">
                                 </div>
                                 <div class="finish-card-body">
@@ -499,7 +673,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/desert-oak-010.jpg" data-simple="images/9G/desert-oak-010.jpg"
                                         data-golden="images/9G/desert-oak-g.jpg"
-                                        data-copper="images/9G/desert-oak-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/desert-oak-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Desert Oak">
                                 </div>
                                 <div class="finish-card-body">
@@ -527,7 +701,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/honey-oak-011.jpg" data-simple="images/9G/honey-oak-011.jpg"
                                         data-golden="images/9G/honey-oak-g.jpg" data-copper="images/9G/honey-oak-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="Honey Oak">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="Honey Oak">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -556,7 +730,7 @@
                                     <img src="images/9G/urban-concrete-012.jpg"
                                         data-simple="images/9G/urban-concrete-012.jpg"
                                         data-golden="images/9G/urban-concrete-g.jpg"
-                                        data-copper="images/9G/urban-concrete-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/urban-concrete-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Urban Concrete">
                                 </div>
                                 <div class="finish-card-body">
@@ -584,7 +758,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/sage-stone-021.jpg" data-simple="images/9G/sage-stone-021.jpg"
                                         data-golden="images/9G/sage-stone-g.jpg"
-                                        data-copper="images/9G/sage-stone-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/sage-stone-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Sage Stone">
                                 </div>
                                 <div class="finish-card-body">
@@ -613,7 +787,7 @@
                                     <img src="images/9G/TITANIUM-GREY-022.jpg"
                                         data-simple="images/9G/TITANIUM-GREY-022.jpg"
                                         data-golden="images/9G/TITANIUM-GREY-g.jpg"
-                                        data-copper="images/9G/TITANIUM-GREY-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/TITANIUM-GREY-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Titanium Grey">
                                 </div>
                                 <div class="finish-card-body">
@@ -641,7 +815,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/silk-cream-023.jpg" data-simple="images/9G/silk-cream-023.jpg"
                                         data-golden="images/9G/silk-cream-g.jpg"
-                                        data-copper="images/9G/silk-cream-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/silk-cream-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Silk Cream">
                                 </div>
                                 <div class="finish-card-body">
@@ -670,7 +844,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/white-pearl.jpg" data-simple="images/9G/white-pearl.jpg"
                                         data-golden="images/9G/white-pearl-g.jpg"
-                                        data-copper="images/9G/white-pearl-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/white-pearl-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="White Pearl">
                                 </div>
                                 <div class="finish-card-body">
@@ -699,7 +873,7 @@
                                     <img src="images/9G/imperial-stone-033.jpg"
                                         data-simple="images/9G/imperial-stone-033.jpg"
                                         data-golden="images/9G/imperial-stone-g.jpg"
-                                        data-copper="images/9G/imperial-stone-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/imperial-stone-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Imperial Stone">
                                 </div>
                                 <div class="finish-card-body">
@@ -729,7 +903,7 @@
                                         data-simple="images/9G/White-Royal-Gold.jpg"
                                         data-golden="images/9G/White-Royal-Gold-g.jpeg"
                                         data-copper="images/9G/White-Royal-Gold-c.jpg"
-                                        class="img-fluid finish-panel-img" alt="White Royal Gold">
+                                        class="img-fluid finish-panel-img" loading="lazy" alt="White Royal Gold">
                                 </div>
                                 <div class="finish-card-body">
                                     <h3 class="finish-card-title">
@@ -757,7 +931,7 @@
                                     <img src="images/9G/SMOKY-TITANIUM-035.jpg"
                                         data-simple="images/9G/SMOKY-TITANIUM-035.jpg"
                                         data-golden="images/9G/SMOKY-TITANIUM-g.jpg"
-                                        data-copper="images/9G/SMOKY-TITANIUM-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/SMOKY-TITANIUM-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Smoky Titanium">
                                 </div>
                                 <div class="finish-card-body">
@@ -785,7 +959,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/green-stone-036.jpg" data-simple="images/9G/green-stone-036.jpg"
                                         data-golden="images/9G/green-stone-g.jpg"
-                                        data-copper="images/9G/green-stone-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/green-stone-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Green Stone">
                                 </div>
                                 <div class="finish-card-body">
@@ -813,7 +987,7 @@
                                 <div class="finish-img-wrap">
                                     <img src="images/9G/marble-black.jpg" data-simple="images/9G/marble-black.jpg"
                                         data-golden="images/9G/marble-black-g.jpg"
-                                        data-copper="images/9G/marble-black-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/marble-black-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Marble Black">
                                 </div>
                                 <div class="finish-card-body">
@@ -842,7 +1016,7 @@
                                     <img src="images/9G/grenish-royal-031.jpg"
                                         data-simple="images/9G/grenish-royal-031.jpg"
                                         data-golden="images/9G/grenish-royal-g.jpg"
-                                        data-copper="images/9G/grenish-royal-c.jpg" class="img-fluid finish-panel-img"
+                                        data-copper="images/9G/grenish-royal-c.jpg" class="img-fluid finish-panel-img" loading="lazy"
                                         alt="Gremish Royal">
                                 </div>
                                 <div class="finish-card-body">
@@ -1016,7 +1190,7 @@
                             <div class="ihbox-imgbox">
                                 <img src="images/pvc-ceilibg-panel.png" class="img-fluid"
                                     style="width: 420px; height: 420px; max-width: 100%; border-radius: 50%; object-fit: cover; border: 8px solid #ffffff; box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);"
-                                    alt="PVC Wall Panels">
+                                    alt="INTACT 9 Groove PVC Wall Panel Features India" loading="lazy">
                             </div>
                         </div>
                         <div class="col-md-3 ihbox-one-right-col">
@@ -1103,7 +1277,7 @@
                                         <div class="pbmit-service-image-wrapper">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="images/S.png" class="img-fluid" alt="Narrow Line S">
+                                                    <img src="images/S.png" class="img-fluid" alt="Narrow Line S Fluted Wall Panel Profile" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="pbmit-service-icon-wrapper">
@@ -1135,7 +1309,7 @@
                                         <div class="pbmit-service-image-wrapper">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="images/M.png" class="img-fluid" alt="Balanced Line M">
+                                                    <img src="images/M.png" class="img-fluid" alt="Balanced Line M Fluted Wall Panel Profile" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="pbmit-service-icon-wrapper">
@@ -1167,7 +1341,7 @@
                                         <div class="pbmit-service-image-wrapper">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="images/L.png" class="img-fluid" alt="Bold Line L">
+                                                    <img src="images/L.png" class="img-fluid" alt="Bold Line L Fluted Wall Panel Profile" loading="lazy">
                                                 </div>
                                             </div>
                                             <div class="pbmit-service-icon-wrapper">
@@ -1205,7 +1379,7 @@
                             <div class="col-lg-6 col-md-12">
                                 <div class="intact-acc-left-hero">
                                     <img src="images/installation-u-a.png" class="intact-acc-hero-img"
-                                        alt="PVC Wall Panels">
+                                        alt="9 Groove PVC Wall Panel Installation with Matching Jointers India" loading="lazy">
                                 </div>
                             </div>
 
@@ -1218,7 +1392,7 @@
                                             <h4 class="pbmit-subtitle">INSTALLATION ACCESSORIES</h4>
                                             <h2 class="pbmit-title">Jointers for 9 Groove PVC Wall Panels</h2>
                                         </div>
-                                        <div class="pbmit-heading-desc mt-3" text-align: justify;>
+                                        <div class="pbmit-heading-desc mt-3" style="text-align: justify;">
                                             Our PVC panel jointers give your wall installations a clean, durable and
                                             professional finish. They hide joints, protect panel edges and make every
                                             corner look sharp and neat. Perfect for homes, offices and commercial spaces
@@ -1232,7 +1406,7 @@
                                         <div class="col-6">
                                             <div class="intact-acc-item-box">
                                                 <div class="intact-acc-img-wrap">
-                                                    <img src="images/u-jointer-9g.jpg" alt="U Jointer Profile"
+                                                    <img src="images/u-jointer-9g.jpg" alt="U Jointer Profile for 9 Groove PVC Wall Panels - INTACT India" loading="lazy"
                                                         class="img-fluid">
                                                 </div>
                                                 <h3 class="intact-acc-item-title">U Jointer</h3>
@@ -1245,7 +1419,7 @@
                                         <div class="col-6">
                                             <div class="intact-acc-item-box">
                                                 <div class="intact-acc-img-wrap">
-                                                    <img src="images/angle-jointer-9g.jpg" alt="Angle Jointer Profile"
+                                                    <img src="images/angle-jointer-9g.jpg" alt="Angle Jointer Profile for 9 Groove PVC Wall Panels - INTACT India" loading="lazy"
                                                         class="img-fluid">
                                                 </div>
                                                 <h3 class="intact-acc-item-title">Angle Jointer</h3>
@@ -1276,7 +1450,7 @@
                                 <div class="pbmit-img">
                                     <div class="pbmit-img-wrapper">
                                         <img src="images/wall-install-step-1.png" class="img-fluid"
-                                            alt="Measure & Prepare">
+                                            alt="Step 1: Measure and Prepare Wall Surface for PVC Panels - INTACT" loading="lazy">
                                         <div class="pbmit-box-number">01</div>
                                     </div>
                                 </div>
@@ -1294,7 +1468,7 @@
                                 <div class="pbmit-img">
                                     <div class="pbmit-img-wrapper">
                                         <img src="images/wall-install-step-2.png" class="img-fluid"
-                                            alt="Install the Frame">
+                                            alt="Step 2: Install Framing and Battens for Wall Panels - INTACT" loading="lazy">
                                         <div class="pbmit-box-number">02</div>
                                     </div>
                                 </div>
@@ -1312,7 +1486,7 @@
                                 <div class="pbmit-img">
                                     <div class="pbmit-img-wrapper">
                                         <img src="images/wall-install-step-3.png" class="img-fluid"
-                                            alt="Fix the Panels">
+                                            alt="Step 3: Fix 9 Groove PVC Wall Panels with Interlocking Joints - INTACT" loading="lazy">
                                         <div class="pbmit-box-number">03</div>
                                     </div>
                                 </div>
@@ -1329,7 +1503,7 @@
                             <div class="pbmit-staticbox-wrapper">
                                 <div class="pbmit-img">
                                     <div class="pbmit-img-wrapper">
-                                        <img src="images/wall-install-step-4.png" class="img-fluid" alt="Finish & Seal">
+                                        <img src="images/wall-install-step-4.png" class="img-fluid" alt="Step 4: Edge Finishing and Sealing PVC Wall Panels - INTACT" loading="lazy">
                                         <div class="pbmit-box-number">04</div>
                                     </div>
                                 </div>
@@ -1369,7 +1543,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/resort-w.png" class="img-fluid" alt="Resort">
+                                        <img src="images/resort-w.png" class="img-fluid" alt="9 Groove PVC Wall Panel Application in Luxury Resort Interior - INTACT India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1385,7 +1559,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/villa-w.png" class="img-fluid" alt="Villa">
+                                        <img src="images/villa-w.png" class="img-fluid" alt="Modern Villa Wall Paneling with 9 Groove PVC Panels - INTACT India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1402,7 +1576,7 @@
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
                                         <img src="images/9-commercial-space.png" class="img-fluid"
-                                            alt="Commercial Space">
+                                            alt="Commercial Space Interior Wall Cladding with 9 Groove PVC Panels India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1419,7 +1593,7 @@
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
                                         <img src="images/9-corporate-office.png" class="img-fluid"
-                                            alt="Corporate Office">
+                                            alt="Corporate Office Executive Wall Decoration with Fluted PVC Panels India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1435,7 +1609,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/9-living-room.png" class="img-fluid" alt="Living Room">
+                                        <img src="images/9-living-room.png" class="img-fluid" alt="Modern Living Room Feature Wall with 9 Groove PVC Panels - INTACT" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">
@@ -1451,7 +1625,7 @@
                             <div class="pbminfotech-post-content">
                                 <div class="pbmit-featured-img-wrapper">
                                     <div class="pbmit-featured-wrapper">
-                                        <img src="images/grand-lobby-w.png" class="img-fluid" alt="Grand Lobby">
+                                        <img src="images/grand-lobby-w.png" class="img-fluid" alt="Grand Hotel Lobby Architectural PVC Wall Paneling - INTACT India" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="pbminfotech-box-content">

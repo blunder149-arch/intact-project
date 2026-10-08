@@ -231,7 +231,7 @@
 							<div class="">
 								<img src="images/pvc-wall-panel.png" class="img-fluid w-100"
 									style="width: 100%; height: 495px; object-fit: cover; display: block;"
-									alt="About Wall Panels">
+									alt="INTACT PVC Wall Panels Manufacturer - Decorative Interior Paneling">
 							</div>
 						</div>
 					</div>

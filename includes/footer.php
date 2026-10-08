@@ -8,7 +8,7 @@
 						<div class="textwidget">
 							<div class="pbmit-footer-logo text-start mb-3">
 								<a href="index.php">
-									<img src="images/intact-logo.png" alt="INTACT Design & Extrusion" style="max-height: 55px; width: auto;">
+									<img src="images/intact-logo.png" alt="INTACT - PVC Wall and Ceiling Panels Manufacturer India" style="max-height: 55px; width: auto;">
 								</a>
 							</div>
 						</div>
@@ -41,10 +41,10 @@
 							<aside class="widget widget_nav_menu">
 								<h2 class="widget-title">Our Products</h2>
 								<ul class="pbmit-footer-menu-list">
-									<li><a href="ceiling.php">PVC Ceiling Panels</a></li>
-									<li><a href="walls.php">PVC Wall Panels</a></li>
-									<li><a href="ceiling.php">Balcony Ceilings</a></li>
-									<li><a href="application.php">Commercial Buildings</a></li>
+									<li><a href="2-groove-pvc-wall-panel.php">2 Groove Wall Panel</a></li>
+									<li><a href="9-groove-pvc-wall-panel.php">9 Groove Wall Panel</a></li>
+									<li><a href="sumo-pvc-wall-panel.php">SUMO PVC Wall Panel</a></li>
+									<li><a href="2-groove-pvc-ceiling-panel.php">2 Groove Ceiling Panel</a></li>
 								</ul>
 							</aside>
 						</div>
