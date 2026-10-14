@@ -4,34 +4,34 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India</title>
+	<title>Download PVC Wall & Ceiling Panel Catalogues & Brochures in India | Intact Design Extrusion</title>
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="description"
-		content="Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.">
+		content="Download official PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India by Intact Design Extrusion. Explore textures & shades.">
 	<meta name="keywords"
-		content="PVC panel catalogue PDF, download PVC wall panel brochure, PVC ceiling panel specifications India, INTACT product brochure PDF, PVC panel technical datasheet, interior PVC panel designs catalogue">
+		content="PVC panel catalogue PDF, download PVC wall panel brochure India, PVC ceiling panel specifications India, Intact Design Extrusion brochure PDF, PVC panel technical datasheet India, interior PVC panel designs catalogue India">
 	<meta name="geo.region" content="IN">
 	<meta name="geo.placename" content="India">
-	<meta name="author" content="INTACT Design & Extrusion">
+	<meta name="author" content="Intact Design Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="canonical" href="https://intactdesign.com/downloads.php">
+	<link rel="canonical" href="https://intactdesign.com/downloads">
 
 	<!-- Open Graph / Facebook / WhatsApp SEO -->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://intactdesign.com/downloads.php">
-	<meta property="og:title" content="Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India">
+	<meta property="og:url" content="https://intactdesign.com/downloads">
+	<meta property="og:title" content="Download PVC Wall & Ceiling Panel Catalogues & Brochures in India | Intact Design Extrusion">
 	<meta property="og:description"
-		content="Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.">
+		content="Download official PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India by Intact Design Extrusion. Explore textures & shades.">
 	<meta property="og:image" content="https://intactdesign.com/images/product/d1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="INTACT Design & Extrusion">
+	<meta property="og:site_name" content="Intact Design Extrusion">
 
 	<!-- Twitter Card SEO -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India">
+	<meta name="twitter:title" content="Download PVC Wall & Ceiling Panel Catalogues & Brochures in India | Intact Design Extrusion">
 	<meta name="twitter:description"
-		content="Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.">
+		content="Download official PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India by Intact Design Extrusion. Explore textures & shades.">
 	<meta name="twitter:image" content="https://intactdesign.com/images/product/d1.jpg">
 
 	<!-- Schema.org JSON-LD Structured Data for WebPage, Breadcrumbs & FAQs -->
@@ -41,18 +41,18 @@
 	  "@graph": [
 	    {
 	      "@type": "WebPage",
-	      "@id": "https://intactdesign.com/downloads.php#webpage",
-	      "url": "https://intactdesign.com/downloads.php",
-	      "name": "Download PVC Wall & Ceiling Panel Catalogues & Brochures | INTACT India",
-	      "description": "Download official INTACT PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India. Explore textures & shades.",
+	      "@id": "https://intactdesign.com/downloads#webpage",
+	      "url": "https://intactdesign.com/downloads",
+	      "name": "Download PVC Wall & Ceiling Panel Catalogues & Brochures in India | Intact Design Extrusion",
+	      "description": "Download official PVC wall & ceiling panel catalogues, technical brochures, warranty documents, and installation specifications in India by Intact Design Extrusion. Explore textures & shades.",
 	      "breadcrumb": {
-	        "@id": "https://intactdesign.com/downloads.php#breadcrumb"
+	        "@id": "https://intactdesign.com/downloads#breadcrumb"
 	      },
 	      "inLanguage": "en-IN"
 	    },
 	    {
 	      "@type": "BreadcrumbList",
-	      "@id": "https://intactdesign.com/downloads.php#breadcrumb",
+	      "@id": "https://intactdesign.com/downloads#breadcrumb",
 	      "itemListElement": [
 	        {
 	          "@type": "ListItem",
@@ -64,45 +64,7 @@
 	          "@type": "ListItem",
 	          "position": 2,
 	          "name": "Downloads",
-	          "item": "https://intactdesign.com/downloads.php"
-	        }
-	      ]
-	    },
-	    {
-	      "@type": "FAQPage",
-	      "@id": "https://intactdesign.com/downloads.php#faq",
-	      "mainEntity": [
-	        {
-	          "@type": "Question",
-	          "name": "How can I download the INTACT PVC wall and ceiling panel catalogue?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "You can click the 'Download' button directly on this page under Product Catalogue to instantly access our digital PDF catalogue with full colour palettes, dimensions, groove types, and shade options."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Does the INTACT catalogue contain full finish shade cards and technical specifications?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Yes, our catalogue includes high-resolution finish swatches covering Wooden, Marble, Fluted, Textured, and Solid finishes along with panel dimensions, weight specifications, and interlocking joint details."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "What warranty coverage is detailed in the INTACT Warranty Document?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "The warranty document covers manufacturer guarantees against warping, delamination, termite damage, and moisture degradation under standard indoor installation parameters."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Can architects, interior designers, and dealers request printed physical sample kits?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Yes, architects, designers, builders, and prospective dealers can reach out via our contact page to receive physical finish sample swatches and printed architectural product binders."
-	          }
+	          "item": "https://intactdesign.com/downloads"
 	        }
 	      ]
 	    }
@@ -170,7 +132,7 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
+										<a title="Intact Design Extrusion" href="./" class="home"><span>Home</span></a>
 										<span class="sep">
 											<i class="pbmit-base-icon-angle-right"></i>
 										</span>
@@ -285,173 +247,7 @@
 			</section>
 			<!-- Downloads Section End -->
 
-			<!-- Downloads FAQs Section Start -->
-			<section class="section-xl" style="background-color: #ffffff; padding: 75px 0; border-top: 1px solid #e8e2d8;">
-				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">FREQUENTLY ASKED QUESTIONS</h4>
-						<h2 class="pbmit-title">Catalogues & Downloads FAQs</h2>
-						<div class="pbmit-heading-desc mx-auto" style="max-width: 680px;">
-							Information regarding catalogue formats, finish shade swatches, warranty terms, and architectural sample requests.
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12 col-xl-6">
-							<div class="pe-xl-3">
-								<div class="accordion" id="accordionDownloadsCol1">
-									<div class="accordion-item active">
-										<h2 class="accordion-header" id="headingDownloads1">
-											<button class="accordion-button" type="button" data-bs-toggle="collapse"
-												data-bs-target="#collapseDownloads1" aria-expanded="true"
-												aria-controls="collapseDownloads1">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													1. How can I download the INTACT PVC panel catalogue?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseDownloads1" class="accordion-collapse collapse show"
-											aria-labelledby="headingDownloads1" data-bs-parent="#accordionDownloadsCol1">
-											<div class="accordion-body">
-												You can click the 'Download' button directly on this page under Product Catalogue to instantly access our digital PDF catalogue with full colour palettes, dimensions, groove types, and shade options.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingDownloads2">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseDownloads2"
-												aria-expanded="false" aria-controls="collapseDownloads2">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													2. Does the catalogue contain full shade cards & specifications?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseDownloads2" class="accordion-collapse collapse"
-											aria-labelledby="headingDownloads2" data-bs-parent="#accordionDownloadsCol1">
-											<div class="accordion-body">
-												Yes, our catalogue includes high-resolution finish swatches covering Wooden, Marble, Fluted, Textured, and Solid finishes along with panel dimensions, weight specifications, and interlocking joint details.
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-6">
-							<div class="ps-xl-3">
-								<div class="accordion" id="accordionDownloadsCol2">
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingDownloads3">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseDownloads3"
-												aria-expanded="false" aria-controls="collapseDownloads3">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													3. What warranty coverage is detailed in the Warranty Document?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseDownloads3" class="accordion-collapse collapse"
-											aria-labelledby="headingDownloads3" data-bs-parent="#accordionDownloadsCol2">
-											<div class="accordion-body">
-												The warranty document covers manufacturer guarantees against warping, delamination, termite damage, and moisture degradation under standard indoor installation parameters.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingDownloads4">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseDownloads4"
-												aria-expanded="false" aria-controls="collapseDownloads4">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													4. Can professionals request printed physical sample kits?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseDownloads4" class="accordion-collapse collapse"
-											aria-labelledby="headingDownloads4" data-bs-parent="#accordionDownloadsCol2">
-											<div class="accordion-body">
-												Yes, architects, designers, builders, and prospective dealers can reach out via our contact page to receive physical finish sample swatches and printed architectural product binders.
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- Downloads FAQs Section End -->
+
 
 		<!-- Final CTA Section Start -->
 			<section class="section-xl pbmit-final-cta-section">
@@ -464,10 +260,10 @@
 						</p>
 						<div
 							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
-							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+							<a href="contact-us" class="pbmit-cta-btn pbmit-cta-btn-outline">
 								<span>Get in Touch</span>
 							</a>
-							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+							<a href="downloads" class="pbmit-cta-btn pbmit-cta-btn-primary">
 								<span>Download Catalogue</span>
 							</a>
 

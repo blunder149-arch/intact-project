@@ -1,18 +1,3 @@
-<?php
-$targetDir = __DIR__ . '/images/installation/';
-if (!file_exists($targetDir . 'install-01.png')) {
-	if (!file_exists($targetDir)) {
-		@mkdir($targetDir, 0777, true);
-	}
-	$brain = 'C:/Users/karan/.gemini/antigravity-ide/brain/3bf8f144-e370-442f-8eff-13d53eef5982/';
-	@copy($brain . 'install_step1_1789035105060.png', $targetDir . 'install-01.png');
-	@copy($brain . 'install_step2_1789035131699.png', $targetDir . 'install-02.png');
-	@copy($brain . 'install_step3_1789035154954.png', $targetDir . 'install-03.png');
-	@copy($brain . 'install_step4_1789035356530.png', $targetDir . 'install-04.png');
-	@copy($brain . 'install_step5_1789035380683.png', $targetDir . 'install-05.png');
-	@copy($brain . 'install_step6_1789035398893.png', $targetDir . 'install-06.png');
-}
-?>
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -79,7 +64,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="" href="index.php" class="home"><span>Home</span></a>
+										<a title="" href="./" class="home"><span>Home</span></a>
 									</span>
 									<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
@@ -1366,18 +1351,18 @@ if (!file_exists($targetDir . 'install-01.png')) {
 						</div>
 						<div class="col-lg-3 col-md-12 text-lg-end text-start">
 							<div class="d-flex flex-column flex-sm-row flex-lg-column gap-2 justify-content-lg-end">
-								<a class="pbmit-btn" href="contact-us.php"
+								<a class="pbmit-btn" href="contact-us"
 									style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; border: none; padding: 14px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
 									<span class="pbmit-button-content-wrapper">
 										<span class="pbmit-button-text" style="color: #ffffff;">Get A Free Quote</span>
 									</span>
 								</a>
-								<a class="pbmit-btn" href="tel:+911234567890"
+								<a class="pbmit-btn" href="tel:+919712609685"
 									style="display: inline-flex; align-items: center; justify-content: center; background: transparent; color: #33251a; border: 1.5px solid #33251a; padding: 13px 26px; border-radius: 8px; font-weight: 600; text-decoration: none;">
 									<span class="pbmit-button-content-wrapper">
 										<span class="pbmit-button-text" style="color: #33251a;"><i
 												class="fa fa-phone me-2" style="color: #bb9a65;"></i>+91
-											1234567890</span>
+											97126 09685</span>
 									</span>
 								</a>
 							</div>

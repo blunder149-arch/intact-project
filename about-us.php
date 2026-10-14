@@ -4,34 +4,34 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>About INTACT | Leading PVC Wall & Ceiling Panel Manufacturer in India</title>
+	<title>About Us | PVC Wall & Ceiling Panel Manufacturer in India | Intact Design Extrusion</title>
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="description"
-		content="Discover INTACT Design & Extrusion, PVC wall & ceiling panel manufacturer in India. High-grade virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors.">
+		content="Discover Intact Design Extrusion, leading PVC wall & ceiling panel manufacturer in India. High-grade virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors across India.">
 	<meta name="keywords"
-		content="about INTACT, PVC panel manufacturer India, PVC wall panel company, PVC false ceiling manufacturers India, virgin PVC extrusion company, decorative interior wall panels India">
+		content="about Intact Design Extrusion, PVC panel manufacturer India, PVC wall panel company India, PVC false ceiling manufacturers India, virgin PVC extrusion company India, decorative interior wall panels India">
 	<meta name="geo.region" content="IN">
 	<meta name="geo.placename" content="India">
-	<meta name="author" content="INTACT Design & Extrusion">
+	<meta name="author" content="Intact Design Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="canonical" href="https://intactdesign.com/about-us.php">
+	<link rel="canonical" href="https://intactdesign.com/about-us">
 
 	<!-- Open Graph / Facebook / WhatsApp SEO -->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://intactdesign.com/about-us.php">
-	<meta property="og:title" content="About INTACT | Leading PVC Wall & Ceiling Panel Manufacturer in India">
+	<meta property="og:url" content="https://intactdesign.com/about-us">
+	<meta property="og:title" content="About Us | PVC Wall & Ceiling Panel Manufacturer in India | Intact Design Extrusion">
 	<meta property="og:description"
-		content="Discover INTACT Design & Extrusion, PVC wall & ceiling panel manufacturer in India. High-grade virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors.">
+		content="Discover Intact Design Extrusion, leading PVC wall & ceiling panel manufacturer in India. High-grade virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors across India.">
 	<meta property="og:image" content="https://intactdesign.com/images/in-house.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="INTACT Design & Extrusion">
+	<meta property="og:site_name" content="Intact Design Extrusion">
 
 	<!-- Twitter Card SEO -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="About INTACT | Leading PVC Wall & Ceiling Panel Manufacturer in India">
+	<meta name="twitter:title" content="About Us | PVC Wall & Ceiling Panel Manufacturer in India | Intact Design Extrusion">
 	<meta name="twitter:description"
-		content="Discover INTACT Design & Extrusion, PVC wall & ceiling panel manufacturer in India. High-grade virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors.">
+		content="Discover Intact Design Extrusion, leading PVC wall & ceiling panel manufacturer in India. High-grade virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors across India.">
 	<meta name="twitter:image" content="https://intactdesign.com/images/in-house.jpg">
 
 	<!-- Schema.org JSON-LD Structured Data for AboutPage, Organization, Breadcrumbs & FAQs -->
@@ -41,19 +41,19 @@
 	  "@graph": [
 	    {
 	      "@type": "AboutPage",
-	      "@id": "https://intactdesign.com/about-us.php#webpage",
-	      "url": "https://intactdesign.com/about-us.php",
-	      "name": "About INTACT | Leading PVC Wall & Ceiling Panel Manufacturer in India",
-	      "description": "Discover INTACT Design & Extrusion, India's premier PVC wall & ceiling panel manufacturer. 100% virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors.",
+	      "@id": "https://intactdesign.com/about-us#webpage",
+	      "url": "https://intactdesign.com/about-us",
+	      "name": "About Us | PVC Wall & Ceiling Panel Manufacturer in India | Intact Design Extrusion",
+	      "description": "Discover Intact Design Extrusion, India's premier PVC wall & ceiling panel manufacturer. 100% virgin polymer, waterproof, fire-retardant panels for homes & commercial interiors.",
 	      "breadcrumb": {
-	        "@id": "https://intactdesign.com/about-us.php#breadcrumb"
+	        "@id": "https://intactdesign.com/about-us#breadcrumb"
 	      },
 	      "inLanguage": "en-IN"
 	    },
 	    {
 	      "@type": "Organization",
 	      "@id": "https://intactdesign.com/#organization",
-	      "name": "INTACT Design & Extrusion",
+	      "name": "Intact Design Extrusion",
 	      "url": "https://intactdesign.com/",
 	      "logo": "https://intactdesign.com/images/intact-favicon.png",
 	      "description": "Premier Indian manufacturer and distributor of high-performance PVC wall panels, ceiling panels, and modern architectural cladding solutions.",
@@ -64,7 +64,7 @@
 	    },
 	    {
 	      "@type": "BreadcrumbList",
-	      "@id": "https://intactdesign.com/about-us.php#breadcrumb",
+	      "@id": "https://intactdesign.com/about-us#breadcrumb",
 	      "itemListElement": [
 	        {
 	          "@type": "ListItem",
@@ -76,53 +76,7 @@
 	          "@type": "ListItem",
 	          "position": 2,
 	          "name": "About Us",
-	          "item": "https://intactdesign.com/about-us.php"
-	        }
-	      ]
-	    },
-	    {
-	      "@type": "FAQPage",
-	      "@id": "https://intactdesign.com/about-us.php#faq",
-	      "mainEntity": [
-	        {
-	          "@type": "Question",
-	          "name": "Who is INTACT Design & Extrusion?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "INTACT Design & Extrusion is one of India's leading manufacturers of high-performance PVC wall panels and PVC ceiling panels, specializing in precision in-house extrusion, 100% virgin polymer formulations, and modern architectural finishes."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "What makes INTACT PVC panels different from ordinary market panels?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Unlike standard panels made with recycled regrind or brittle fillers, INTACT uses 100% fresh virgin PVC compounds, heavy-duty honeycomb internal ribbing, precision tongue-and-groove joints, and multi-layer UV/scratch-resistant protective finishes."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Where are INTACT PVC panels manufactured?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "INTACT panels are manufactured in our state-of-the-art extrusion facility in India under stringent quality control protocols covering material purity, dimensional accuracy, impact resistance, and flame-retardant compliance."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Does INTACT supply PVC wall and ceiling panels across India?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Yes, INTACT operates a nationwide supply network, delivering wall and ceiling panels to architects, interior designers, commercial contractors, and dealer networks across all Indian states and metro cities."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Are INTACT panels suitable for both residential and commercial projects?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Yes, INTACT PVC panels are widely used in luxury residences, corporate offices, hospitality resorts, healthcare clinics, retail showrooms, and educational institutions due to their waterproof, termite-proof, fire-safe, and zero-maintenance properties."
-	          }
+	          "item": "https://intactdesign.com/about-us"
 	        }
 	      ]
 	    }
@@ -190,7 +144,7 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
+										<a title="Intact Design Extrusion" href="./" class="home"><span>Home</span></a>
 									</span>
 									<span class="sep">
 										<i class="pbmit-base-icon-angle-right"></i>
@@ -822,209 +776,7 @@
 				</div>
 			</section>
 			<!-- Why Choose Section End -->
-
-			<!-- About INTACT FAQs Section Start -->
-			<section class="section-xl" style="background-color: #ffffff; padding: 75px 0; border-top: 1px solid #e8e2d8;">
-				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">FREQUENTLY ASKED QUESTIONS</h4>
-						<h2 class="pbmit-title">About INTACT & Manufacturing FAQs</h2>
-						<div class="pbmit-heading-desc mx-auto" style="max-width: 680px;">
-							Learn more about our brand heritage, manufacturing standards, virgin polymer quality, and nationwide supply network across India.
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12 col-xl-6">
-							<div class="pe-xl-3">
-								<div class="accordion" id="accordionAboutCol1">
-									<div class="accordion-item active">
-										<h2 class="accordion-header" id="headingAbout1">
-											<button class="accordion-button" type="button" data-bs-toggle="collapse"
-												data-bs-target="#collapseAbout1" aria-expanded="true"
-												aria-controls="collapseAbout1">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													1. Who is INTACT Design & Extrusion?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseAbout1" class="accordion-collapse collapse show"
-											aria-labelledby="headingAbout1" data-bs-parent="#accordionAboutCol1">
-											<div class="accordion-body">
-												INTACT Design & Extrusion is one of India's leading manufacturers of high-performance PVC wall panels and PVC ceiling panels, specializing in precision in-house extrusion, 100% virgin polymer formulations, and modern architectural finishes.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingAbout2">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseAbout2"
-												aria-expanded="false" aria-controls="collapseAbout2">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													2. What makes INTACT PVC panels different from ordinary market panels?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseAbout2" class="accordion-collapse collapse"
-											aria-labelledby="headingAbout2" data-bs-parent="#accordionAboutCol1">
-											<div class="accordion-body">
-												Unlike standard panels made with recycled regrind or brittle fillers, INTACT uses 100% fresh virgin PVC compounds, heavy-duty honeycomb internal ribbing, precision tongue-and-groove joints, and multi-layer UV/scratch-resistant protective finishes.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingAbout3">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseAbout3"
-												aria-expanded="false" aria-controls="collapseAbout3">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													3. Where are INTACT PVC panels manufactured?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseAbout3" class="accordion-collapse collapse"
-											aria-labelledby="headingAbout3" data-bs-parent="#accordionAboutCol1">
-											<div class="accordion-body">
-												INTACT panels are manufactured in our state-of-the-art extrusion facility in India under stringent quality control protocols covering material purity, dimensional accuracy, impact resistance, and flame-retardant compliance.
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-6">
-							<div class="ps-xl-3">
-								<div class="accordion" id="accordionAboutCol2">
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingAbout4">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseAbout4"
-												aria-expanded="false" aria-controls="collapseAbout4">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													4. Does INTACT supply PVC wall and ceiling panels across India?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseAbout4" class="accordion-collapse collapse"
-											aria-labelledby="headingAbout4" data-bs-parent="#accordionAboutCol2">
-											<div class="accordion-body">
-												Yes, INTACT operates a nationwide supply network, delivering wall and ceiling panels to architects, interior designers, commercial contractors, and dealer networks across all Indian states and metro cities.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingAbout5">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseAbout5"
-												aria-expanded="false" aria-controls="collapseAbout5">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													5. Are INTACT panels suitable for both residential and commercial projects?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseAbout5" class="accordion-collapse collapse"
-											aria-labelledby="headingAbout5" data-bs-parent="#accordionAboutCol2">
-											<div class="accordion-body">
-												Yes, INTACT PVC panels are widely used in luxury residences, corporate offices, hospitality resorts, healthcare clinics, retail showrooms, and educational institutions due to their waterproof, termite-proof, fire-safe, and zero-maintenance properties.
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- About INTACT FAQs Section End -->
+->
 
 			<!-- Final CTA Section Start -->
 			<section class="section-xl pbmit-final-cta-section">
@@ -1037,10 +789,10 @@
 						</p>
 						<div
 							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
-							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+							<a href="contact-us" class="pbmit-cta-btn pbmit-cta-btn-outline">
 								<span>Get in Touch</span>
 							</a>
-							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+							<a href="downloads" class="pbmit-cta-btn pbmit-cta-btn-primary">
 								<span>Download Catalogue</span>
 							</a>
 

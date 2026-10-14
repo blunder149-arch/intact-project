@@ -1,52 +1,37 @@
-<?php
-$targetDir = __DIR__ . '/images/installation/';
-if (!file_exists($targetDir . 'install-01.png')) {
-    if (!file_exists($targetDir)) {
-        @mkdir($targetDir, 0777, true);
-    }
-    $brain = 'C:/Users/karan/.gemini/antigravity-ide/brain/3bf8f144-e370-442f-8eff-13d53eef5982/';
-    @copy($brain . 'install_step1_1789035105060.png', $targetDir . 'install-01.png');
-    @copy($brain . 'install_step2_1789035131699.png', $targetDir . 'install-02.png');
-    @copy($brain . 'install_step3_1789035154954.png', $targetDir . 'install-03.png');
-    @copy($brain . 'install_step4_1789035356530.png', $targetDir . 'install-04.png');
-    @copy($brain . 'install_step5_1789035380683.png', $targetDir . 'install-05.png');
-    @copy($brain . 'install_step6_1789035398893.png', $targetDir . 'install-06.png');
-}
-?>
 <!doctype html>
 <html class="no-js" lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>2 Groove PVC Ceiling Panel Manufacturer & Supplier in India | INTACT</title>
+    <title>2 Groove PVC Ceiling Panel Manufacturer & Supplier in India | Intact Design Extrusion</title>
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="description"
-        content="Buy premium 2 Groove PVC ceiling panels from INTACT, leading manufacturer in India. Waterproof, termite-proof & fire-retardant false ceiling panels with seamless grooves.">
+        content="Buy premium 2 Groove PVC ceiling panels from Intact Design Extrusion, leading manufacturer in India. Waterproof, termite-proof & fire-retardant false ceiling panels with seamless grooves across India.">
     <meta name="keywords"
-        content="2 groove PVC ceiling panel, PVC ceiling panel India, 2 groove ceiling panel manufacturer, false ceiling PVC panel, waterproof ceiling panels India, decorative PVC ceiling, INTACT Design">
+        content="2 groove PVC ceiling panel, PVC ceiling panel India, 2 groove ceiling panel manufacturer India, false ceiling PVC panel India, waterproof ceiling panels India, decorative PVC ceiling India, Intact Design Extrusion">
     <meta name="geo.region" content="IN">
     <meta name="geo.placename" content="India">
-    <meta name="author" content="INTACT Design & Extrusion">
+    <meta name="author" content="Intact Design Extrusion">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="canonical" href="https://intactdesign.com/2-groove-pvc-ceiling-panel.php">
+    <link rel="canonical" href="https://intactdesign.com/2-groove-pvc-ceiling-panel">
 
     <!-- Open Graph / Facebook / WhatsApp SEO -->
     <meta property="og:type" content="product">
-    <meta property="og:url" content="https://intactdesign.com/2-groove-pvc-ceiling-panel.php">
-    <meta property="og:title" content="2 Groove PVC Ceiling Panel Manufacturer & Supplier in India | INTACT">
+    <meta property="og:url" content="https://intactdesign.com/2-groove-pvc-ceiling-panel">
+    <meta property="og:title" content="2 Groove PVC Ceiling Panel Manufacturer & Supplier in India | Intact Design Extrusion">
     <meta property="og:description"
-        content="Discover premium 2 groove PVC ceiling panels by INTACT. Waterproof, lightweight, durable, and available in wood, marble, and metallic finishes across India.">
+        content="Discover premium 2 groove PVC ceiling panels by Intact Design Extrusion. Waterproof, lightweight, durable, and available in wood, marble, and metallic finishes across India.">
     <meta property="og:image" content="https://intactdesign.com/images/2g-1.jpg.jpeg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:site_name" content="INTACT Design & Extrusion">
+    <meta property="og:site_name" content="Intact Design Extrusion">
 
     <!-- Twitter Card SEO -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="2 Groove PVC Ceiling Panel Manufacturer & Supplier in India | INTACT">
+    <meta name="twitter:title" content="2 Groove PVC Ceiling Panel Manufacturer & Supplier in India | Intact Design Extrusion">
     <meta name="twitter:description"
-        content="Explore INTACT's 2 groove PVC ceiling panels. Waterproof, termite-proof and elegant finishes for modern interiors.">
+        content="Explore Intact Design Extrusion's 2 groove PVC ceiling panels. Waterproof, termite-proof and elegant finishes for modern interiors across India.">
     <meta name="twitter:image" content="https://intactdesign.com/images/2g-1.jpg.jpeg">
 
     <!-- Schema.org JSON-LD Structured Data for Product & Breadcrumbs -->
@@ -56,19 +41,19 @@ if (!file_exists($targetDir . 'install-01.png')) {
       "@graph": [
         {
           "@type": "Product",
-          "@id": "https://intactdesign.com/2-groove-pvc-ceiling-panel.php#product",
+          "@id": "https://intactdesign.com/2-groove-pvc-ceiling-panel#product",
           "name": "2 Groove PVC Ceiling Panel",
           "image": [
             "https://intactdesign.com/images/2g-1.jpg.jpeg"
           ],
-          "description": "Premium 2 Groove PVC ceiling panel manufactured by INTACT Design & Extrusion in India. Featuring waterproof, termite-proof, fire-retardant polymer formulation with interlocking tongue-and-groove joints.",
+          "description": "Premium 2 Groove PVC ceiling panel manufactured by Intact Design Extrusion in India. Featuring waterproof, termite-proof, fire-retardant polymer formulation with interlocking tongue-and-groove joints.",
           "brand": {
             "@type": "Brand",
-            "name": "INTACT"
+            "name": "Intact Design Extrusion"
           },
           "manufacturer": {
             "@type": "Organization",
-            "name": "INTACT Design & Extrusion",
+            "name": "Intact Design Extrusion",
             "url": "https://intactdesign.com/"
           },
           "material": "100% Virgin Grade PVC Polymer",
@@ -86,7 +71,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://intactdesign.com/2-groove-pvc-ceiling-panel.php#breadcrumb",
+          "@id": "https://intactdesign.com/2-groove-pvc-ceiling-panel#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -98,17 +83,17 @@ if (!file_exists($targetDir . 'install-01.png')) {
               "@type": "ListItem",
               "position": 2,
               "name": "2 Groove PVC Ceiling Panel",
-              "item": "https://intactdesign.com/2-groove-pvc-ceiling-panel.php"
+              "item": "https://intactdesign.com/2-groove-pvc-ceiling-panel"
             }
           ]
         },
         {
           "@type": "FAQPage",
-          "@id": "https://intactdesign.com/2-groove-pvc-ceiling-panel.php#faq",
+          "@id": "https://intactdesign.com/2-groove-pvc-ceiling-panel#faq",
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "Are INTACT 2 Groove PVC ceiling panels waterproof?",
+              "name": "Are Intact Design Extrusion 2 Groove PVC ceiling panels waterproof?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Yes, our PVC ceiling panels are water and moisture resistant, making them ideal for kitchens, bathrooms, and balcony ceilings."
@@ -143,7 +128,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
               "name": "Are you a manufacturer of 2 Groove PVC ceiling panels in India?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, we manufacture and supply 2 Groove PVC ceiling panels across India. Dealers, contractors and customers can send an enquiry for prices and samples."
+                "text": "Yes, Intact Design Extrusion manufactures and supplies 2 Groove PVC ceiling panels across India. Dealers, contractors and customers can send an enquiry for prices and samples."
               }
             },
             {
@@ -223,7 +208,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <div class="pbmit-breadcrumb">
                                 <div class="pbmit-breadcrumb-inner">
                                     <span>
-                                        <a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
+                                        <a title="Intact Design Extrusion" href="./"
+                                            class="home"><span>Home</span></a>
                                     </span>
                                     <span class="sep">
                                         <i class="pbmit-base-icon-angle-right"></i>
@@ -267,9 +253,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         two-groove design gives your ceiling a clean, linear look, while the panel stays
                                         lightweight, moisture-resistant, termite-proof and fire-retardant. Our 2 groove
                                         PVC ceiling panels are ideal for homes, offices, hotels and commercial
-                                        interiors, and need almost no maintenance. Every panel is made with consistent
-                                        thickness and accurate dimensions, so installation is easy and the finish stays
-                                        beautiful for years.<br>
+                                        interiors (explore our diverse <a href="application" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">applications</a>), and need almost no maintenance. Every panel is manufactured following stringent <a href="quality" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">quality standards</a>, so installation is easy and the finish stays beautiful for years.<br>
 
                                     </div>
                                 </div>
@@ -1149,7 +1133,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
 
 
 
-            
+
 
 
             <!-- Installation Accessories Section Start -->
@@ -1161,7 +1145,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                             <div class="col-lg-6 col-md-12">
                                 <div class="intact-acc-left-hero">
                                     <img src="images/2g-1.jpg.jpeg" class="intact-acc-hero-img"
-                                        alt="2 Groove PVC Ceiling Panel Installation with Matching Jointers India" loading="lazy">
+                                        alt="2 Groove PVC Ceiling Panel Installation with Matching Jointers India"
+                                        loading="lazy">
                                 </div>
                             </div>
 
@@ -1188,7 +1173,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <div class="col-6">
                                             <div class="intact-acc-item-box">
                                                 <div class="intact-acc-img-wrap">
-                                                    <img src="images/2-u-jointer.png" alt="U Jointer Profile for 2 Groove PVC Ceiling Panels - INTACT India"
+                                                    <img src="images/2-u-jointer.png"
+                                                        alt="U Jointer Profile for 2 Groove PVC Ceiling Panels - INTACT India"
                                                         class="img-fluid" loading="lazy">
                                                 </div>
                                                 <h3 class="intact-acc-item-title">U Jointer</h3>
@@ -1201,7 +1187,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <div class="col-6">
                                             <div class="intact-acc-item-box">
                                                 <div class="intact-acc-img-wrap">
-                                                    <img src="images/2-angle-jointer.png" alt="Angle Jointer Profile for 2 Groove PVC Ceiling Panels - INTACT India"
+                                                    <img src="images/2-angle-jointer.png"
+                                                        alt="Angle Jointer Profile for 2 Groove PVC Ceiling Panels - INTACT India"
                                                         class="img-fluid" loading="lazy">
                                                 </div>
                                                 <h3 class="intact-acc-item-title">Angle Jointer</h3>
@@ -1239,7 +1226,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-01.png" class="img-fluid"
-                                            alt="Step 1: Measure and Plan PVC Ceiling Panel Installation - INTACT" loading="lazy">
+                                            alt="Step 1: Measure and Plan PVC Ceiling Panel Installation - INTACT"
+                                            loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1256,7 +1244,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-02.png" class="img-fluid"
-                                            alt="Step 2: Prepare Ceiling Surface for PVC Panels - INTACT" loading="lazy">
+                                            alt="Step 2: Prepare Ceiling Surface for PVC Panels - INTACT"
+                                            loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1273,7 +1262,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-03.png" class="img-fluid"
-                                            alt="Step 3: Framework and Batten Fixing for Ceiling Panels - INTACT" loading="lazy">
+                                            alt="Step 3: Framework and Batten Fixing for Ceiling Panels - INTACT"
+                                            loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1290,7 +1280,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-04.png" class="img-fluid"
-                                            alt="Step 4: Secure 2 Groove PVC Ceiling Panels to Framework - INTACT" loading="lazy">
+                                            alt="Step 4: Secure 2 Groove PVC Ceiling Panels to Framework - INTACT"
+                                            loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1307,7 +1298,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide pbmit-slide-even">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-05.png" class="img-fluid"
-                                            alt="Step 5: Tongue and Groove Alignment for Ceiling Panels - INTACT" loading="lazy">
+                                            alt="Step 5: Tongue and Groove Alignment for Ceiling Panels - INTACT"
+                                            loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1324,7 +1316,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <div class="pbmit-timeline-wrapper swiper-slide">
                                     <div class="pbmit-same-height steps-media pbmit-feature-image">
                                         <img src="images/installation/install-06.png" class="img-fluid"
-                                            alt="Step 6: Edge Finishing and Sealing PVC Ceiling Panels - INTACT" loading="lazy">
+                                            alt="Step 6: Edge Finishing and Sealing PVC Ceiling Panels - INTACT"
+                                            loading="lazy">
                                     </div>
                                     <div class="steps-dot">
                                         <i class="steps-dot-line"></i>
@@ -1339,6 +1332,14 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div class="text-center mt-4 pt-2">
+                        <a href="installation-tips" class="pbmit-btn"
+                            style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; padding: 13px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
+                            <span class="pbmit-button-content-wrapper">
+                                <span class="pbmit-button-text" style="color: #ffffff;">View Complete Installation Guide &amp; Tips <i class="pbmit-base-icon-angle-right ms-2"></i></span>
+                            </span>
+                        </a>
                     </div>
                 </div>
             </section>
@@ -1500,28 +1501,27 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                 <h2 class="mb-3"
                                     style="color: #33251a; font-size: 34px; font-weight: 700; line-height: 1.25; font-family: 'Space Grotesk', sans-serif;">
                                     Elevate Your Ceilings with INTACT 2 Groove Panels</h2>
-                                <p class="mb-0"
-                                    style="color: #665b52; font-size: 15px; line-height: 1.6;">
+                                <p class="mb-0" style="color: #665b52; font-size: 15px; line-height: 1.6;">
                                     Connect with our extrusion specialists today for instant custom quotes, sample
                                     swatches, or technical installation assistance.<br> We supply 2 Groove PVC ceiling
-                                    panels to dealers, contractors and customers across India.
+                                    panels to dealers, contractors and customers across India. Also explore our <a href="2-groove-pvc-wall-panel" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">2 Groove Wall Panels</a> and heavy-duty <a href="sumo-pvc-wall-panel" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">SUMO Wall Panels</a>.
                                 </p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-12 text-lg-end text-start">
                             <div class="d-flex flex-column flex-sm-row flex-lg-column gap-2 justify-content-lg-end">
-                                <a class="pbmit-btn" href="contact-us.php"
+                                <a class="pbmit-btn" href="contact-us"
                                     style="display: inline-flex; align-items: center; justify-content: center; background: #33251a; color: #ffffff; border: none; padding: 14px 28px; border-radius: 8px; font-weight: 600; text-decoration: none;">
                                     <span class="pbmit-button-content-wrapper">
                                         <span class="pbmit-button-text" style="color: #ffffff;">Get A Free Quote</span>
                                     </span>
                                 </a>
-                                <a class="pbmit-btn" href="tel:+911234567890"
+                                <a class="pbmit-btn" href="tel:+919712609685"
                                     style="display: inline-flex; align-items: center; justify-content: center; background: transparent; color: #33251a; border: 1.5px solid #33251a; padding: 13px 26px; border-radius: 8px; font-weight: 600; text-decoration: none;">
                                     <span class="pbmit-button-content-wrapper">
                                         <span class="pbmit-button-text" style="color: #33251a;"><i
                                                 class="fa fa-phone me-2" style="color: #bb9a65;"></i>+91
-                                            1234567890</span>
+                                            97126 09685</span>
                                     </span>
                                 </a>
                             </div>
@@ -1722,8 +1722,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                             aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
                                                 Yes, we manufacture and supply 2 Groove PVC ceiling panels across India.
-                                                Dealers, contractors and customers can send an enquiry for prices and
-                                                samples.
+                                                Dealers, contractors and customers can <a href="contact-us" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">send an enquiry</a> for bulk pricing and samples or <a href="downloads" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">download our product catalogue</a>.
                                             </div>
                                         </div>
                                     </div>
@@ -1766,7 +1765,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                             aria-labelledby="heading1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
                                                 No, our panels are low maintenance — no painting or polishing needed,
-                                                just easy cleaning for a lasting finish.
+                                                just easy cleaning for a lasting finish. Check out our <a href="cleaning-care-tips" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">cleaning &amp; care tips</a>.
                                             </div>
                                         </div>
                                     </div>
@@ -1803,7 +1802,7 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                             aria-labelledby="heading2" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
                                                 Yes, our panels are lightweight yet strong, allowing for quick and
-                                                hassle-free installation on any ceiling type.
+                                                hassle-free installation on any ceiling type. View our <a href="installation-tips" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">step-by-step installation guide</a>.
                                             </div>
                                         </div>
                                     </div>
@@ -1915,8 +1914,8 @@ if (!file_exists($targetDir . 'install-01.png')) {
                                         <div id="collapse10" class="accordion-collapse collapse"
                                             aria-labelledby="heading10" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we supply to dealers, contractors and project customers. Contact us
-                                                for bulk pricing, samples and delivery details.
+                                                Yes, we supply to dealers, contractors and project customers. <a href="contact-us" style="color: #bb9a65; font-weight: 600; text-decoration: underline;">Contact us</a>
+                                                for bulk pricing, samples and delivery details across India.
                                             </div>
                                         </div>
                                     </div>

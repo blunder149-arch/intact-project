@@ -29,9 +29,8 @@
 				</div>
 				<div class="pbmit-pre-header-right">
 					<ul class="pbmit-contact-info">
-						<li><i class="pbmit-base-icon-mail-alt"></i> <a href="#" class="__cf_email__"
-								data-cfemail="#">intact999@gmail.com</a></li>
-						<li><i class=" pbmit-base-icon-phone-volume-solid-1"></i>+91 1234567890</li>
+						<li><i class="pbmit-base-icon-mail-alt"></i> <a href="mailto:info@intactdesignextrusion.com">info@intactdesignextrusion.com</a></li>
+						<li><i class=" pbmit-base-icon-phone-volume-solid-1"></i><a href="tel:+919712609685">+91 97126 09685</a></li>
 					</ul>
 				</div>
 			</div>
@@ -43,7 +42,7 @@
 				<div class="pbmit-logo-area">
 					<div class="site-branding">
 						<div class="site-title">
-							<a href="index.php">
+							<a href="./">
 								<img class="logo-img" src="images/intact-logo.png" alt="INTACT - PVC Wall and Ceiling Panels Manufacturer India"
 									style="max-height: 55px;">
 							</a>
@@ -76,40 +75,40 @@
 										class="dropdown <?php echo (in_array($current_page, ['plain-pvc-ceiling-panel.php', '2-groove-pvc-ceiling-panel.php', 'ceiling.php'])) ? 'active' : ''; ?>">
 										<a href="javascript:void(0);">CEILING</a>
 										<ul>
-											<li><a href="plain-pvc-ceiling-panel.php">Plain PVC Ceiling Panel</a></li>
-											<li><a href="2-groove-pvc-ceiling-panel.php">2 Groove PVC Ceiling Panel</a></li>
+											<li><a href="plain-pvc-ceiling-panel">Plain PVC Ceiling Panel</a></li>
+											<li><a href="2-groove-pvc-ceiling-panel">2 Groove PVC Ceiling Panel</a></li>
 										</ul>
 									</li>
 									<li class="dropdown <?php echo (in_array($current_page, ['3-groove-pvc-wall-panel.php', '9-groove-pvc-wall-panel.php', '10-groove-pvc-wall-panel.php', 'sumo-pvc-wall-panel.php', 'walls.php'])) ? 'active' : ''; ?>">
 										<a href="javascript:void(0);">WALLS</a>
 										<ul>
 										
-											<li><a href="2-groove-pvc-wall-panel.php">2 Groove PVC Wall Panel</a></li>
-											<li><a href="9-groove-pvc-wall-panel.php">9 Groove PVC Wall Panel</a></li>
-											<li><a href="10-groove-pvc-wall-panel.php">10 Groove PVC Wall Panel</a></li>
-											<li><a href="sumo-pvc-wall-panel.php">SUMO PVC Wall Panel</a></li>
+											<li><a href="2-groove-pvc-wall-panel">2 Groove PVC Wall Panel</a></li>
+											<li><a href="9-groove-pvc-wall-panel">9 Groove PVC Wall Panel</a></li>
+											<li><a href="10-groove-pvc-wall-panel">10 Groove PVC Wall Panel</a></li>
+											<li><a href="sumo-pvc-wall-panel">SUMO PVC Wall Panel</a></li>
 										</ul>
 									</li>
 									<li class="<?php echo ($current_page == 'application.php') ? 'active' : ''; ?>">
-										<a href="application.php">APPLICATION</a>
+										<a href="application">APPLICATION</a>
 									</li>
 									<li class="<?php echo ($current_page == 'quality.php') ? 'active' : ''; ?>">
-										<a href="quality.php">QUALITY</a>
+										<a href="quality">QUALITY</a>
 									</li>
 									<li class="<?php echo ($current_page == 'about-us.php') ? 'active' : ''; ?>">
-										<a href="about-us.php">ABOUT US</a>
+										<a href="about-us">ABOUT US</a>
 									</li>
 									<li
 										class="dropdown <?php echo (in_array($current_page, ['downloads.php', 'installation-tips.php', 'cleaning-care-tips.php'])) ? 'active' : ''; ?>">
 										<a href="#">RESOURCES</a>
 										<ul>
-											<li><a href="downloads.php">Downloads</a></li>
-											<li><a href="installation-tips.php">Installation Tips</a></li>
-											<li><a href="cleaning-care-tips.php">Cleaning and Care</a></li>
+											<li><a href="downloads">Downloads</a></li>
+											<li><a href="installation-tips">Installation Tips</a></li>
+											<li><a href="cleaning-care-tips">Cleaning and Care</a></li>
 										</ul>
 									</li>
 									<li class="<?php echo ($current_page == 'contact-us.php') ? 'active' : ''; ?>">
-										<a href="contact-us.php">CONTACT US</a>
+										<a href="contact-us">CONTACT US</a>
 									</li>
 								</ul>
 							</div>
@@ -118,9 +117,9 @@
 				</div>
 				<div class="pbmit-right-box d-flex align-items-center">
 					<div class="pbmit-button-box-second">
-						<a class="pbmit-btn pbmit-btn-outline" href="#">
+						<a class="pbmit-btn pbmit-btn-outline" href="contact-us">
 							<span class="pbmit-button-content-wrapper">
-								<span class="pbmit-button-text">Explore Products</span>
+								<span class="pbmit-button-text">Get In Touch</span>
 							</span>
 						</a>
 					</div>

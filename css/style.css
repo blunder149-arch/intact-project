@@ -4199,6 +4199,10 @@ textarea.form-control {
 	z-index: 1;
 }
 
+.pbmit-slider-three .pbmit-slider-bg {
+	background-position: center 60% !important;
+}
+
 .pbmit-slider-three .pbmit-slider-item .container {
 	position: relative;
 	z-index: 2;
@@ -4206,17 +4210,23 @@ textarea.form-control {
 
 .pbmit-slider-three .pbmit-slider-content {
 	position: relative !important;
-	padding: 0 !important;
+	padding: 0 0 15px 0 !important;
 	width: 100% !important;
 	max-width: 900px !important;
 	margin: 0 auto !important;
 	background: transparent !important;
 	text-align: center !important;
 	border-radius: 0 !important;
+	overflow: visible !important;
 }
 
 .pbmit-slider-three .pbmit-slider-content:after {
 	display: none !important;
+}
+
+.pbmit-slider-three .pbmit-button-wrap {
+	overflow: visible !important;
+	padding: 6px 0 !important;
 }
 
 .pbmit-slider-three .pbmit-slider-content .pbmit-title {
@@ -4240,8 +4250,15 @@ textarea.form-control {
 }
 
 .pbmit-slider-three .pbmit-slider-content .pbmit-btn-outline {
-	border-color: #ffffff !important;
+	border: 1.5px solid #ffffff !important;
 	color: #ffffff !important;
+	display: inline-flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+	padding: 12px 32px !important;
+	line-height: 24px !important;
+	border-radius: 30px !important;
+	box-sizing: border-box !important;
 }
 
 .pbmit-slider-three .pbmit-slider-content .pbmit-btn-outline:hover {
@@ -4281,7 +4298,8 @@ textarea.form-control {
 	position: relative !important;
 	overflow: hidden !important;
 	border-radius: 24px !important;
-	transition: box-shadow 0.5s ease, transform 0.4s ease !important;
+	transform: none !important;
+	transition: box-shadow 0.5s ease !important;
 }
 
 .pbmit-portfolio-style-1 .pbmit-featured-wrapper img {
@@ -4290,15 +4308,16 @@ textarea.form-control {
 	object-fit: cover !important;
 	object-position: center !important;
 	border-radius: 24px !important;
-	transform: scale(1) !important;
-	transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1) !important;
+	transform: none !important;
+	transition: none !important;
 }
 
 .pbmit-portfolio-style-1:hover .pbmit-featured-wrapper img {
-	transform: scale(1.09) !important;
+	transform: none !important;
 }
 
 .pbmit-portfolio-style-1:hover .pbmit-featured-wrapper {
+	transform: none !important;
 	box-shadow: 0 16px 36px rgba(0, 0, 0, 0.22) !important;
 }
 
@@ -4356,7 +4375,7 @@ textarea.form-control {
 .pbmit-product-circle-btn:hover {
 	background-color: #ffffff !important;
 	color: #bb9a65 !important;
-	transform: scale(1.08) !important;
+	transform: none !important;
 	box-shadow: none !important;
 }
 
@@ -4468,12 +4487,14 @@ textarea.form-control {
 	line-height: 1.6 !important;
 }
 
-.site-footer.footer-style-1 .pbmit-contact-widget-email a {
+.site-footer.footer-style-1 .pbmit-contact-widget-email a,
+.site-footer.footer-style-1 .pbmit-contact-widget-phone a {
 	color: rgba(255, 255, 255, 0.85) !important;
 	transition: color 0.3s ease !important;
 }
 
-.site-footer.footer-style-1 .pbmit-contact-widget-email a:hover {
+.site-footer.footer-style-1 .pbmit-contact-widget-email a:hover,
+.site-footer.footer-style-1 .pbmit-contact-widget-phone a:hover {
 	color: #bb9a65 !important;
 }
 
@@ -5993,11 +6014,12 @@ p {
 	padding: 35px 25px;
 	text-align: center;
 	box-shadow: none !important;
-	transition: transform 0.35s ease, border-color 0.35s ease;
+	transition: border-color 0.3s ease;
+	transform: none !important;
 }
 
 .contact-info-card:hover {
-	transform: translateY(-6px);
+	transform: none !important;
 	box-shadow: none !important;
 	border-color: var(--pbmit-global-color) !important;
 }
@@ -6013,13 +6035,14 @@ p {
 	justify-content: center !important;
 	font-size: 24px;
 	margin: 0 auto 20px;
-	transition: background-color 0.35s ease, color 0.35s ease, transform 0.35s ease;
+	transition: background-color 0.3s ease, color 0.3s ease;
+	transform: none !important;
 }
 
 .contact-info-card:hover .contact-info-icon-box {
-	background: var(--pbmit-global-color);
-	color: var(--pbmit-white-color);
-	transform: scale(1.05);
+	background: var(--pbmit-global-color) !important;
+	color: var(--pbmit-white-color) !important;
+	transform: none !important;
 }
 
 .contact-info-card h3 {
@@ -6453,4 +6476,17 @@ p {
 .download-catalog-btn:hover {
 	background: #4e3419;
 	color: #ffffff !important;
+}
+
+/* Remove circular arrow icon from all buttons site-wide */
+.pbmit-btn::after,
+.pbmit-button::after,
+.pbmit-button-wrapper::after,
+.pbmit-static-btn .pbmit-button-inner .pbmit-button-wrapper::after,
+.pbmit-ihbox-btn .pbmit-button-inner .pbmit-button-wrapper::after {
+	display: none !important;
+}
+
+.site-header .pbmit-right-box .pbmit-button-box-second {
+	padding-right: 0 !important;
 }

@@ -4,34 +4,34 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>PVC Wall & Ceiling Panel Installation Guide & Tips | INTACT India</title>
+	<title>PVC Wall & Ceiling Panel Installation Guide in India | Intact Design Extrusion</title>
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="description"
-		content="Step-by-step PVC wall & ceiling panel installation guide from INTACT India. Learn surface preparation, interlocking tongue & groove fitting, cutting & finishing tips.">
+		content="Step-by-step PVC wall & ceiling panel installation guide in India by Intact Design Extrusion. Learn surface preparation, interlocking tongue & groove fitting, and finishing tips across India.">
 	<meta name="keywords"
-		content="PVC panel installation guide, how to install PVC wall panels India, PVC false ceiling installation steps, tongue and groove panel fitting, PVC panel corner joint installation, INTACT installation tips">
+		content="PVC panel installation guide India, how to install PVC wall panels India, PVC false ceiling installation steps India, tongue and groove panel fitting, PVC panel corner joint installation India, Intact Design Extrusion installation tips">
 	<meta name="geo.region" content="IN">
 	<meta name="geo.placename" content="India">
-	<meta name="author" content="INTACT Design & Extrusion">
+	<meta name="author" content="Intact Design Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="canonical" href="https://intactdesign.com/installation-tips.php">
+	<link rel="canonical" href="https://intactdesign.com/installation-tips">
 
 	<!-- Open Graph / Facebook / WhatsApp SEO -->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://intactdesign.com/installation-tips.php">
-	<meta property="og:title" content="PVC Wall & Ceiling Panel Installation Guide & Tips | INTACT India">
+	<meta property="og:url" content="https://intactdesign.com/installation-tips">
+	<meta property="og:title" content="PVC Wall & Ceiling Panel Installation Guide in India | Intact Design Extrusion">
 	<meta property="og:description"
-		content="Step-by-step PVC wall & ceiling panel installation guide from INTACT India. Learn surface preparation, interlocking tongue & groove fitting, cutting & finishing tips.">
+		content="Step-by-step PVC wall & ceiling panel installation guide in India by Intact Design Extrusion. Learn surface preparation, interlocking tongue & groove fitting, and finishing tips across India.">
 	<meta property="og:image" content="https://intactdesign.com/images/product/about1.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="INTACT Design & Extrusion">
+	<meta property="og:site_name" content="Intact Design Extrusion">
 
 	<!-- Twitter Card SEO -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="PVC Wall & Ceiling Panel Installation Guide & Tips | INTACT India">
+	<meta name="twitter:title" content="PVC Wall & Ceiling Panel Installation Guide in India | Intact Design Extrusion">
 	<meta name="twitter:description"
-		content="Step-by-step PVC wall & ceiling panel installation guide from INTACT India. Learn surface preparation, interlocking tongue & groove fitting, cutting & finishing tips.">
+		content="Step-by-step PVC wall & ceiling panel installation guide in India by Intact Design Extrusion. Learn surface preparation, interlocking tongue & groove fitting, and finishing tips across India.">
 	<meta name="twitter:image" content="https://intactdesign.com/images/product/about1.jpg">
 
 	<!-- Schema.org JSON-LD Structured Data for HowTo, Breadcrumbs & FAQs -->
@@ -41,9 +41,9 @@
 	  "@graph": [
 	    {
 	      "@type": "HowTo",
-	      "@id": "https://intactdesign.com/installation-tips.php#howto",
-	      "name": "How to Install PVC Wall & Ceiling Panels",
-	      "description": "Comprehensive step-by-step guide for installing interlocking PVC wall panels and false ceiling panels with professional precision.",
+	      "@id": "https://intactdesign.com/installation-tips#howto",
+	      "name": "How to Install PVC Wall & Ceiling Panels | Intact Design Extrusion",
+	      "description": "Comprehensive step-by-step guide for installing interlocking PVC wall panels and false ceiling panels with professional precision by Intact Design Extrusion.",
 	      "step": [
 	        {
 	          "@type": "HowToStep",
@@ -73,7 +73,7 @@
 	    },
 	    {
 	      "@type": "BreadcrumbList",
-	      "@id": "https://intactdesign.com/installation-tips.php#breadcrumb",
+	      "@id": "https://intactdesign.com/installation-tips#breadcrumb",
 	      "itemListElement": [
 	        {
 	          "@type": "ListItem",
@@ -85,53 +85,7 @@
 	          "@type": "ListItem",
 	          "position": 2,
 	          "name": "Installation Tips",
-	          "item": "https://intactdesign.com/installation-tips.php"
-	        }
-	      ]
-	    },
-	    {
-	      "@type": "FAQPage",
-	      "@id": "https://intactdesign.com/installation-tips.php#faq",
-	      "mainEntity": [
-	        {
-	          "@type": "Question",
-	          "name": "Can INTACT PVC panels be installed directly over damp or uneven walls?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Yes! Because INTACT panels are waterproof and moisture-resistant, they can be mounted onto wooden, GI, or aluminum battens over damp walls, completely concealing dampness without the risk of rot or peeling."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "What tools are required to install PVC wall and ceiling panels?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Standard installation requires basic tools: a measuring tape, spirit level, fine-tooth saw or utility knife for clean cuts, cordless drill/screwdriver, screws or staples, and silicone sealant."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "How does the tongue-and-groove interlocking mechanism work?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Each panel features an engineered tongue edge and groove edge. The fastening screws are placed through the nailing flange and are completely concealed when the next panel slides seamlessly into place."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Can recessed LED spot lights and ceiling fans be fitted with INTACT ceiling panels?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "Yes. Circular cutouts for LED downlights are easily made using a hole saw. Heavy ceiling fans and chandeliers must always be anchored directly to the primary ceiling slab or framework, not supported by the panels alone."
-	          }
-	        },
-	        {
-	          "@type": "Question",
-	          "name": "Do I need wooden or metal battens before fixing panels?",
-	          "acceptedAnswer": {
-	            "@type": "Answer",
-	            "text": "On flat, even plaster walls, panels can be bonded directly using high-grab hybrid polymer adhesive. On uneven, rough brick, or ceiling installations, a timber or GI metal framing grid (spaced 300mm to 400mm) is recommended."
-	          }
+	          "item": "https://intactdesign.com/installation-tips"
 	        }
 	      ]
 	    }
@@ -199,7 +153,7 @@
 							<div class="pbmit-breadcrumb">
 								<div class="pbmit-breadcrumb-inner">
 									<span>
-										<a title="INTACT - Interior Design & Extrusions" href="index.php" class="home"><span>Home</span></a>
+										<a title="Intact Design Extrusion" href="./" class="home"><span>Home</span></a>
 										<span class="sep">
 											<i class="pbmit-base-icon-angle-right"></i>
 										</span>
@@ -363,208 +317,7 @@
 			</section>
 			<!-- Portfolio End --> 
 
-			<!-- Installation FAQs Section Start -->
-			<section class="section-xl" style="background-color: #ffffff; padding: 75px 0; border-top: 1px solid #e8e2d8;">
-				<div class="container">
-					<div class="pbmit-heading-subheading text-center animation-style2">
-						<h4 class="pbmit-subtitle">FREQUENTLY ASKED QUESTIONS</h4>
-						<h2 class="pbmit-title">PVC Panel Installation FAQs</h2>
-						<div class="pbmit-heading-desc mx-auto" style="max-width: 680px;">
-							Answers to common contractor, architect, and homeowner questions about installing INTACT PVC wall and ceiling panels.
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12 col-xl-6">
-							<div class="pe-xl-3">
-								<div class="accordion" id="accordionInstallCol1">
-									<div class="accordion-item active">
-										<h2 class="accordion-header" id="headingInstall1">
-											<button class="accordion-button" type="button" data-bs-toggle="collapse"
-												data-bs-target="#collapseInstall1" aria-expanded="true"
-												aria-controls="collapseInstall1">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													1. Can INTACT panels be installed over damp or uneven walls?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseInstall1" class="accordion-collapse collapse show"
-											aria-labelledby="headingInstall1" data-bs-parent="#accordionInstallCol1">
-											<div class="accordion-body">
-												Yes! Because INTACT panels are waterproof and moisture-resistant, they can be mounted onto wooden, GI, or aluminum battens over damp walls, completely concealing dampness without the risk of rot or peeling.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingInstall2">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseInstall2"
-												aria-expanded="false" aria-controls="collapseInstall2">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													2. What tools are required for PVC panel installation?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseInstall2" class="accordion-collapse collapse"
-											aria-labelledby="headingInstall2" data-bs-parent="#accordionInstallCol1">
-											<div class="accordion-body">
-												Standard installation requires basic tools: a measuring tape, spirit level, fine-tooth saw or utility knife for clean cuts, cordless drill/screwdriver, screws or staples, and silicone sealant.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingInstall3">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseInstall3"
-												aria-expanded="false" aria-controls="collapseInstall3">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													3. How does the tongue-and-groove joint work?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseInstall3" class="accordion-collapse collapse"
-											aria-labelledby="headingInstall3" data-bs-parent="#accordionInstallCol1">
-											<div class="accordion-body">
-												Each panel features an engineered tongue edge and groove edge. The fastening screws are placed through the nailing flange and are completely concealed when the next panel slides seamlessly into place.
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-12 col-xl-6">
-							<div class="ps-xl-3">
-								<div class="accordion" id="accordionInstallCol2">
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingInstall4">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseInstall4"
-												aria-expanded="false" aria-controls="collapseInstall4">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													4. Can LED downlights and fans be installed with PVC ceiling panels?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseInstall4" class="accordion-collapse collapse"
-											aria-labelledby="headingInstall4" data-bs-parent="#accordionInstallCol2">
-											<div class="accordion-body">
-												Yes. Circular cutouts for LED downlights are easily made using a hole saw. Heavy ceiling fans and chandeliers must always be anchored directly to the primary ceiling slab or framework, not supported by the panels alone.
-											</div>
-										</div>
-									</div>
-									<div class="accordion-item">
-										<h2 class="accordion-header" id="headingInstall5">
-											<button class="accordion-button collapsed" type="button"
-												data-bs-toggle="collapse" data-bs-target="#collapseInstall5"
-												aria-expanded="false" aria-controls="collapseInstall5">
-												<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-													<span class="pbmit-accordion-icon-closed">
-														<svg class="e-font-icon-svg e-fas-plus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-													<span class="pbmit-accordion-icon-opened">
-														<svg class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512"
-															xmlns="../../www.w3.org/2000/svg.html">
-															<path
-																d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z">
-															</path>
-														</svg>
-													</span>
-												</span>
-												<span class="pbmit-accordion-title">
-													5. Do I need wooden or metal battens before fixing panels?
-												</span>
-											</button>
-										</h2>
-										<div id="collapseInstall5" class="accordion-collapse collapse"
-											aria-labelledby="headingInstall5" data-bs-parent="#accordionInstallCol2">
-											<div class="accordion-body">
-												On flat, even plaster walls, panels can be bonded directly using high-grab hybrid polymer adhesive. On uneven, rough brick, or ceiling installations, a timber or GI metal framing grid (spaced 300mm to 400mm) is recommended.
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- Installation FAQs Section End -->
+
 		</div>
 		<!-- page content End -->
 
@@ -579,10 +332,10 @@
 						</p>
 						<div
 							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
-							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+							<a href="contact-us" class="pbmit-cta-btn pbmit-cta-btn-outline">
 								<span>Get in Touch</span>
 							</a>
-							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+							<a href="downloads" class="pbmit-cta-btn pbmit-cta-btn-primary">
 								<span>Download Catalogue</span>
 							</a>
 

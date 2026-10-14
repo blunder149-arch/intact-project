@@ -180,8 +180,23 @@
 					}
 					}
 				});
+				if (carouselElement.hasClass('pbmit-slider-area') || carouselElement.find('.pbmit-slider-content').length) {
+					var bannerAnimations = function () {
+						carouselElement.find('.transform-left, .transform-right, .transform-bottom, .transform-center, .transform-top').each(function () {
+							var item = $(this);
+							item.removeClass('pbmit-banner-animation');
+							void this.offsetWidth;
+							item.addClass('pbmit-banner-animation');
+						});
+					};
+					bannerAnimations();
+					setTimeout(bannerAnimations, 100);
+					swiper.on('slideChangeTransitionStart', function () {
+						bannerAnimations();
+					});
+				}
 				if(val_dots_outside === true) {
-					$( '.pbmit-element-viewtype-carousel-' + x + ' .swiper-wrapper' ).wrap( "<div class='overflow-hidden'></div>" );					 
+					$( '.pbmit-element-viewtype-carousel-' + x + ' .swiper-wrapper' ).wrap( "<div class='overflow-hidden'></div>" );				 
 				}
 			}
 		x = x + 1;             
@@ -547,46 +562,181 @@
 })($);
 
 	/*-------------------------------------
-	Contact form validator
+	Contact form AJAX Submission & Validation
 	-------------------------------------*/
-		if ( $.isFunction($.fn.validate) ) {
-		$("#contact-form").validate(); 
+	// Restrict phone field to digits only
+	$(document).on("input", "#contact-form input[name='phone']", function() {
+		this.value = this.value.replace(/[^0-9]/g, '');
+	});
+
+	$("#contact-form").on("submit", function(e) {
+		e.preventDefault();
+
+		var $form = $(this);
+		var $btn = $form.find("button[type='submit']");
+		var $btnText = $btn.find(".btn-text");
+		var $loader = $btn.find(".form-btn-loader");
+		var $status = $form.find(".message-status");
+
+		var name = $.trim($form.find("input[name='name']").val());
+		var phone = $.trim($form.find("input[name='phone']").val());
+		var email = $.trim($form.find("input[name='email']").val());
+		var product = $.trim($form.find("select[name='product']").val());
+		var message = $.trim($form.find("textarea[name='message']").val());
+
+		// Client-side validations
+		if (!name || name.length < 2) {
+			if (typeof Swal !== "undefined") {
+				Swal.fire({
+					title: "Name Required",
+					text: "Please enter your full name (minimum 2 characters).",
+					icon: "warning",
+					draggable: true,
+					confirmButtonColor: "#bb9a65"
+				});
+			} else {
+				$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> Please enter your name (minimum 2 characters).</div>');
+			}
+			$form.find("input[name='name']").focus();
+			return false;
 		}
 
-
-    /*-------------------------------------
-	Send email via Ajax
-	Make sure you configure send.php file 
-     -------------------------------------*/
-	$("#contact-form").submit(function(){
-	
-	if( $("#contact-form .doing-via-ajax").length == 0 ){
-		$("#contact-form").prepend('<input class="doing-via-ajax" type="hidden" name="doing-via-ajax" value="yes" />');;
-	}
-	
-	if( $("#contact-form").valid() ){  // check if form is valid
-	
-		$(".contact-form .message-status").html('');
-		$('.form-btn-loader').removeClass('d-none');
-		$('.contact-form button.pbmit-btn span').hide();
-		$('.contact-form button.pbmit-btn').attr("disabled", "disabled");
-	
-		$.ajax( {
-		type: "POST",
-		url: "send-dummy.php",
-		data:$('#contact-form').serialize(),
-		success: function(cevap) {
-			$('.form-btn-loader').addClass('d-none');
-			$('.contact-form button.pbmit-btn span').show();
-			$(".contact-form button.pbmit-btn").removeAttr("disabled");
-			$(".contact-form .message-status").html(cevap);
+		var cleanPhone = phone.replace(/[^0-9]/g, '');
+		if (cleanPhone.length === 12 && cleanPhone.indexOf('91') === 0) {
+			cleanPhone = cleanPhone.substring(2);
 		}
+		if (!cleanPhone || !/^[0-9]{10}$/.test(cleanPhone)) {
+			if (typeof Swal !== "undefined") {
+				Swal.fire({
+					title: "Invalid Phone Number",
+					text: "Please enter a valid 10-digit mobile number.",
+					icon: "warning",
+					draggable: true,
+					confirmButtonColor: "#bb9a65"
+				});
+			} else {
+				$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> Please enter a valid 10-digit mobile number.</div>');
+			}
+			$form.find("input[name='phone']").focus();
+			return false;
+		}
+
+		var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+		if (!email || !emailRegex.test(email)) {
+			if (typeof Swal !== "undefined") {
+				Swal.fire({
+					title: "Invalid Email",
+					text: "Please enter a valid email address.",
+					icon: "warning",
+					draggable: true,
+					confirmButtonColor: "#bb9a65"
+				});
+			} else {
+				$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> Please enter a valid email address.</div>');
+			}
+			$form.find("input[name='email']").focus();
+			return false;
+		}
+
+		if (!product) {
+			if (typeof Swal !== "undefined") {
+				Swal.fire({
+					title: "Product Required",
+					text: "Please select a product category from the dropdown.",
+					icon: "warning",
+					draggable: true,
+					confirmButtonColor: "#bb9a65"
+				});
+			} else {
+				$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> Please select a product category.</div>');
+			}
+			$form.find("select[name='product']").focus();
+			return false;
+		}
+
+		if (!message || message.length < 5) {
+			if (typeof Swal !== "undefined") {
+				Swal.fire({
+					title: "Message Required",
+					text: "Please enter your requirements (minimum 5 characters).",
+					icon: "warning",
+					draggable: true,
+					confirmButtonColor: "#bb9a65"
+				});
+			} else {
+				$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> Please enter your requirements (minimum 5 characters).</div>');
+			}
+			$form.find("textarea[name='message']").focus();
+			return false;
+		}
+
+		// Disable submit button & show loading indicator
+		$status.html('');
+		$btn.prop("disabled", true);
+		$btnText.text("Submitting...");
+		$loader.removeClass("d-none");
+
+		$.ajax({
+			type: "POST",
+			url: $form.attr("action") || "send-mail.php",
+			data: $form.serialize(),
+			dataType: "json",
+			success: function(response) {
+				$loader.addClass("d-none");
+				$btn.prop("disabled", false);
+				$btnText.text("Submit Product Enquiry");
+
+				$status.html('');
+
+				if (response && response.status === "success") {
+					$form[0].reset();
+
+					if (typeof Swal !== "undefined") {
+						Swal.fire({
+							title: "Enquiry Submitted!",
+							text: response.message,
+							icon: "success",
+							draggable: true,
+							confirmButtonColor: "#bb9a65"
+						});
+					}
+				} else {
+					var errorMsg = (response && response.message) ? response.message : "Something went wrong. Please try again.";
+
+					if (typeof Swal !== "undefined") {
+						Swal.fire({
+							title: "Oops...",
+							text: errorMsg,
+							icon: "error",
+							draggable: true,
+							confirmButtonColor: "#bb9a65"
+						});
+					} else {
+						$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> ' + errorMsg + '</div>');
+					}
+				}
+			},
+			error: function() {
+				$loader.addClass("d-none");
+				$btn.prop("disabled", false);
+				$btnText.text("Submit Product Enquiry");
+				$status.html('');
+
+				if (typeof Swal !== "undefined") {
+					Swal.fire({
+						title: "Server Error",
+						text: "Could not connect to the server. Please call us directly.",
+						icon: "error",
+						draggable: true,
+						confirmButtonColor: "#bb9a65"
+					});
+				} else {
+					$status.html('<div class="alert alert-danger py-2 mb-0" role="alert" style="font-size: 14px;"><i class="pbmit-base-icon-close me-1"></i> Server error occurred. Please call +91 97126 09685 directly.</div>');
+				}
+			}
 		});
-		
-	}
-	
-	return false;
-	
+
+		return false;
 	});
 
     /*-------------------------------------

@@ -4,34 +4,34 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Premium PVC Wall & Ceiling Panels Manufacturer | INTACT</title>
+	<title>PVC Wall & Ceiling Panels Manufacturer in India | Intact Design Extrusion</title>
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<meta name="description"
-		content="Leading manufacturer of premium PVC wall & ceiling panels in India. INTACT offers waterproof, termite-proof & fire-retardant interior panel solutions.">
+		content="Leading manufacturer of premium PVC wall & ceiling panels in India. Intact Design Extrusion offers waterproof, termite-proof & fire-retardant interior panel solutions across India.">
 	<meta name="keywords"
-		content="PVC wall panels India, PVC ceiling panels India, PVC panel manufacturer in India, waterproof wall panels India, fluted wall panels India, PVC false ceiling India, PVC extrusion India, decorative wall panels, INTACT Design">
+		content="PVC wall panels India, PVC ceiling panels India, PVC panel manufacturer in India, waterproof wall panels India, fluted wall panels India, PVC false ceiling India, PVC extrusion India, decorative wall panels India, Intact Design Extrusion">
 	<meta name="geo.region" content="IN">
 	<meta name="geo.placename" content="India">
-	<meta name="author" content="INTACT Design & Extrusion">
+	<meta name="author" content="Intact Design Extrusion">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="canonical" href="https://intactdesign.com/">
 
 	<!-- Open Graph / Facebook / WhatsApp SEO -->
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://intactdesign.com/">
-	<meta property="og:title" content="Premium PVC Wall & Ceiling Panels Manufacturer | INTACT">
+	<meta property="og:title" content="PVC Wall & Ceiling Panels Manufacturer in India | Intact Design Extrusion">
 	<meta property="og:description"
-		content="Transform interiors with waterproof, fire-retardant, and termite-proof PVC wall and ceiling panels by INTACT. Explore collection.">
+		content="Transform interiors with waterproof, fire-retardant, and termite-proof PVC wall and ceiling panels by Intact Design Extrusion. Explore collection across India.">
 	<meta property="og:image" content="https://intactdesign.com/images/product/wall-panel3.jpg">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
-	<meta property="og:site_name" content="INTACT Design & Extrusion">
+	<meta property="og:site_name" content="Intact Design Extrusion">
 
 	<!-- Twitter Card SEO -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Premium PVC Wall & Ceiling Panels Manufacturer | INTACT">
+	<meta name="twitter:title" content="PVC Wall & Ceiling Panels Manufacturer in India | Intact Design Extrusion">
 	<meta name="twitter:description"
-		content="Explore INTACT's PVC wall & ceiling panels. Waterproof, durable & stylish interior solutions for modern spaces.">
+		content="Explore Intact Design Extrusion's PVC wall & ceiling panels. Waterproof, durable & stylish interior solutions for modern spaces.">
 	<meta name="twitter:image" content="https://intactdesign.com/images/product/wall-panel3.jpg">
 
 	<!-- Schema.org JSON-LD Structured Data for Google Ranking -->
@@ -42,17 +42,17 @@
 	    {
 	      "@type": "Organization",
 	      "@id": "https://intactdesign.com/#organization",
-	      "name": "INTACT Design & Extrusion",
-	      "alternateName": "INTACT PVC Panels India",
+	      "name": "Intact Design Extrusion",
+	      "alternateName": "Intact Design Extrusion PVC Panels India",
 	      "url": "https://intactdesign.com/",
 	      "logo": {
 	        "@type": "ImageObject",
 	        "url": "https://intactdesign.com/images/intact-logo.png",
-	        "caption": "INTACT PVC Wall and Ceiling Panels Manufacturer India"
+	        "caption": "Intact Design Extrusion PVC Wall and Ceiling Panels Manufacturer India"
 	      },
 	      "contactPoint": {
 	        "@type": "ContactPoint",
-	        "telephone": "+91-1234567890",
+	        "telephone": "+91-9712609685",
 	        "contactType": "sales",
 	        "areaServed": {
 	          "@type": "Country",
@@ -62,6 +62,10 @@
 	      },
 	      "address": {
 	        "@type": "PostalAddress",
+	        "streetAddress": "Plot No. 5, Srv. No. 101, Rakholi Ind. Estate, Rakholi Village",
+	        "addressLocality": "Silvassa",
+	        "postalCode": "396230",
+	        "addressRegion": "UT of DNH & DD",
 	        "addressCountry": "IN"
 	      },
 	      "description": "Leading manufacturer and pan-India supplier of premium PVC wall panels and PVC ceiling panels, engineered for waterproofing, termite resistance, and fire retardancy.",
@@ -93,7 +97,7 @@
 	      "@type": "WebSite",
 	      "@id": "https://intactdesign.com/#website",
 	      "url": "https://intactdesign.com/",
-	      "name": "INTACT Design & Extrusion",
+	      "name": "Intact Design Extrusion",
 	      "inLanguage": "en-IN",
 	      "publisher": {
 	        "@id": "https://intactdesign.com/#organization"
@@ -151,7 +155,7 @@
 						<!-- Slide1 -->
 						<div class="swiper-slide">
 							<div class="pbmit-slider-item">
-								<div class="pbmit-slider-bg" style="background-image: url(images/slider-1.png);"></div>
+								<div class="pbmit-slider-bg" style="background-image: url(images/banner-wide-1.jpg);"></div>
 								<div class="container">
 									<div class="row justify-content-center">
 										<div class="col-lg-10 text-center">
@@ -163,7 +167,7 @@
 													and ceiling panels engineered for modern residential and commercial interiors.
 												</p>
 												<div class="pbmit-button-wrap transform-bottom transform-delay-5 mt-4">
-													<a class="pbmit-btn pbmit-btn-outline" href="2-groove-pvc-ceiling-panel.php">
+													<a class="pbmit-btn pbmit-btn-outline" href="2-groove-pvc-ceiling-panel">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-text">Explore Products</span>
 														</span>
@@ -178,7 +182,7 @@
 						<!-- Slide2 -->
 						<div class="swiper-slide">
 							<div class="pbmit-slider-item">
-								<div class="pbmit-slider-bg" style="background-image: url(images/slider-2.png);"></div>
+								<div class="pbmit-slider-bg" style="background-image: url(images/banner-222.png);"></div>
 								<div class="container">
 									<div class="row justify-content-center">
 										<div class="col-lg-10 text-center">
@@ -190,7 +194,7 @@
 													resistance, and termite-proof protection — built to last for years.
 												</p>
 												<div class="pbmit-button-wrap transform-bottom transform-delay-5 mt-4">
-													<a class="pbmit-btn pbmit-btn-outline" href="2-groove-pvc-wall-panel.php">
+													<a class="pbmit-btn pbmit-btn-outline" href="2-groove-pvc-wall-panel">
 														<span class="pbmit-button-content-wrapper">
 															<span class="pbmit-button-text">Discover Collections</span>
 														</span>
@@ -292,9 +296,9 @@
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="2-groove-pvc-wall-panel.php">2 Groove PVC Wall Panel</a>
+												<a href="2-groove-pvc-wall-panel">2 Groove PVC Wall Panel</a>
 											</h3>
-											<a href="2-groove-pvc-wall-panel.php" class="pbmit-product-circle-btn" aria-label="2 Groove PVC Wall Panel">
+											<a href="2-groove-pvc-wall-panel" class="pbmit-product-circle-btn" aria-label="2 Groove PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
 													stroke-linejoin="round">
@@ -319,9 +323,9 @@
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="9-groove-pvc-wall-panel.php">9 Groove PVC Wall Panel</a>
+												<a href="9-groove-pvc-wall-panel">9 Groove PVC Wall Panel</a>
 											</h3>
-											<a href="9-groove-pvc-wall-panel.php" class="pbmit-product-circle-btn"
+											<a href="9-groove-pvc-wall-panel" class="pbmit-product-circle-btn"
 												aria-label="9 Groove PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
@@ -347,9 +351,9 @@
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="10-groove-pvc-wall-panel.php">10 Groove PVC Wall Panel</a>
+												<a href="10-groove-pvc-wall-panel">10 Groove PVC Wall Panel</a>
 											</h3>
-											<a href="10-groove-pvc-wall-panel.php" class="pbmit-product-circle-btn" aria-label="10 Groove PVC Wall Panel">
+											<a href="10-groove-pvc-wall-panel" class="pbmit-product-circle-btn" aria-label="10 Groove PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
 													stroke-linejoin="round">
@@ -374,9 +378,9 @@
 										<div
 											class="pbminfotech-titlebox d-flex align-items-center justify-content-between">
 											<h3 class="pbmit-portfolio-title mb-0">
-												<a href="sumo-pvc-wall-panel.php">SUMO PVC Wall Panel</a>
+												<a href="sumo-pvc-wall-panel">SUMO PVC Wall Panel</a>
 											</h3>
-											<a href="sumo-pvc-wall-panel.php" class="pbmit-product-circle-btn"
+											<a href="sumo-pvc-wall-panel" class="pbmit-product-circle-btn"
 												aria-label="SUMO PVC Wall Panel">
 												<svg width="20" height="20" viewBox="0 0 24 24" fill="none"
 													stroke="currentColor" stroke-width="2.8" stroke-linecap="round"
@@ -1002,10 +1006,10 @@
 						</p>
 						<div
 							class="pbmit-cta-buttons d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3">
-							<a href="contact-us.php" class="pbmit-cta-btn pbmit-cta-btn-outline">
+							<a href="contact-us" class="pbmit-cta-btn pbmit-cta-btn-outline">
 								<span>Get in Touch</span>
 							</a>
-							<a href="downloads.php" class="pbmit-cta-btn pbmit-cta-btn-primary">
+							<a href="downloads" class="pbmit-cta-btn pbmit-cta-btn-primary">
 								<span>Download Catalogue</span>
 							</a>
 							
